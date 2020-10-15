@@ -266,7 +266,7 @@ L allBonsaiSymbolLibs:R-device R9
 U 1 1 57F2FBEB
 P 3650 2250
 F 0 "R9" H 3720 2296 50  0000 L CNN
-F 1 "R" H 3720 2205 50  0000 L CNN
+F 1 "150" H 3720 2205 50  0000 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3580 2250 50  0001 C CNN
 F 3 "" H 3650 2250 50  0000 C CNN
 	1    3650 2250
@@ -593,47 +593,14 @@ F 3 "" H 4150 4050 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:7400 U2
-U 4 1 580F5956
-P 2650 5000
-F 0 "U2" H 2650 5050 50  0000 C CNN
-F 1 "7400" H 2650 4900 50  0000 C CNN
-F 2 "Housings_DIP:DIP-14_W7.62mm_LongPads" H 2650 5000 50  0001 C CNN
-F 3 "" H 2650 5000 50  0000 C CNN
-	4    2650 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:7400 U2
-U 1 1 580F5818
-P 2650 4200
-F 0 "U2" H 2650 4250 50  0000 C CNN
-F 1 "7400" H 2650 4100 50  0000 C CNN
-F 2 "Housings_DIP:DIP-14_W7.62mm_LongPads" H 2650 4200 50  0001 C CNN
-F 3 "" H 2650 4200 50  0000 C CNN
-	1    2650 4200
-	1    0    0    -1  
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:SWITCH_INV-bonsai SW1
-U 1 1 58100CBF
-P 1400 4600
-F 0 "SW1" H 1200 4750 50  0000 C CNN
-F 1 "UP_Bonsai_SWITCH_INV" H 1250 4450 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:SW_PUSH_LCD_E3_SAxxxx_tg_V2" H 1400 4600 50  0001 C CNN
-F 3 "" H 1400 4600 50  0000 C CNN
-	1    1400 4600
-	1    0    0    1   
-$EndComp
-$Comp
 L power:GND #PWR04
 U 1 1 58100E67
-P 900 4600
-F 0 "#PWR04" H 900 4350 50  0001 C CNN
-F 1 "GND" H 900 4450 50  0000 C CNN
-F 2 "" H 900 4600 50  0000 C CNN
-F 3 "" H 900 4600 50  0000 C CNN
-	1    900  4600
+P 650 4850
+F 0 "#PWR04" H 650 4600 50  0001 C CNN
+F 1 "GND" H 650 4700 50  0000 C CNN
+F 2 "" H 650 4850 50  0000 C CNN
+F 3 "" H 650 4850 50  0000 C CNN
+	1    650  4850
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -652,7 +619,7 @@ L allBonsaiSymbolLibs:R-device R11
 U 1 1 581018B2
 P 5850 3900
 F 0 "R11" V 5930 3900 50  0000 C CNN
-F 1 "R" V 5850 3900 50  0000 C CNN
+F 1 "150" V 5850 3900 50  0000 C CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5780 3900 50  0001 C CNN
 F 3 "" H 5850 3900 50  0000 C CNN
 	1    5850 3900
@@ -716,12 +683,12 @@ $EndComp
 $Comp
 L power:GND #PWR05
 U 1 1 58103EBB
-P 900 6650
-F 0 "#PWR05" H 900 6400 50  0001 C CNN
-F 1 "GND" H 900 6500 50  0000 C CNN
-F 2 "" H 900 6650 50  0000 C CNN
-F 3 "" H 900 6650 50  0000 C CNN
-	1    900  6650
+P 650 6450
+F 0 "#PWR05" H 650 6200 50  0001 C CNN
+F 1 "GND" H 650 6300 50  0000 C CNN
+F 2 "" H 650 6450 50  0000 C CNN
+F 3 "" H 650 6450 50  0000 C CNN
+	1    650  6450
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -776,14 +743,6 @@ Wire Wire Line
 	2050 6050 2050 6250
 Wire Wire Line
 	2050 6650 2050 6450
-Wire Wire Line
-	1900 4100 1900 4500
-Wire Wire Line
-	1900 5100 1900 4700
-Wire Wire Line
-	3250 4700 3250 5000
-Wire Wire Line
-	2050 4300 2050 4500
 Connection ~ 1300 3000
 Wire Wire Line
 	1550 3000 1300 3000
@@ -1012,19 +971,7 @@ Wire Wire Line
 Wire Wire Line
 	4950 4050 4850 4050
 Wire Wire Line
-	2050 4500 2650 4500
-Wire Wire Line
-	2650 4500 2650 4700
-Wire Wire Line
-	2650 4700 3250 4700
-Wire Wire Line
-	3250 4200 3250 4650
-Wire Wire Line
-	3250 4650 2050 4650
-Wire Wire Line
-	2050 4650 2050 4900
-Wire Wire Line
-	1900 4100 2050 4100
+	1800 5250 1900 5250
 Wire Wire Line
 	7600 3100 4650 3100
 Wire Wire Line
@@ -1148,7 +1095,7 @@ L allBonsaiSymbolLibs:R-device R10
 U 1 1 5810516E
 P 5650 6200
 F 0 "R10" V 5730 6200 50  0000 C CNN
-F 1 "R" V 5650 6200 50  0000 C CNN
+F 1 "150" V 5650 6200 50  0000 C CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5580 6200 50  0001 C CNN
 F 3 "" H 5650 6200 50  0000 C CNN
 	1    5650 6200
@@ -1193,15 +1140,15 @@ F 3 "" H 2800 1350 50  0000 C CNN
 	1    2800 1350
 	0    1    1    0   
 $EndComp
-Text GLabel 1900 5100 3    50   Input ~ 0
+Text GLabel 1800 4250 0    50   Input ~ 0
 RPA2
 Text GLabel 1900 5850 1    50   Input ~ 0
 RPA4
 Wire Wire Line
 	1900 5850 2050 5850
 Wire Wire Line
-	1900 5100 2050 5100
-Text GLabel 1900 4100 0    50   Input ~ 0
+	1800 4250 1900 4250
+Text GLabel 1800 5250 0    50   Input ~ 0
 RPA1
 Text GLabel 2950 3800 0    50   Input ~ 0
 RPB3
@@ -1488,11 +1435,6 @@ Wire Wire Line
 	10450 5650 10350 5650
 Wire Wire Line
 	10350 5750 10450 5750
-Wire Wire Line
-	3250 4700 3550 4700
-Wire Wire Line
-	3550 4150 3550 4700
-Connection ~ 3250 4700
 $Comp
 L power:GND #PWR0103
 U 1 1 5CB3EE61
@@ -1683,7 +1625,76 @@ $EndComp
 Wire Wire Line
 	1000 1400 1200 1400
 Wire Wire Line
-	900  6650 900  6350
+	650  6350 900  6350
+$Comp
+L allBonsaiSymbolLibs:SWITCH_INV-bonsai SW1
+U 1 1 5F89E939
+P 1400 4750
+F 0 "SW1" H 1200 4900 50  0000 C CNN
+F 1 "UP_Bonsai_SWITCH_INV" H 1250 4600 50  0000 C CNN
+F 2 "allBonsaiFootprintsLibs:SW_PUSH_LCD_E3_SAxxxx_tg_V2" H 1400 4750 50  0001 C CNN
+F 3 "" H 1400 4750 50  0000 C CNN
+	1    1400 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L allBonsaiSymbolLibs:7400 U2
+U 4 1 580F5956
+P 2650 4350
+F 0 "U2" H 2650 4400 50  0000 C CNN
+F 1 "7400" H 2650 4250 50  0000 C CNN
+F 2 "Housings_DIP:DIP-14_W7.62mm_LongPads" H 2650 4350 50  0001 C CNN
+F 3 "" H 2650 4350 50  0000 C CNN
+	4    2650 4350
+	1    0    0    1   
+$EndComp
+$Comp
+L allBonsaiSymbolLibs:7400 U2
+U 1 1 580F5818
+P 2650 5150
+F 0 "U2" H 2650 5200 50  0000 C CNN
+F 1 "7400" H 2650 5050 50  0000 C CNN
+F 2 "Housings_DIP:DIP-14_W7.62mm_LongPads" H 2650 5150 50  0001 C CNN
+F 3 "" H 2650 5150 50  0000 C CNN
+	1    2650 5150
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	1900 4650 1900 4250
+Connection ~ 1900 4250
+Wire Wire Line
+	1900 4250 2050 4250
+Wire Wire Line
+	1900 4850 1900 5250
+Connection ~ 1900 5250
+Wire Wire Line
+	1900 5250 2050 5250
+Wire Wire Line
+	3250 4350 3450 4350
+Wire Wire Line
+	3450 4350 3450 4150
+Wire Wire Line
+	3450 4150 3550 4150
+Wire Wire Line
+	3250 5150 3250 4850
+Wire Wire Line
+	3250 4850 2050 4650
+Wire Wire Line
+	2050 4650 2050 4450
+Wire Wire Line
+	3250 4350 3250 4650
+Wire Wire Line
+	3250 4650 2050 4850
+Wire Wire Line
+	2050 4850 2050 5050
+Connection ~ 3250 4350
+Connection ~ 3250 5950
+Wire Wire Line
+	900  4750 650  4750
+Wire Wire Line
+	650  4750 650  4850
+Wire Wire Line
+	650  6450 650  6350
 Wire Bus Line
 	6000 600  7400 600 
 Wire Bus Line
