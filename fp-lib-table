@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name allBonsaiFootprintsLibs)(type KiCad)(uri ${KIPRJMOD}/allBonsaiFootprintsLibs)(options "")(descr ""))
+  (lib (name tg_foodprint)(type KiCad)(uri C:/Users/Michael/Projekte/bonsai-kicad/archiveTG/tg_foodprint.pretty)(options "")(descr ""))
+  (lib (name bonsai)(type KiCad)(uri ${KIPRJMOD}/bonsai.pretty)(options "")(descr ""))
 )
