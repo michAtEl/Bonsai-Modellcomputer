@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L allBonsaiSymbolLibs:74LS138-74xx U5
+L allBonsaiSymbolLibs:74LS138-74xx U3
 U 1 1 57E936AE
 P 4950 3750
-F 0 "U5" H 4950 3850 50  0000 C CNN
+F 0 "U3" H 4950 3850 50  0000 C CNN
 F 1 "74LS138" H 4900 3750 50  0000 C CNN
 F 2 "Housings_DIP:DIP-16_W7.62mm_Socket_LongPads" H 4950 3750 50  0001 C CNN
 F 3 "" H 4950 3750 50  0000 C CNN
@@ -25,10 +25,10 @@ F 3 "" H 4950 3750 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R4
+L allBonsaiSymbolLibs:R-device R3
 U 1 1 57EA1677
 P 3250 5100
-F 0 "R4" H 3320 5146 50  0000 L CNN
+F 0 "R3" H 3320 5146 50  0000 L CNN
 F 1 "330" H 3320 5055 50  0000 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3180 5100 50  0001 C CNN
 F 3 "" H 3250 5100 50  0000 C CNN
@@ -36,10 +36,10 @@ F 3 "" H 3250 5100 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R6
+L allBonsaiSymbolLibs:R-device R4
 U 1 1 57EA1712
 P 3550 5100
-F 0 "R6" H 3620 5146 50  0000 L CNN
+F 0 "R4" H 3620 5146 50  0000 L CNN
 F 1 "330" H 3620 5055 50  0000 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3480 5100 50  0001 C CNN
 F 3 "" H 3550 5100 50  0000 C CNN
@@ -47,10 +47,10 @@ F 3 "" H 3550 5100 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R8
+L allBonsaiSymbolLibs:R-device R5
 U 1 1 57EA17C0
 P 3850 5100
-F 0 "R8" H 3920 5146 50  0000 L CNN
+F 0 "R5" H 3920 5146 50  0000 L CNN
 F 1 "330" H 3920 5055 50  0000 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3780 5100 50  0001 C CNN
 F 3 "" H 3850 5100 50  0000 C CNN
@@ -58,10 +58,10 @@ F 3 "" H 3850 5100 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R10
+L allBonsaiSymbolLibs:R-device R6
 U 1 1 57EA182F
 P 4150 5100
-F 0 "R10" H 4220 5146 50  0000 L CNN
+F 0 "R6" H 4220 5146 50  0000 L CNN
 F 1 "330" H 4220 5055 50  0000 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4080 5100 50  0001 C CNN
 F 3 "" H 4150 5100 50  0000 C CNN
@@ -69,10 +69,10 @@ F 3 "" H 4150 5100 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED-device D4
+L allBonsaiSymbolLibs:LED-device D43
 U 1 1 57EA26FF
 P 3250 5450
-F 0 "D4" V 3204 5528 50  0000 L CNN
+F 0 "D43" V 3204 5528 50  0000 L CNN
 F 1 "LED" V 3295 5528 50  0000 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 3250 5450 50  0001 C CNN
 F 3 "" H 3250 5450 50  0000 C CNN
@@ -80,10 +80,10 @@ F 3 "" H 3250 5450 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED-device D6
+L allBonsaiSymbolLibs:LED-device D44
 U 1 1 57EA28E7
 P 3550 5450
-F 0 "D6" V 3504 5528 50  0000 L CNN
+F 0 "D44" V 3504 5528 50  0000 L CNN
 F 1 "LED" V 3595 5528 50  0000 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 3550 5450 50  0001 C CNN
 F 3 "" H 3550 5450 50  0000 C CNN
@@ -91,10 +91,10 @@ F 3 "" H 3550 5450 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED-device D8
+L allBonsaiSymbolLibs:LED-device D45
 U 1 1 57EA2963
 P 3850 5450
-F 0 "D8" V 3804 5528 50  0000 L CNN
+F 0 "D45" V 3804 5528 50  0000 L CNN
 F 1 "LED" V 3895 5528 50  0000 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 3850 5450 50  0001 C CNN
 F 3 "" H 3850 5450 50  0000 C CNN
@@ -102,10 +102,10 @@ F 3 "" H 3850 5450 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED-device D10
+L allBonsaiSymbolLibs:LED-device D46
 U 1 1 57EA29EE
 P 4150 5450
-F 0 "D10" V 4104 5528 50  0000 L CNN
+F 0 "D46" V 4104 5528 50  0000 L CNN
 F 1 "LED" V 4195 5528 50  0000 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 4150 5450 50  0001 C CNN
 F 3 "" H 4150 5450 50  0000 C CNN
@@ -113,10 +113,10 @@ F 3 "" H 4150 5450 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR010
+L power:VCC #PWR013
 U 1 1 57EA3710
 P 3850 5650
-F 0 "#PWR010" H 3850 5500 50  0001 C CNN
+F 0 "#PWR013" H 3850 5500 50  0001 C CNN
 F 1 "VCC" H 3868 5823 50  0000 C CNN
 F 2 "" H 3850 5650 50  0000 C CNN
 F 3 "" H 3850 5650 50  0000 C CNN
@@ -124,10 +124,10 @@ F 3 "" H 3850 5650 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:VCC #PWR012
+L power:VCC #PWR014
 U 1 1 57EA3810
 P 4150 5650
-F 0 "#PWR012" H 4150 5500 50  0001 C CNN
+F 0 "#PWR014" H 4150 5500 50  0001 C CNN
 F 1 "VCC" H 4168 5823 50  0000 C CNN
 F 2 "" H 4150 5650 50  0000 C CNN
 F 3 "" H 4150 5650 50  0000 C CNN
@@ -135,10 +135,10 @@ F 3 "" H 4150 5650 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:VCC #PWR08
+L power:VCC #PWR012
 U 1 1 57EA3881
 P 3550 5650
-F 0 "#PWR08" H 3550 5500 50  0001 C CNN
+F 0 "#PWR012" H 3550 5500 50  0001 C CNN
 F 1 "VCC" H 3568 5823 50  0000 C CNN
 F 2 "" H 3550 5650 50  0000 C CNN
 F 3 "" H 3550 5650 50  0000 C CNN
@@ -146,10 +146,10 @@ F 3 "" H 3550 5650 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:VCC #PWR06
+L power:VCC #PWR011
 U 1 1 57EA38F2
 P 3250 5650
-F 0 "#PWR06" H 3250 5500 50  0001 C CNN
+F 0 "#PWR011" H 3250 5500 50  0001 C CNN
 F 1 "VCC" H 3268 5823 50  0000 C CNN
 F 2 "" H 3250 5650 50  0000 C CNN
 F 3 "" H 3250 5650 50  0000 C CNN
@@ -157,10 +157,10 @@ F 3 "" H 3250 5650 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:VCC #PWR031
+L power:VCC #PWR03
 U 1 1 57EA3963
 P 5600 1900
-F 0 "#PWR031" H 5600 1750 50  0001 C CNN
+F 0 "#PWR03" H 5600 1750 50  0001 C CNN
 F 1 "VCC" V 5617 2028 50  0000 L CNN
 F 2 "" H 5600 1900 50  0000 C CNN
 F 3 "" H 5600 1900 50  0000 C CNN
@@ -168,10 +168,10 @@ F 3 "" H 5600 1900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R2
+L allBonsaiSymbolLibs:R-device R8
 U 1 1 57F32782
 P 2900 7950
-F 0 "R2" H 2970 7996 50  0001 L CNN
+F 0 "R8" H 2970 7996 50  0001 L CNN
 F 1 "330" H 2970 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2830 7950 50  0001 C CNN
 F 3 "" H 2900 7950 50  0000 C CNN
@@ -179,10 +179,10 @@ F 3 "" H 2900 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D2
+L allBonsaiSymbolLibs:LED_Small-device D48
 U 1 1 57F32788
 P 2900 8200
-F 0 "D2" V 2854 8278 50  0001 L CNN
+F 0 "D48" V 2854 8278 50  0001 L CNN
 F 1 "LED" V 2945 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 2900 8200 50  0001 C CNN
 F 3 "" H 2900 8200 50  0000 C CNN
@@ -190,10 +190,10 @@ F 3 "" H 2900 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR04
+L power:VCC #PWR023
 U 1 1 57F3278E
 P 2900 8300
-F 0 "#PWR04" H 2900 8150 50  0001 C CNN
+F 0 "#PWR023" H 2900 8150 50  0001 C CNN
 F 1 "VCC" H 2918 8473 50  0000 C CNN
 F 2 "" H 2900 8300 50  0000 C CNN
 F 3 "" H 2900 8300 50  0000 C CNN
@@ -201,10 +201,10 @@ F 3 "" H 2900 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R3
+L allBonsaiSymbolLibs:R-device R9
 U 1 1 57F331A6
 P 3200 7950
-F 0 "R3" H 3270 7996 50  0001 L CNN
+F 0 "R9" H 3270 7996 50  0001 L CNN
 F 1 "330" H 3270 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3130 7950 50  0001 C CNN
 F 3 "" H 3200 7950 50  0000 C CNN
@@ -212,10 +212,10 @@ F 3 "" H 3200 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D3
+L allBonsaiSymbolLibs:LED_Small-device D49
 U 1 1 57F331AC
 P 3200 8200
-F 0 "D3" V 3154 8278 50  0001 L CNN
+F 0 "D49" V 3154 8278 50  0001 L CNN
 F 1 "LED" V 3245 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 3200 8200 50  0001 C CNN
 F 3 "" H 3200 8200 50  0000 C CNN
@@ -223,10 +223,10 @@ F 3 "" H 3200 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR05
+L power:VCC #PWR024
 U 1 1 57F331B2
 P 3200 8300
-F 0 "#PWR05" H 3200 8150 50  0001 C CNN
+F 0 "#PWR024" H 3200 8150 50  0001 C CNN
 F 1 "VCC" H 3218 8473 50  0000 C CNN
 F 2 "" H 3200 8300 50  0000 C CNN
 F 3 "" H 3200 8300 50  0000 C CNN
@@ -234,10 +234,10 @@ F 3 "" H 3200 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R5
+L allBonsaiSymbolLibs:R-device R10
 U 1 1 57F332F4
 P 3500 7950
-F 0 "R5" H 3570 7996 50  0001 L CNN
+F 0 "R10" H 3570 7996 50  0001 L CNN
 F 1 "330" H 3570 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3430 7950 50  0001 C CNN
 F 3 "" H 3500 7950 50  0000 C CNN
@@ -245,10 +245,10 @@ F 3 "" H 3500 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D5
+L allBonsaiSymbolLibs:LED_Small-device D50
 U 1 1 57F332FA
 P 3500 8200
-F 0 "D5" V 3454 8278 50  0001 L CNN
+F 0 "D50" V 3454 8278 50  0001 L CNN
 F 1 "LED" V 3545 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 3500 8200 50  0001 C CNN
 F 3 "" H 3500 8200 50  0000 C CNN
@@ -256,10 +256,10 @@ F 3 "" H 3500 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR07
+L power:VCC #PWR025
 U 1 1 57F33300
 P 3500 8300
-F 0 "#PWR07" H 3500 8150 50  0001 C CNN
+F 0 "#PWR025" H 3500 8150 50  0001 C CNN
 F 1 "VCC" H 3518 8473 50  0000 C CNN
 F 2 "" H 3500 8300 50  0000 C CNN
 F 3 "" H 3500 8300 50  0000 C CNN
@@ -267,10 +267,10 @@ F 3 "" H 3500 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R7
+L allBonsaiSymbolLibs:R-device R11
 U 1 1 57F34235
 P 3800 7950
-F 0 "R7" H 3870 7996 50  0001 L CNN
+F 0 "R11" H 3870 7996 50  0001 L CNN
 F 1 "330" H 3870 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3730 7950 50  0001 C CNN
 F 3 "" H 3800 7950 50  0000 C CNN
@@ -278,10 +278,10 @@ F 3 "" H 3800 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D7
+L allBonsaiSymbolLibs:LED_Small-device D51
 U 1 1 57F3423B
 P 3800 8200
-F 0 "D7" V 3754 8278 50  0001 L CNN
+F 0 "D51" V 3754 8278 50  0001 L CNN
 F 1 "LED" V 3845 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 3800 8200 50  0001 C CNN
 F 3 "" H 3800 8200 50  0000 C CNN
@@ -289,10 +289,10 @@ F 3 "" H 3800 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR09
+L power:VCC #PWR026
 U 1 1 57F34241
 P 3800 8300
-F 0 "#PWR09" H 3800 8150 50  0001 C CNN
+F 0 "#PWR026" H 3800 8150 50  0001 C CNN
 F 1 "VCC" H 3818 8473 50  0000 C CNN
 F 2 "" H 3800 8300 50  0000 C CNN
 F 3 "" H 3800 8300 50  0000 C CNN
@@ -300,10 +300,10 @@ F 3 "" H 3800 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R9
+L allBonsaiSymbolLibs:R-device R12
 U 1 1 57F34377
 P 4100 7950
-F 0 "R9" H 4170 7996 50  0001 L CNN
+F 0 "R12" H 4170 7996 50  0001 L CNN
 F 1 "330" H 4170 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4030 7950 50  0001 C CNN
 F 3 "" H 4100 7950 50  0000 C CNN
@@ -311,10 +311,10 @@ F 3 "" H 4100 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D9
+L allBonsaiSymbolLibs:LED_Small-device D52
 U 1 1 57F3437D
 P 4100 8200
-F 0 "D9" V 4054 8278 50  0001 L CNN
+F 0 "D52" V 4054 8278 50  0001 L CNN
 F 1 "LED" V 4145 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 4100 8200 50  0001 C CNN
 F 3 "" H 4100 8200 50  0000 C CNN
@@ -322,10 +322,10 @@ F 3 "" H 4100 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR011
+L power:VCC #PWR027
 U 1 1 57F34383
 P 4100 8300
-F 0 "#PWR011" H 4100 8150 50  0001 C CNN
+F 0 "#PWR027" H 4100 8150 50  0001 C CNN
 F 1 "VCC" H 4118 8473 50  0000 C CNN
 F 2 "" H 4100 8300 50  0000 C CNN
 F 3 "" H 4100 8300 50  0000 C CNN
@@ -333,10 +333,10 @@ F 3 "" H 4100 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R11
+L allBonsaiSymbolLibs:R-device R13
 U 1 1 57F34495
 P 4400 7950
-F 0 "R11" H 4470 7996 50  0001 L CNN
+F 0 "R13" H 4470 7996 50  0001 L CNN
 F 1 "330" H 4470 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4330 7950 50  0001 C CNN
 F 3 "" H 4400 7950 50  0000 C CNN
@@ -344,10 +344,10 @@ F 3 "" H 4400 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D11
+L allBonsaiSymbolLibs:LED_Small-device D53
 U 1 1 57F3449B
 P 4400 8200
-F 0 "D11" V 4354 8278 50  0001 L CNN
+F 0 "D53" V 4354 8278 50  0001 L CNN
 F 1 "LED" V 4445 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 4400 8200 50  0001 C CNN
 F 3 "" H 4400 8200 50  0000 C CNN
@@ -355,10 +355,10 @@ F 3 "" H 4400 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR015
+L power:VCC #PWR028
 U 1 1 57F344A1
 P 4400 8300
-F 0 "#PWR015" H 4400 8150 50  0001 C CNN
+F 0 "#PWR028" H 4400 8150 50  0001 C CNN
 F 1 "VCC" H 4418 8473 50  0000 C CNN
 F 2 "" H 4400 8300 50  0000 C CNN
 F 3 "" H 4400 8300 50  0000 C CNN
@@ -366,10 +366,10 @@ F 3 "" H 4400 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R13
+L allBonsaiSymbolLibs:R-device R14
 U 1 1 57F34799
 P 4700 7950
-F 0 "R13" H 4770 7996 50  0001 L CNN
+F 0 "R14" H 4770 7996 50  0001 L CNN
 F 1 "330" H 4770 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 7950 50  0001 C CNN
 F 3 "" H 4700 7950 50  0000 C CNN
@@ -377,10 +377,10 @@ F 3 "" H 4700 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D12
+L allBonsaiSymbolLibs:LED_Small-device D54
 U 1 1 57F3479F
 P 4700 8200
-F 0 "D12" V 4654 8278 50  0001 L CNN
+F 0 "D54" V 4654 8278 50  0001 L CNN
 F 1 "LED" V 4745 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 4700 8200 50  0001 C CNN
 F 3 "" H 4700 8200 50  0000 C CNN
@@ -388,10 +388,10 @@ F 3 "" H 4700 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR017
+L power:VCC #PWR029
 U 1 1 57F347A5
 P 4700 8300
-F 0 "#PWR017" H 4700 8150 50  0001 C CNN
+F 0 "#PWR029" H 4700 8150 50  0001 C CNN
 F 1 "VCC" H 4718 8473 50  0000 C CNN
 F 2 "" H 4700 8300 50  0000 C CNN
 F 3 "" H 4700 8300 50  0000 C CNN
@@ -399,10 +399,10 @@ F 3 "" H 4700 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R14
+L allBonsaiSymbolLibs:R-device R15
 U 1 1 57F347B1
 P 5000 7950
-F 0 "R14" H 5070 7996 50  0001 L CNN
+F 0 "R15" H 5070 7996 50  0001 L CNN
 F 1 "330" H 5070 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4930 7950 50  0001 C CNN
 F 3 "" H 5000 7950 50  0000 C CNN
@@ -410,10 +410,10 @@ F 3 "" H 5000 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D14
+L allBonsaiSymbolLibs:LED_Small-device D55
 U 1 1 57F347B7
 P 5000 8200
-F 0 "D14" V 4954 8278 50  0001 L CNN
+F 0 "D55" V 4954 8278 50  0001 L CNN
 F 1 "LED" V 5045 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 5000 8200 50  0001 C CNN
 F 3 "" H 5000 8200 50  0000 C CNN
@@ -421,10 +421,10 @@ F 3 "" H 5000 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR019
+L power:VCC #PWR030
 U 1 1 57F347BD
 P 5000 8300
-F 0 "#PWR019" H 5000 8150 50  0001 C CNN
+F 0 "#PWR030" H 5000 8150 50  0001 C CNN
 F 1 "VCC" H 5018 8473 50  0000 C CNN
 F 2 "" H 5000 8300 50  0000 C CNN
 F 3 "" H 5000 8300 50  0000 C CNN
@@ -432,10 +432,10 @@ F 3 "" H 5000 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R15
+L allBonsaiSymbolLibs:R-device R16
 U 1 1 57F347C9
 P 5300 7950
-F 0 "R15" H 5370 7996 50  0001 L CNN
+F 0 "R16" H 5370 7996 50  0001 L CNN
 F 1 "330" H 5370 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5230 7950 50  0001 C CNN
 F 3 "" H 5300 7950 50  0000 C CNN
@@ -443,10 +443,10 @@ F 3 "" H 5300 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D15
+L allBonsaiSymbolLibs:LED_Small-device D56
 U 1 1 57F347CF
 P 5300 8200
-F 0 "D15" V 5254 8278 50  0001 L CNN
+F 0 "D56" V 5254 8278 50  0001 L CNN
 F 1 "LED" V 5345 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 5300 8200 50  0001 C CNN
 F 3 "" H 5300 8200 50  0000 C CNN
@@ -454,10 +454,10 @@ F 3 "" H 5300 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR021
+L power:VCC #PWR031
 U 1 1 57F347D5
 P 5300 8300
-F 0 "#PWR021" H 5300 8150 50  0001 C CNN
+F 0 "#PWR031" H 5300 8150 50  0001 C CNN
 F 1 "VCC" H 5318 8473 50  0000 C CNN
 F 2 "" H 5300 8300 50  0000 C CNN
 F 3 "" H 5300 8300 50  0000 C CNN
@@ -476,10 +476,10 @@ F 3 "" H 5600 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D16
+L allBonsaiSymbolLibs:LED_Small-device D57
 U 1 1 57F347E7
 P 5600 8200
-F 0 "D16" V 5554 8278 50  0001 L CNN
+F 0 "D57" V 5554 8278 50  0001 L CNN
 F 1 "LED" V 5645 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 5600 8200 50  0001 C CNN
 F 3 "" H 5600 8200 50  0000 C CNN
@@ -487,10 +487,10 @@ F 3 "" H 5600 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR022
+L power:VCC #PWR032
 U 1 1 57F347ED
 P 5600 8300
-F 0 "#PWR022" H 5600 8150 50  0001 C CNN
+F 0 "#PWR032" H 5600 8150 50  0001 C CNN
 F 1 "VCC" H 5618 8473 50  0000 C CNN
 F 2 "" H 5600 8300 50  0000 C CNN
 F 3 "" H 5600 8300 50  0000 C CNN
@@ -498,10 +498,10 @@ F 3 "" H 5600 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R19
+L allBonsaiSymbolLibs:R-device R18
 U 1 1 57F347F9
 P 5900 7950
-F 0 "R19" H 5970 7996 50  0001 L CNN
+F 0 "R18" H 5970 7996 50  0001 L CNN
 F 1 "330" H 5970 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5830 7950 50  0001 C CNN
 F 3 "" H 5900 7950 50  0000 C CNN
@@ -509,10 +509,10 @@ F 3 "" H 5900 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D22
+L allBonsaiSymbolLibs:LED_Small-device D58
 U 1 1 57F347FF
 P 5900 8200
-F 0 "D22" V 5854 8278 50  0001 L CNN
+F 0 "D58" V 5854 8278 50  0001 L CNN
 F 1 "LED" V 5945 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 5900 8200 50  0001 C CNN
 F 3 "" H 5900 8200 50  0000 C CNN
@@ -520,10 +520,10 @@ F 3 "" H 5900 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR023
+L power:VCC #PWR033
 U 1 1 57F34805
 P 5900 8300
-F 0 "#PWR023" H 5900 8150 50  0001 C CNN
+F 0 "#PWR033" H 5900 8150 50  0001 C CNN
 F 1 "VCC" H 5918 8473 50  0000 C CNN
 F 2 "" H 5900 8300 50  0000 C CNN
 F 3 "" H 5900 8300 50  0000 C CNN
@@ -531,10 +531,10 @@ F 3 "" H 5900 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R21
+L allBonsaiSymbolLibs:R-device R19
 U 1 1 57F34811
 P 6200 7950
-F 0 "R21" H 6270 7996 50  0001 L CNN
+F 0 "R19" H 6270 7996 50  0001 L CNN
 F 1 "330" H 6270 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6130 7950 50  0001 C CNN
 F 3 "" H 6200 7950 50  0000 C CNN
@@ -542,10 +542,10 @@ F 3 "" H 6200 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D29
+L allBonsaiSymbolLibs:LED_Small-device D59
 U 1 1 57F34817
 P 6200 8200
-F 0 "D29" V 6154 8278 50  0001 L CNN
+F 0 "D59" V 6154 8278 50  0001 L CNN
 F 1 "LED" V 6245 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 6200 8200 50  0001 C CNN
 F 3 "" H 6200 8200 50  0000 C CNN
@@ -553,10 +553,10 @@ F 3 "" H 6200 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR024
+L power:VCC #PWR034
 U 1 1 57F3481D
 P 6200 8300
-F 0 "#PWR024" H 6200 8150 50  0001 C CNN
+F 0 "#PWR034" H 6200 8150 50  0001 C CNN
 F 1 "VCC" H 6218 8473 50  0000 C CNN
 F 2 "" H 6200 8300 50  0000 C CNN
 F 3 "" H 6200 8300 50  0000 C CNN
@@ -564,10 +564,10 @@ F 3 "" H 6200 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R24
+L allBonsaiSymbolLibs:R-device R20
 U 1 1 57F36299
 P 6500 7950
-F 0 "R24" H 6570 7996 50  0001 L CNN
+F 0 "R20" H 6570 7996 50  0001 L CNN
 F 1 "330" H 6570 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6430 7950 50  0001 C CNN
 F 3 "" H 6500 7950 50  0000 C CNN
@@ -575,10 +575,10 @@ F 3 "" H 6500 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D32
+L allBonsaiSymbolLibs:LED_Small-device D60
 U 1 1 57F3629F
 P 6500 8200
-F 0 "D32" V 6454 8278 50  0001 L CNN
+F 0 "D60" V 6454 8278 50  0001 L CNN
 F 1 "LED" V 6545 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 6500 8200 50  0001 C CNN
 F 3 "" H 6500 8200 50  0000 C CNN
@@ -586,10 +586,10 @@ F 3 "" H 6500 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R26
+L allBonsaiSymbolLibs:R-device R21
 U 1 1 57F362B1
 P 6800 7950
-F 0 "R26" H 6870 7996 50  0001 L CNN
+F 0 "R21" H 6870 7996 50  0001 L CNN
 F 1 "330" H 6870 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6730 7950 50  0001 C CNN
 F 3 "" H 6800 7950 50  0000 C CNN
@@ -597,10 +597,10 @@ F 3 "" H 6800 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D34
+L allBonsaiSymbolLibs:LED_Small-device D61
 U 1 1 57F362B7
 P 6800 8200
-F 0 "D34" V 6754 8278 50  0001 L CNN
+F 0 "D61" V 6754 8278 50  0001 L CNN
 F 1 "LED" V 6845 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 6800 8200 50  0001 C CNN
 F 3 "" H 6800 8200 50  0000 C CNN
@@ -608,10 +608,10 @@ F 3 "" H 6800 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR026
+L power:VCC #PWR036
 U 1 1 57F362BD
 P 6800 8300
-F 0 "#PWR026" H 6800 8150 50  0001 C CNN
+F 0 "#PWR036" H 6800 8150 50  0001 C CNN
 F 1 "VCC" H 6818 8473 50  0000 C CNN
 F 2 "" H 6800 8300 50  0000 C CNN
 F 3 "" H 6800 8300 50  0000 C CNN
@@ -619,10 +619,10 @@ F 3 "" H 6800 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R28
+L allBonsaiSymbolLibs:R-device R22
 U 1 1 57F362C9
 P 7100 7950
-F 0 "R28" H 7170 7996 50  0001 L CNN
+F 0 "R22" H 7170 7996 50  0001 L CNN
 F 1 "330" H 7170 7905 50  0001 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7030 7950 50  0001 C CNN
 F 3 "" H 7100 7950 50  0000 C CNN
@@ -630,10 +630,10 @@ F 3 "" H 7100 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D36
+L allBonsaiSymbolLibs:LED_Small-device D62
 U 1 1 57F362CF
 P 7100 8200
-F 0 "D36" V 7054 8278 50  0001 L CNN
+F 0 "D62" V 7054 8278 50  0001 L CNN
 F 1 "LED" V 7145 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 7100 8200 50  0001 C CNN
 F 3 "" H 7100 8200 50  0000 C CNN
@@ -641,10 +641,10 @@ F 3 "" H 7100 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR027
+L power:VCC #PWR037
 U 1 1 57F362D5
 P 7100 8300
-F 0 "#PWR027" H 7100 8150 50  0001 C CNN
+F 0 "#PWR037" H 7100 8150 50  0001 C CNN
 F 1 "VCC" H 7118 8473 50  0000 C CNN
 F 2 "" H 7100 8300 50  0000 C CNN
 F 3 "" H 7100 8300 50  0000 C CNN
@@ -652,10 +652,10 @@ F 3 "" H 7100 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R30
+L allBonsaiSymbolLibs:R-device R23
 U 1 1 57F362E1
 P 7400 7950
-F 0 "R30" H 7470 7996 50  0001 L CNN
+F 0 "R23" H 7470 7996 50  0001 L CNN
 F 1 "330" H 7600 7950 50  0000 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7330 7950 50  0001 C CNN
 F 3 "" H 7400 7950 50  0000 C CNN
@@ -663,10 +663,10 @@ F 3 "" H 7400 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D41
+L allBonsaiSymbolLibs:LED_Small-device D63
 U 1 1 57F362E7
 P 7400 8200
-F 0 "D41" V 7354 8278 50  0001 L CNN
+F 0 "D63" V 7354 8278 50  0001 L CNN
 F 1 "LED" V 7445 8278 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 7400 8200 50  0001 C CNN
 F 3 "" H 7400 8200 50  0000 C CNN
@@ -674,10 +674,10 @@ F 3 "" H 7400 8200 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR028
+L power:VCC #PWR038
 U 1 1 57F362ED
 P 7400 8300
-F 0 "#PWR028" H 7400 8150 50  0001 C CNN
+F 0 "#PWR038" H 7400 8150 50  0001 C CNN
 F 1 "VCC" H 7418 8473 50  0000 C CNN
 F 2 "" H 7400 8300 50  0000 C CNN
 F 3 "" H 7400 8300 50  0000 C CNN
@@ -685,10 +685,10 @@ F 3 "" H 7400 8300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR020
+L power:GND #PWR02
 U 1 1 57FCDFA0
 P 6750 1600
-F 0 "#PWR020" H 6750 1350 50  0001 C CNN
+F 0 "#PWR02" H 6750 1350 50  0001 C CNN
 F 1 "GND" H 6750 1450 50  0000 C CNN
 F 2 "" H 6750 1600 50  0000 C CNN
 F 3 "" H 6750 1600 50  0000 C CNN
@@ -696,10 +696,10 @@ F 3 "" H 6750 1600 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D1
+L allBonsaiSymbolLibs:LED_Small-device D47
 U 1 1 58103D59
 P 1700 7250
-F 0 "D1" V 1654 7328 50  0000 L CNN
+F 0 "D47" V 1654 7328 50  0000 L CNN
 F 1 "LED" V 1745 7328 50  0000 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 1700 7250 50  0001 C CNN
 F 3 "" H 1700 7250 50  0000 C CNN
@@ -707,10 +707,10 @@ F 3 "" H 1700 7250 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR01
+L power:GND #PWR022
 U 1 1 5810923B
 P 1700 7350
-F 0 "#PWR01" H 1700 7100 50  0001 C CNN
+F 0 "#PWR022" H 1700 7100 50  0001 C CNN
 F 1 "GND" H 1700 7200 50  0000 C CNN
 F 2 "" H 1700 7350 50  0000 C CNN
 F 3 "" H 1700 7350 50  0000 C CNN
@@ -726,32 +726,21 @@ enAkku
 Text Label 1700 8150 0    60   ~ 0
 loadIR
 $Comp
-L power:VCC #PWR02
+L power:VCC #PWR06
 U 1 1 582EEF49
-P 2600 2250
-F 0 "#PWR02" H 2600 2100 50  0001 C CNN
-F 1 "VCC" H 2618 2423 50  0000 C CNN
-F 2 "" H 2600 2250 50  0000 C CNN
-F 3 "" H 2600 2250 50  0000 C CNN
-	1    2600 2250
-	0    -1   -1   0   
+P 2250 2250
+F 0 "#PWR06" H 2250 2100 50  0001 C CNN
+F 1 "VCC" H 2268 2423 50  0000 C CNN
+F 2 "" H 2250 2250 50  0000 C CNN
+F 3 "" H 2250 2250 50  0000 C CNN
+	1    2250 2250
+	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR03
-U 1 1 582F21A4
-P 2600 2350
-F 0 "#PWR03" H 2600 2200 50  0001 C CNN
-F 1 "VCC" H 2618 2523 50  0000 C CNN
-F 2 "" H 2600 2350 50  0000 C CNN
-F 3 "" H 2600 2350 50  0000 C CNN
-	1    2600 2350
-	0    -1   -1   0   
-$EndComp
-$Comp
-L power:VCC #PWR013
+L power:VCC #PWR09
 U 1 1 582F2535
 P 4350 2850
-F 0 "#PWR013" H 4350 2700 50  0001 C CNN
+F 0 "#PWR09" H 4350 2700 50  0001 C CNN
 F 1 "VCC" H 4350 3000 50  0000 C CNN
 F 2 "" H 4350 2850 50  0000 C CNN
 F 3 "" H 4350 2850 50  0000 C CNN
@@ -759,408 +748,408 @@ F 3 "" H 4350 2850 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D21
+L allBonsaiSymbolLibs:LED_Small-device D7
 U 1 1 58342180
 P 5900 2500
-F 0 "D21" H 5850 2625 50  0001 L CNN
+F 0 "D7" H 5850 2625 50  0001 L CNN
 F 1 "Led_Small" H 5725 2400 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 5900 2500 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 5900 2500 50  0001 C CNN
 F 3 "" V 5900 2500 50  0000 C CNN
 	1    5900 2500
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D24
+L allBonsaiSymbolLibs:LED_Small-device D8
 U 1 1 5836CC1D
 P 6150 2500
-F 0 "D24" H 6100 2625 50  0001 L CNN
+F 0 "D8" H 6100 2625 50  0001 L CNN
 F 1 "Led_Small" H 5975 2400 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 6150 2500 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 6150 2500 50  0001 C CNN
 F 3 "" V 6150 2500 50  0000 C CNN
 	1    6150 2500
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D23
+L allBonsaiSymbolLibs:LED_Small-device D3
 U 1 1 5836CDE4
 P 6150 2300
-F 0 "D23" H 6100 2425 50  0001 L CNN
+F 0 "D3" H 6100 2425 50  0001 L CNN
 F 1 "Led_Small" H 5975 2200 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 6150 2300 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 6150 2300 50  0001 C CNN
 F 3 "" V 6150 2300 50  0000 C CNN
 	1    6150 2300
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D25
+L allBonsaiSymbolLibs:LED_Small-device D12
 U 1 1 5836CF4D
 P 6150 2700
-F 0 "D25" H 6100 2825 50  0001 L CNN
+F 0 "D12" H 6100 2825 50  0001 L CNN
 F 1 "Led_Small" H 5975 2600 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 6150 2700 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 6150 2700 50  0001 C CNN
 F 3 "" V 6150 2700 50  0000 C CNN
 	1    6150 2700
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D17
+L allBonsaiSymbolLibs:LED_Small-device D10
 U 1 1 5836D0CD
 P 5650 2600
-F 0 "D17" H 5600 2725 50  0001 L CNN
+F 0 "D10" H 5600 2725 50  0001 L CNN
 F 1 "Led_Small" H 5475 2500 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 5650 2600 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 5650 2600 50  0001 C CNN
 F 3 "" V 5650 2600 50  0000 C CNN
 	1    5650 2600
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D30
+L allBonsaiSymbolLibs:LED_Small-device D18
 U 1 1 5836E67E
 P 6400 2900
-F 0 "D30" H 6350 3025 50  0001 L CNN
+F 0 "D18" H 6350 3025 50  0001 L CNN
 F 1 "Led_Small" H 6225 2800 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 6400 2900 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 6400 2900 50  0001 C CNN
 F 3 "" V 6400 2900 50  0000 C CNN
 	1    6400 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D37
+L allBonsaiSymbolLibs:LED_Small-device D13
 U 1 1 5836E981
 P 7150 2700
-F 0 "D37" H 7100 2825 50  0001 L CNN
+F 0 "D13" H 7100 2825 50  0001 L CNN
 F 1 "Led_Small" H 6975 2600 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 7150 2700 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 7150 2700 50  0001 C CNN
 F 3 "" V 7150 2700 50  0000 C CNN
 	1    7150 2700
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D39
+L allBonsaiSymbolLibs:LED_Small-device D19
 U 1 1 5836EB0D
 P 7400 2900
-F 0 "D39" H 7350 3025 50  0001 L CNN
+F 0 "D19" H 7350 3025 50  0001 L CNN
 F 1 "Led_Small" H 7225 2800 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 7400 2900 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 7400 2900 50  0001 C CNN
 F 3 "" V 7400 2900 50  0000 C CNN
 	1    7400 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D43
+L allBonsaiSymbolLibs:LED_Small-device D4
 U 1 1 58370620
 P 8000 2300
-F 0 "D43" H 7950 2425 50  0001 L CNN
+F 0 "D4" H 7950 2425 50  0001 L CNN
 F 1 "Led_Small" H 7825 2200 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8000 2300 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8000 2300 50  0001 C CNN
 F 3 "" V 8000 2300 50  0000 C CNN
 	1    8000 2300
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D44
+L allBonsaiSymbolLibs:LED_Small-device D5
 U 1 1 583707CA
 P 8000 2400
-F 0 "D44" H 7950 2525 50  0001 L CNN
+F 0 "D5" H 7950 2525 50  0001 L CNN
 F 1 "Led_Small" H 7825 2300 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8000 2400 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8000 2400 50  0001 C CNN
 F 3 "" V 8000 2400 50  0000 C CNN
 	1    8000 2400
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D45
+L allBonsaiSymbolLibs:LED_Small-device D9
 U 1 1 5837094D
 P 8000 2500
-F 0 "D45" H 7950 2625 50  0001 L CNN
+F 0 "D9" H 7950 2625 50  0001 L CNN
 F 1 "Led_Small" H 7825 2400 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8000 2500 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8000 2500 50  0001 C CNN
 F 3 "" V 8000 2500 50  0000 C CNN
 	1    8000 2500
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D47
+L allBonsaiSymbolLibs:LED_Small-device D11
 U 1 1 58370C6C
 P 8500 2600
-F 0 "D47" H 8450 2725 50  0001 L CNN
+F 0 "D11" H 8450 2725 50  0001 L CNN
 F 1 "Led_Small" H 8325 2500 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8500 2600 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8500 2600 50  0001 C CNN
 F 3 "" V 8500 2600 50  0000 C CNN
 	1    8500 2600
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D48
+L allBonsaiSymbolLibs:LED_Small-device D14
 U 1 1 58370E12
 P 8500 2700
-F 0 "D48" H 8450 2825 50  0001 L CNN
+F 0 "D14" H 8450 2825 50  0001 L CNN
 F 1 "Led_Small" H 8325 2600 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8500 2700 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8500 2700 50  0001 C CNN
 F 3 "" V 8500 2700 50  0000 C CNN
 	1    8500 2700
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D49
+L allBonsaiSymbolLibs:LED_Small-device D16
 U 1 1 58370FA1
 P 8500 2800
-F 0 "D49" H 8450 2925 50  0001 L CNN
+F 0 "D16" H 8450 2925 50  0001 L CNN
 F 1 "Led_Small" H 8325 2700 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8500 2800 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8500 2800 50  0001 C CNN
 F 3 "" V 8500 2800 50  0000 C CNN
 	1    8500 2800
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D50
+L allBonsaiSymbolLibs:LED_Small-device D20
 U 1 1 58371135
 P 8500 2900
-F 0 "D50" H 8450 3025 50  0001 L CNN
+F 0 "D20" H 8450 3025 50  0001 L CNN
 F 1 "Led_Small" H 8325 2800 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8500 2900 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8500 2900 50  0001 C CNN
 F 3 "" V 8500 2900 50  0000 C CNN
 	1    8500 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D51
+L allBonsaiSymbolLibs:LED_Small-device D21
 U 1 1 583712D6
 P 8500 3000
-F 0 "D51" H 8450 3125 50  0001 L CNN
+F 0 "D21" H 8450 3125 50  0001 L CNN
 F 1 "Led_Small" H 8325 2900 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8500 3000 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8500 3000 50  0001 C CNN
 F 3 "" V 8500 3000 50  0000 C CNN
 	1    8500 3000
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D59
+L allBonsaiSymbolLibs:LED_Small-device D17
 U 1 1 58371478
 P 8750 2800
-F 0 "D59" H 8700 2925 50  0001 L CNN
+F 0 "D17" H 8700 2925 50  0001 L CNN
 F 1 "Led_Small" H 8575 2700 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8750 2800 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8750 2800 50  0001 C CNN
 F 3 "" V 8750 2800 50  0000 C CNN
 	1    8750 2800
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D26
+L allBonsaiSymbolLibs:LED_Small-device D22
 U 1 1 58378EB7
 P 6150 3350
-F 0 "D26" H 6100 3475 50  0001 L CNN
+F 0 "D22" H 6100 3475 50  0001 L CNN
 F 1 "Led_Small" H 5975 3250 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 6150 3350 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 6150 3350 50  0001 C CNN
 F 3 "" V 6150 3350 50  0000 C CNN
 	1    6150 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D18
+L allBonsaiSymbolLibs:LED_Small-device D28
 U 1 1 5837926C
 P 5650 3550
-F 0 "D18" H 5600 3675 50  0001 L CNN
+F 0 "D28" H 5600 3675 50  0001 L CNN
 F 1 "Led_Small" H 5475 3450 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 5650 3550 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 5650 3550 50  0001 C CNN
 F 3 "" V 5650 3550 50  0000 C CNN
 	1    5650 3550
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D19
+L allBonsaiSymbolLibs:LED_Small-device D32
 U 1 1 58379419
 P 5650 3650
-F 0 "D19" H 5600 3775 50  0001 L CNN
+F 0 "D32" H 5600 3775 50  0001 L CNN
 F 1 "Led_Small" H 5475 3550 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 5650 3650 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 5650 3650 50  0001 C CNN
 F 3 "" V 5650 3650 50  0000 C CNN
 	1    5650 3650
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D20
+L allBonsaiSymbolLibs:LED_Small-device D39
 U 1 1 583795BB
 P 5650 3950
-F 0 "D20" H 5600 4075 50  0001 L CNN
+F 0 "D39" H 5600 4075 50  0001 L CNN
 F 1 "Led_Small" H 5475 3850 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 5650 3950 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 5650 3950 50  0001 C CNN
 F 3 "" V 5650 3950 50  0000 C CNN
 	1    5650 3950
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D28
+L allBonsaiSymbolLibs:LED_Small-device D40
 U 1 1 5837976E
 P 6150 3950
-F 0 "D28" H 6100 4075 50  0001 L CNN
+F 0 "D40" H 6100 4075 50  0001 L CNN
 F 1 "Led_Small" H 5975 3850 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 6150 3950 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 6150 3950 50  0001 C CNN
 F 3 "" V 6150 3950 50  0000 C CNN
 	1    6150 3950
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D27
+L allBonsaiSymbolLibs:LED_Small-device D37
 U 1 1 5837992A
 P 6150 3850
-F 0 "D27" H 6100 3975 50  0001 L CNN
+F 0 "D37" H 6100 3975 50  0001 L CNN
 F 1 "Led_Small" H 5975 3750 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 6150 3850 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 6150 3850 50  0001 C CNN
 F 3 "" V 6150 3850 50  0000 C CNN
 	1    6150 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D31
+L allBonsaiSymbolLibs:LED_Small-device D29
 U 1 1 5837A513
 P 6400 3550
-F 0 "D31" H 6350 3675 50  0001 L CNN
+F 0 "D29" H 6350 3675 50  0001 L CNN
 F 1 "Led_Small" H 6225 3450 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 6400 3550 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 6400 3550 50  0001 C CNN
 F 3 "" V 6400 3550 50  0000 C CNN
 	1    6400 3550
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D35
+L allBonsaiSymbolLibs:LED_Small-device D25
 U 1 1 5837A6F3
 P 6900 3450
-F 0 "D35" H 6850 3575 50  0001 L CNN
+F 0 "D25" H 6850 3575 50  0001 L CNN
 F 1 "Led_Small" H 6725 3350 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 6900 3450 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 6900 3450 50  0001 C CNN
 F 3 "" V 6900 3450 50  0000 C CNN
 	1    6900 3450
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D38
+L allBonsaiSymbolLibs:LED_Small-device D23
 U 1 1 5837A8C6
 P 7150 3350
-F 0 "D38" H 7100 3475 50  0001 L CNN
+F 0 "D23" H 7100 3475 50  0001 L CNN
 F 1 "Led_Small" H 6975 3250 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 7150 3350 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 7150 3350 50  0001 C CNN
 F 3 "" V 7150 3350 50  0000 C CNN
 	1    7150 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D40
+L allBonsaiSymbolLibs:LED_Small-device D30
 U 1 1 5837AF7A
 P 7400 3550
-F 0 "D40" H 7350 3675 50  0001 L CNN
+F 0 "D30" H 7350 3675 50  0001 L CNN
 F 1 "Led_Small" H 7225 3450 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 7400 3550 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 7400 3550 50  0001 C CNN
 F 3 "" V 7400 3550 50  0000 C CNN
 	1    7400 3550
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D42
+L allBonsaiSymbolLibs:LED_Small-device D33
 U 1 1 5837C493
 P 7750 3650
-F 0 "D42" H 7700 3775 50  0001 L CNN
+F 0 "D33" H 7700 3775 50  0001 L CNN
 F 1 "Led_Small" H 7575 3550 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 7750 3650 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 7750 3650 50  0001 C CNN
 F 3 "" V 7750 3650 50  0000 C CNN
 	1    7750 3650
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D52
+L allBonsaiSymbolLibs:LED_Small-device D24
 U 1 1 5837C65B
 P 8500 3350
-F 0 "D52" H 8450 3475 50  0001 L CNN
+F 0 "D24" H 8450 3475 50  0001 L CNN
 F 1 "Led_Small" H 8325 3250 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8500 3350 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8500 3350 50  0001 C CNN
 F 3 "" V 8500 3350 50  0000 C CNN
 	1    8500 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D53
+L allBonsaiSymbolLibs:LED_Small-device D26
 U 1 1 5837C858
 P 8500 3450
-F 0 "D53" H 8450 3575 50  0001 L CNN
+F 0 "D26" H 8450 3575 50  0001 L CNN
 F 1 "Led_Small" H 8325 3350 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8500 3450 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8500 3450 50  0001 C CNN
 F 3 "" V 8500 3450 50  0000 C CNN
 	1    8500 3450
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D54
+L allBonsaiSymbolLibs:LED_Small-device D31
 U 1 1 5837CA1C
 P 8500 3550
-F 0 "D54" H 8450 3675 50  0001 L CNN
+F 0 "D31" H 8450 3675 50  0001 L CNN
 F 1 "Led_Small" H 8325 3450 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8500 3550 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8500 3550 50  0001 C CNN
 F 3 "" V 8500 3550 50  0000 C CNN
 	1    8500 3550
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D55
+L allBonsaiSymbolLibs:LED_Small-device D34
 U 1 1 5837CBE7
 P 8500 3650
-F 0 "D55" H 8450 3775 50  0001 L CNN
+F 0 "D34" H 8450 3775 50  0001 L CNN
 F 1 "Led_Small" H 8325 3550 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8500 3650 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8500 3650 50  0001 C CNN
 F 3 "" V 8500 3650 50  0000 C CNN
 	1    8500 3650
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D56
+L allBonsaiSymbolLibs:LED_Small-device D35
 U 1 1 5837CDB5
 P 8500 3750
-F 0 "D56" H 8450 3875 50  0001 L CNN
+F 0 "D35" H 8450 3875 50  0001 L CNN
 F 1 "Led_Small" H 8325 3650 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8500 3750 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8500 3750 50  0001 C CNN
 F 3 "" V 8500 3750 50  0000 C CNN
 	1    8500 3750
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D57
+L allBonsaiSymbolLibs:LED_Small-device D38
 U 1 1 5837CF8E
 P 8500 3850
-F 0 "D57" H 8450 3975 50  0001 L CNN
+F 0 "D38" H 8450 3975 50  0001 L CNN
 F 1 "Led_Small" H 8325 3750 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8500 3850 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8500 3850 50  0001 C CNN
 F 3 "" V 8500 3850 50  0000 C CNN
 	1    8500 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D58
+L allBonsaiSymbolLibs:LED_Small-device D41
 U 1 1 5837D16A
 P 8500 3950
-F 0 "D58" H 8450 4075 50  0001 L CNN
+F 0 "D41" H 8450 4075 50  0001 L CNN
 F 1 "Led_Small" H 8325 3850 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8500 3950 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8500 3950 50  0001 C CNN
 F 3 "" V 8500 3950 50  0000 C CNN
 	1    8500 3950
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D60
+L allBonsaiSymbolLibs:LED_Small-device D36
 U 1 1 5837D34F
 P 8750 3750
-F 0 "D60" H 8700 3875 50  0001 L CNN
+F 0 "D36" H 8700 3875 50  0001 L CNN
 F 1 "Led_Small" H 8575 3650 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8750 3750 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8750 3750 50  0001 C CNN
 F 3 "" V 8750 3750 50  0000 C CNN
 	1    8750 3750
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D61
+L allBonsaiSymbolLibs:LED_Small-device D42
 U 1 1 5837D53D
 P 9000 3950
-F 0 "D61" H 8950 4075 50  0001 L CNN
+F 0 "D42" H 8950 4075 50  0001 L CNN
 F 1 "Led_Small" H 8825 3850 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 9000 3950 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 9000 3950 50  0001 C CNN
 F 3 "" V 9000 3950 50  0000 C CNN
 	1    9000 3950
 	1    0    0    -1  
@@ -1383,10 +1372,10 @@ Wire Wire Line
 Wire Wire Line
 	4050 1850 4200 1850
 $Comp
-L power:GND #PWR030
+L power:GND #PWR08
 U 1 1 5B01C88A
 P 11100 2400
-F 0 "#PWR030" H 11100 2150 50  0001 C CNN
+F 0 "#PWR08" H 11100 2150 50  0001 C CNN
 F 1 "GND" H 11100 2250 50  0000 C CNN
 F 2 "" H 11100 2400 50  0000 C CNN
 F 3 "" H 11100 2400 50  0000 C CNN
@@ -1394,10 +1383,10 @@ F 3 "" H 11100 2400 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR025
+L power:VCC #PWR035
 U 1 1 5A45F268
 P 6500 8300
-F 0 "#PWR025" H 6500 8150 50  0001 C CNN
+F 0 "#PWR035" H 6500 8150 50  0001 C CNN
 F 1 "VCC" H 6518 8473 50  0000 C CNN
 F 2 "" H 6500 8300 50  0000 C CNN
 F 3 "" H 6500 8300 50  0000 C CNN
@@ -1548,25 +1537,14 @@ Wire Wire Line
 Wire Wire Line
 	3750 4000 2600 4000
 $Comp
-L power:GND #PWR014
+L power:GND #PWR010
 U 1 1 5B3FB53D
 P 4350 4100
-F 0 "#PWR014" H 4350 3850 50  0001 C CNN
+F 0 "#PWR010" H 4350 3850 50  0001 C CNN
 F 1 "GND" H 4355 3927 50  0000 C CNN
 F 2 "" H 4350 4100 50  0001 C CNN
 F 3 "" H 4350 4100 50  0001 C CNN
 	1    4350 4100
-	1    0    0    -1  
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:74LS161-74ls161bonsai U3
-U 1 1 5B42C8F2
-P 3300 2150
-F 0 "U3" H 3250 2400 50  0000 C CNN
-F 1 "74LS161" H 3250 2300 50  0000 C CNN
-F 2 "Housings_DIP:DIP-16_W7.62mm_Socket_LongPads" H 3300 2150 50  0001 C CNN
-F 3 "" H 3300 2150 50  0001 C CNN
-	1    3300 2150
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -1601,10 +1579,10 @@ Wire Wire Line
 	2200 5750 2200 6100
 Connection ~ 2200 5750
 $Comp
-L allBonsaiSymbolLibs:D D62
+L allBonsaiSymbolLibs:D D2
 U 1 1 5B0188F2
 P 11950 2200
-F 0 "D62" V 11851 2278 50  0000 L CNN
+F 0 "D2" V 11851 2278 50  0000 L CNN
 F 1 "D" V 11942 2278 50  0000 L CNN
 F 2 "Diodes_ThroughHole:D_A-405_P10.16mm_Horizontal" V 12041 2278 60  0001 L CNN
 F 3 "" H 11950 2200 60  0000 C CNN
@@ -1612,10 +1590,10 @@ F 3 "" H 11950 2200 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:C_Small C1
+L allBonsaiSymbolLibs:C_Small C2
 U 1 1 5B018E13
 P 12250 2200
-F 0 "C1" H 12342 2246 50  0000 L CNN
+F 0 "C2" H 12342 2246 50  0000 L CNN
 F 1 "100n" H 12342 2155 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 12250 2200 60  0001 C CNN
 F 3 "" H 12250 2200 60  0000 C CNN
@@ -1623,10 +1601,10 @@ F 3 "" H 12250 2200 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:C_Small C2
+L allBonsaiSymbolLibs:C_Small C3
 U 1 1 5B019017
 P 12600 2200
-F 0 "C2" H 12692 2246 50  0000 L CNN
+F 0 "C3" H 12692 2246 50  0000 L CNN
 F 1 "100n" H 12692 2155 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 12600 2200 60  0001 C CNN
 F 3 "" H 12600 2200 60  0000 C CNN
@@ -1634,10 +1612,10 @@ F 3 "" H 12600 2200 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:C_Small C3
+L allBonsaiSymbolLibs:C_Small C4
 U 1 1 5B019204
 P 12950 2200
-F 0 "C3" H 13042 2246 50  0000 L CNN
+F 0 "C4" H 13042 2246 50  0000 L CNN
 F 1 "100n" H 13042 2155 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 12950 2200 60  0001 C CNN
 F 3 "" H 12950 2200 60  0000 C CNN
@@ -1645,10 +1623,10 @@ F 3 "" H 12950 2200 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:C_Small C4
+L allBonsaiSymbolLibs:C_Small C5
 U 1 1 5B0193F0
 P 13300 2200
-F 0 "C4" H 13392 2246 50  0000 L CNN
+F 0 "C5" H 13392 2246 50  0000 L CNN
 F 1 "100n" H 13392 2155 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 13300 2200 60  0001 C CNN
 F 3 "" H 13300 2200 60  0000 C CNN
@@ -1656,10 +1634,10 @@ F 3 "" H 13300 2200 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:C_Small C5
+L allBonsaiSymbolLibs:C_Small C6
 U 1 1 5B0195E5
 P 13650 2200
-F 0 "C5" H 13742 2246 50  0000 L CNN
+F 0 "C6" H 13742 2246 50  0000 L CNN
 F 1 "100n" H 13742 2155 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 13650 2200 60  0001 C CNN
 F 3 "" H 13650 2200 60  0000 C CNN
@@ -1667,10 +1645,10 @@ F 3 "" H 13650 2200 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:C_Small C6
+L allBonsaiSymbolLibs:C_Small C7
 U 1 1 5B0197E3
 P 14000 2200
-F 0 "C6" H 14092 2246 50  0000 L CNN
+F 0 "C7" H 14092 2246 50  0000 L CNN
 F 1 "100n" H 14092 2155 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 14000 2200 60  0001 C CNN
 F 3 "" H 14000 2200 60  0000 C CNN
@@ -1801,10 +1779,10 @@ Connection ~ 8600 3950
 Connection ~ 8850 2800
 Connection ~ 7900 2350
 $Comp
-L allBonsaiSymbolLibs:74LS374-74xx U7
+L allBonsaiSymbolLibs:74LS374-74xx U5
 U 1 1 57E9528C
 P 6250 5300
-F 0 "U7" V 6200 5550 50  0000 R CNN
+F 0 "U5" V 6200 5550 50  0000 R CNN
 F 1 "74LS374" V 6300 5550 50  0000 R CNN
 F 2 "Housings_DIP:DIP-20_W7.62mm_Socket_LongPads" H 6250 5300 50  0001 C CNN
 F 3 "" H 6250 5300 50  0000 C CNN
@@ -1812,10 +1790,10 @@ F 3 "" H 6250 5300 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R_PACK8BUSSED RP2
+L allBonsaiSymbolLibs:R_PACK8BUSSED RP1
 U 1 1 5B1EE38D
 P 5900 1700
-F 0 "RP2" V 5950 1300 50  0000 L CNN
+F 0 "RP1" V 5950 1300 50  0000 L CNN
 F 1 "R_PACK8BUSSED" H 6028 1708 50  0001 L CNN
 F 2 "Housings_SIP:SIP9_Housing_BigPads" H 6028 1609 60  0001 L CNN
 F 3 "" H 5900 1750 60  0000 C CNN
@@ -1844,10 +1822,10 @@ Wire Wire Line
 	8600 3950 8600 4250
 Connection ~ 7850 3650
 $Comp
-L power:VCC #PWR0101
+L power:VCC #PWR04
 U 1 1 5C491F19
 P 7700 1900
-F 0 "#PWR0101" H 7700 1750 50  0001 C CNN
+F 0 "#PWR04" H 7700 1750 50  0001 C CNN
 F 1 "VCC" V 7717 2028 50  0000 L CNN
 F 2 "" H 7700 1900 50  0000 C CNN
 F 3 "" H 7700 1900 50  0000 C CNN
@@ -1855,10 +1833,10 @@ F 3 "" H 7700 1900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:74LS374-74xx U8
+L allBonsaiSymbolLibs:74LS374-74xx U6
 U 1 1 5C736462
 P 8350 5300
-F 0 "U8" V 8300 5500 50  0000 R CNN
+F 0 "U6" V 8300 5500 50  0000 R CNN
 F 1 "74LS374" V 8400 5550 50  0000 R CNN
 F 2 "tg_foodprint:DIP-20_W7.62mm_Socket_LongPadstg" V 8441 4671 50  0001 R CNN
 F 3 "" H 8350 5300 50  0000 C CNN
@@ -1902,12 +1880,12 @@ Connection ~ 8650 3800
 Wire Wire Line
 	8650 3800 9650 3800
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D63
+L allBonsaiSymbolLibs:LED_Small-device D27
 U 1 1 5CF05099
 P 8750 3450
-F 0 "D63" H 8700 3575 50  0001 L CNN
+F 0 "D27" H 8700 3575 50  0001 L CNN
 F 1 "Led_Small" H 8575 3350 50  0001 L CNN
-F 2 "tg_foodprint:LED_D1.8mm_W3.3mm_H2.4mmBonsai" V 8750 3450 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8750 3450 50  0001 C CNN
 F 3 "" V 8750 3450 50  0000 C CNN
 	1    8750 3450
 	1    0    0    -1  
@@ -1955,10 +1933,10 @@ Connection ~ 1700 6200
 Wire Wire Line
 	3850 4150 3850 4300
 $Comp
-L power:VCC #PWR0106
+L power:VCC #PWR017
 U 1 1 5FDB9685
 P 12250 6400
-F 0 "#PWR0106" H 12250 6250 50  0001 C CNN
+F 0 "#PWR017" H 12250 6250 50  0001 C CNN
 F 1 "VCC" H 12267 6573 50  0000 C CNN
 F 2 "" H 12250 6400 50  0001 C CNN
 F 3 "" H 12250 6400 50  0001 C CNN
@@ -1966,10 +1944,10 @@ F 3 "" H 12250 6400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0107
+L power:GND #PWR019
 U 1 1 5FDB9DFF
 P 12250 7200
-F 0 "#PWR0107" H 12250 6950 50  0001 C CNN
+F 0 "#PWR019" H 12250 6950 50  0001 C CNN
 F 1 "GND" H 12255 7027 50  0000 C CNN
 F 2 "" H 12250 7200 50  0001 C CNN
 F 3 "" H 12250 7200 50  0001 C CNN
@@ -1977,10 +1955,10 @@ F 3 "" H 12250 7200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0108
+L power:GND #PWR018
 U 1 1 5FDBB4CB
 P 11700 7200
-F 0 "#PWR0108" H 11700 6950 50  0001 C CNN
+F 0 "#PWR018" H 11700 6950 50  0001 C CNN
 F 1 "GND" H 11705 7027 50  0000 C CNN
 F 2 "" H 11700 7200 50  0001 C CNN
 F 3 "" H 11700 7200 50  0001 C CNN
@@ -1993,10 +1971,10 @@ Connection ~ 11700 6750
 Wire Wire Line
 	11700 6750 11700 6650
 $Comp
-L Bonsai:74240 U9
+L Bonsai:74240 U4
 U 1 1 5FC0A796
 P 1700 6500
-F 0 "U9" V 1550 6500 50  0000 L CNN
+F 0 "U4" V 1550 6500 50  0000 L CNN
 F 1 "74240" V 1700 6600 50  0000 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 1850 6400 50  0001 C CNN
 F 3 "" H 1850 6400 50  0001 C CNN
@@ -2004,10 +1982,10 @@ F 3 "" H 1850 6400 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74240 U9
+L Bonsai:74240 U4
 U 9 1 5FDB5555
 P 12050 6900
-F 0 "U9" H 12328 7046 50  0000 L CNN
+F 0 "U4" H 12328 7046 50  0000 L CNN
 F 1 "74240" H 12328 6955 50  0000 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 12200 6800 50  0001 C CNN
 F 3 "" H 12200 6800 50  0001 C CNN
@@ -2015,10 +1993,10 @@ F 3 "" H 12200 6800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Bonsai:74240 U9
+L Bonsai:74240 U4
 U 5 1 5FD4D2EC
 P 4150 4600
-F 0 "U9" V 4000 4650 50  0000 L CNN
+F 0 "U4" V 4000 4650 50  0000 L CNN
 F 1 "74240" V 4150 4700 50  0000 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 4300 4500 50  0001 C CNN
 F 3 "" H 4300 4500 50  0001 C CNN
@@ -2026,10 +2004,10 @@ F 3 "" H 4300 4500 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74240 U9
+L Bonsai:74240 U4
 U 7 1 5FCAADFB
 P 3550 4600
-F 0 "U9" V 3400 4600 50  0000 L CNN
+F 0 "U4" V 3400 4600 50  0000 L CNN
 F 1 "74240" V 3620 4728 50  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 3700 4500 50  0001 C CNN
 F 3 "" H 3700 4500 50  0001 C CNN
@@ -2037,10 +2015,10 @@ F 3 "" H 3700 4500 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74240 U9
+L Bonsai:74240 U4
 U 8 1 5FC75D3B
 P 3250 4600
-F 0 "U9" V 3100 4600 50  0000 L CNN
+F 0 "U4" V 3100 4600 50  0000 L CNN
 F 1 "74240" V 3320 4728 50  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 3400 4500 50  0001 C CNN
 F 3 "" H 3400 4500 50  0001 C CNN
@@ -2048,10 +2026,10 @@ F 3 "" H 3400 4500 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74240 U9
+L Bonsai:74240 U4
 U 6 1 5FCDFED6
 P 3850 4600
-F 0 "U9" V 3700 4650 50  0000 L CNN
+F 0 "U4" V 3700 4650 50  0000 L CNN
 F 1 "74240" V 3920 4728 50  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 4000 4500 50  0001 C CNN
 F 3 "" H 4000 4500 50  0001 C CNN
@@ -2059,10 +2037,10 @@ F 3 "" H 4000 4500 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R1
+L allBonsaiSymbolLibs:R-device R7
 U 1 1 58103C09
 P 1700 7000
-F 0 "R1" V 1780 7000 50  0000 C CNN
+F 0 "R7" V 1780 7000 50  0000 C CNN
 F 1 "330" V 1700 7000 50  0000 C CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1630 7000 50  0001 C CNN
 F 3 "" H 1700 7000 50  0000 C CNN
@@ -2070,10 +2048,10 @@ F 3 "" H 1700 7000 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Bonsai:74541 U2
+L Bonsai:74541 U7
 U 8 1 5FAC2F44
 P 2900 7500
-F 0 "U2" V 2700 7300 60  0000 L CNN
+F 0 "U7" V 2700 7300 60  0000 L CNN
 F 1 "74541" V 2928 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 2950 7500 60  0001 C CNN
 F 3 "" H 2950 7500 60  0001 C CNN
@@ -2081,10 +2059,10 @@ F 3 "" H 2950 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U2
+L Bonsai:74541 U7
 U 7 1 5FAF9116
 P 3200 7500
-F 0 "U2" V 3000 7300 60  0000 L CNN
+F 0 "U7" V 3000 7300 60  0000 L CNN
 F 1 "74541" V 3228 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 3250 7500 60  0001 C CNN
 F 3 "" H 3250 7500 60  0001 C CNN
@@ -2092,10 +2070,10 @@ F 3 "" H 3250 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U2
+L Bonsai:74541 U7
 U 5 1 5FB607F6
 P 3800 7500
-F 0 "U2" V 3600 7300 60  0000 L CNN
+F 0 "U7" V 3600 7300 60  0000 L CNN
 F 1 "74541" V 3828 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 3850 7500 60  0001 C CNN
 F 3 "" H 3850 7500 60  0001 C CNN
@@ -2103,10 +2081,10 @@ F 3 "" H 3850 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U2
+L Bonsai:74541 U7
 U 4 1 5FB928F2
 P 4100 7500
-F 0 "U2" V 3900 7300 60  0000 L CNN
+F 0 "U7" V 3900 7300 60  0000 L CNN
 F 1 "74541" V 4128 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 4150 7500 60  0001 C CNN
 F 3 "" H 4150 7500 60  0001 C CNN
@@ -2114,10 +2092,10 @@ F 3 "" H 4150 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U2
+L Bonsai:74541 U7
 U 3 1 5FBF7595
 P 4400 7500
-F 0 "U2" V 4200 7300 60  0000 L CNN
+F 0 "U7" V 4200 7300 60  0000 L CNN
 F 1 "74541" V 4428 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 4450 7500 60  0001 C CNN
 F 3 "" H 4450 7500 60  0001 C CNN
@@ -2125,10 +2103,10 @@ F 3 "" H 4450 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U2
+L Bonsai:74541 U7
 U 2 1 5FC2CF3E
 P 4700 7500
-F 0 "U2" V 4500 7300 60  0000 L CNN
+F 0 "U7" V 4500 7300 60  0000 L CNN
 F 1 "74541" V 4728 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 4750 7500 60  0001 C CNN
 F 3 "" H 4750 7500 60  0001 C CNN
@@ -2136,10 +2114,10 @@ F 3 "" H 4750 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U2
+L Bonsai:74541 U7
 U 1 1 5FC5E9A2
 P 5000 7500
-F 0 "U2" V 4800 7300 60  0000 L CNN
+F 0 "U7" V 4800 7300 60  0000 L CNN
 F 1 "74541" V 5028 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 5050 7500 60  0001 C CNN
 F 3 "" H 5050 7500 60  0001 C CNN
@@ -2147,10 +2125,10 @@ F 3 "" H 5050 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U6
+L Bonsai:74541 U8
 U 8 1 5FC92DA2
 P 5300 7500
-F 0 "U6" V 5100 7300 60  0000 L CNN
+F 0 "U8" V 5100 7300 60  0000 L CNN
 F 1 "74541" V 5328 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 5350 7500 60  0001 C CNN
 F 3 "" H 5350 7500 60  0001 C CNN
@@ -2158,10 +2136,10 @@ F 3 "" H 5350 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U6
+L Bonsai:74541 U8
 U 7 1 5FCC6FFF
 P 5600 7500
-F 0 "U6" V 5400 7300 60  0000 L CNN
+F 0 "U8" V 5400 7300 60  0000 L CNN
 F 1 "74541" V 5628 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 5650 7500 60  0001 C CNN
 F 3 "" H 5650 7500 60  0001 C CNN
@@ -2169,10 +2147,10 @@ F 3 "" H 5650 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U6
+L Bonsai:74541 U8
 U 6 1 5FCF8E97
 P 5900 7500
-F 0 "U6" V 5700 7300 60  0000 L CNN
+F 0 "U8" V 5700 7300 60  0000 L CNN
 F 1 "74541" V 5928 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 5950 7500 60  0001 C CNN
 F 3 "" H 5950 7500 60  0001 C CNN
@@ -2180,10 +2158,10 @@ F 3 "" H 5950 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U6
+L Bonsai:74541 U8
 U 5 1 5FD301A6
 P 6200 7500
-F 0 "U6" V 6000 7300 60  0000 L CNN
+F 0 "U8" V 6000 7300 60  0000 L CNN
 F 1 "74541" V 6228 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 6250 7500 60  0001 C CNN
 F 3 "" H 6250 7500 60  0001 C CNN
@@ -2191,10 +2169,10 @@ F 3 "" H 6250 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U6
+L Bonsai:74541 U8
 U 4 1 5FD6413A
 P 6500 7500
-F 0 "U6" V 6300 7300 60  0000 L CNN
+F 0 "U8" V 6300 7300 60  0000 L CNN
 F 1 "74541" V 6528 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 6550 7500 60  0001 C CNN
 F 3 "" H 6550 7500 60  0001 C CNN
@@ -2202,10 +2180,10 @@ F 3 "" H 6550 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U6
+L Bonsai:74541 U8
 U 3 1 5FD9852B
 P 6800 7500
-F 0 "U6" V 6600 7300 60  0000 L CNN
+F 0 "U8" V 6600 7300 60  0000 L CNN
 F 1 "74541" V 6828 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 6850 7500 60  0001 C CNN
 F 3 "" H 6850 7500 60  0001 C CNN
@@ -2213,10 +2191,10 @@ F 3 "" H 6850 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U6
+L Bonsai:74541 U8
 U 2 1 5FDCAFEF
 P 7100 7500
-F 0 "U6" V 6900 7300 60  0000 L CNN
+F 0 "U8" V 6900 7300 60  0000 L CNN
 F 1 "74541" V 7128 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 7150 7500 60  0001 C CNN
 F 3 "" H 7150 7500 60  0001 C CNN
@@ -2224,10 +2202,10 @@ F 3 "" H 7150 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Bonsai:74541 U6
+L Bonsai:74541 U8
 U 1 1 5FDFD78E
 P 7400 7500
-F 0 "U6" V 7200 7300 60  0000 L CNN
+F 0 "U8" V 7200 7300 60  0000 L CNN
 F 1 "74541" V 7300 7700 60  0000 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 7450 7500 60  0001 C CNN
 F 3 "" H 7450 7500 60  0001 C CNN
@@ -2237,10 +2215,10 @@ $EndComp
 Wire Wire Line
 	7400 7050 7400 7150
 $Comp
-L Bonsai:74541 U2
+L Bonsai:74541 U7
 U 9 1 5FE6C6E4
 P 9450 6900
-F 0 "U2" H 9728 7028 60  0000 L CNN
+F 0 "U7" H 9728 7028 60  0000 L CNN
 F 1 "74541" H 9728 6922 60  0000 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 9500 6900 60  0001 C CNN
 F 3 "" H 9500 6900 60  0001 C CNN
@@ -2248,10 +2226,10 @@ F 3 "" H 9500 6900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Bonsai:74541 U6
+L Bonsai:74541 U8
 U 9 1 5FE6EC87
 P 10300 6900
-F 0 "U6" H 10578 7028 60  0000 L CNN
+F 0 "U8" H 10578 7028 60  0000 L CNN
 F 1 "74541" H 10578 6922 60  0000 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 10350 6900 60  0001 C CNN
 F 3 "" H 10350 6900 60  0001 C CNN
@@ -2259,10 +2237,10 @@ F 3 "" H 10350 6900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0104
+L power:GND #PWR020
 U 1 1 5FF04F07
 P 9650 7250
-F 0 "#PWR0104" H 9650 7000 50  0001 C CNN
+F 0 "#PWR020" H 9650 7000 50  0001 C CNN
 F 1 "GND" H 9650 7100 50  0000 C CNN
 F 2 "" H 9650 7250 50  0000 C CNN
 F 3 "" H 9650 7250 50  0000 C CNN
@@ -2270,10 +2248,10 @@ F 3 "" H 9650 7250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0105
+L power:GND #PWR021
 U 1 1 5FF052D3
 P 10500 7250
-F 0 "#PWR0105" H 10500 7000 50  0001 C CNN
+F 0 "#PWR021" H 10500 7000 50  0001 C CNN
 F 1 "GND" H 10500 7100 50  0000 C CNN
 F 2 "" H 10500 7250 50  0000 C CNN
 F 3 "" H 10500 7250 50  0000 C CNN
@@ -2281,10 +2259,10 @@ F 3 "" H 10500 7250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR0109
+L power:VCC #PWR015
 U 1 1 5FF054C3
 P 9650 6400
-F 0 "#PWR0109" H 9650 6250 50  0001 C CNN
+F 0 "#PWR015" H 9650 6250 50  0001 C CNN
 F 1 "VCC" H 9668 6573 50  0000 C CNN
 F 2 "" H 9650 6400 50  0000 C CNN
 F 3 "" H 9650 6400 50  0000 C CNN
@@ -2292,10 +2270,10 @@ F 3 "" H 9650 6400 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR0110
+L power:VCC #PWR016
 U 1 1 5FF059B5
 P 10500 6400
-F 0 "#PWR0110" H 10500 6250 50  0001 C CNN
+F 0 "#PWR016" H 10500 6250 50  0001 C CNN
 F 1 "VCC" H 10518 6573 50  0000 C CNN
 F 2 "" H 10500 6400 50  0000 C CNN
 F 3 "" H 10500 6400 50  0000 C CNN
@@ -2321,10 +2299,10 @@ Wire Wire Line
 Wire Wire Line
 	1700 6200 7700 6200
 $Comp
-L Bonsai:74541 U2
+L Bonsai:74541 U7
 U 6 1 5FB2C26F
 P 3500 7500
-F 0 "U2" V 3300 7300 60  0000 L CNN
+F 0 "U7" V 3300 7300 60  0000 L CNN
 F 1 "74541" V 3528 7628 60  0001 L CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 3550 7500 60  0001 C CNN
 F 3 "" H 3550 7500 60  0001 C CNN
@@ -2345,12 +2323,12 @@ Connection ~ 8350 2400
 Wire Wire Line
 	8350 2400 8350 4200
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D46
+L allBonsaiSymbolLibs:LED_Small-device D6
 U 1 1 58370AD1
 P 8250 2400
-F 0 "D46" H 8200 2525 50  0001 L CNN
+F 0 "D6" H 8200 2525 50  0001 L CNN
 F 1 "Led_Small" H 8075 2300 50  0001 L CNN
-F 2 "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" V 8250 2400 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8250 2400 50  0001 C CNN
 F 3 "" V 8250 2400 50  0000 C CNN
 	1    8250 2400
 	1    0    0    -1  
@@ -2362,10 +2340,10 @@ Wire Wire Line
 Wire Wire Line
 	7850 1900 7850 3650
 $Comp
-L allBonsaiSymbolLibs:R_PACK8BUSSED RP1
+L allBonsaiSymbolLibs:R_PACK8BUSSED RP2
 U 1 1 5B1ED72C
 P 8000 1700
-F 0 "RP1" V 8050 1300 50  0000 L CNN
+F 0 "RP2" V 8050 1300 50  0000 L CNN
 F 1 "R_PACK8BUSSED" H 8128 1708 50  0001 L CNN
 F 2 "Housings_SIP:SIP9_Housing_BigPads" H 8128 1609 60  0001 L CNN
 F 3 "" H 8000 1750 60  0000 C CNN
@@ -2460,12 +2438,12 @@ Connection ~ 8400 2850
 Connection ~ 7050 2750
 Connection ~ 6050 2750
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D33
+L allBonsaiSymbolLibs:LED_Small-device D15
 U 1 1 5836E800
 P 6650 2800
-F 0 "D33" H 6600 2925 50  0001 L CNN
+F 0 "D15" H 6600 2925 50  0001 L CNN
 F 1 "Led_Small" H 6475 2700 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" V 6650 2800 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix" V 6650 2800 50  0001 C CNN
 F 3 "" V 6650 2800 50  0000 C CNN
 	1    6650 2800
 	1    0    0    -1  
@@ -2507,10 +2485,10 @@ Wire Wire Line
 	8400 2750 9650 2750
 Connection ~ 5550 2650
 $Comp
-L allBonsaiSymbolLibs:74LS138-74xx U4
+L allBonsaiSymbolLibs:74LS138-74xx U2
 U 1 1 57E935AE
 P 4950 2700
-F 0 "U4" H 4950 2800 50  0000 C CNN
+F 0 "U2" H 4950 2800 50  0000 C CNN
 F 1 "74LS138" H 4900 2700 50  0000 C CNN
 F 2 "Housings_DIP:DIP-16_W7.62mm_Socket_LongPads" H 4950 2700 50  0001 C CNN
 F 3 "" H 4950 2700 50  0000 C CNN
@@ -2579,10 +2557,10 @@ Wire Wire Line
 Wire Wire Line
 	7400 7050 8550 7050
 $Comp
-L Connector_Generic:Conn_01x02 J6
+L Connector_Generic:Conn_01x02 J5
 U 1 1 63295D36
 P 3750 8900
-F 0 "J6" V 3668 8712 50  0000 R CNN
+F 0 "J5" V 3668 8712 50  0000 R CNN
 F 1 "Conn_01x02" V 3713 8712 50  0001 R CNN
 F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 3750 8900 50  0001 C CNN
 F 3 "~" H 3750 8900 50  0001 C CNN
@@ -2608,10 +2586,10 @@ Connection ~ 3800 7100
 Wire Wire Line
 	3800 7100 3800 7150
 $Comp
-L Connector_Generic:Conn_01x04 J7
+L Connector_Generic:Conn_01x04 J6
 U 1 1 633201FC
 P 4450 8900
-F 0 "J7" V 4368 8612 50  0000 R CNN
+F 0 "J6" V 4368 8612 50  0000 R CNN
 F 1 "Conn_01x04" V 4413 8612 50  0001 R CNN
 F 2 "Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical" H 4450 8900 50  0001 C CNN
 F 3 "~" H 4450 8900 50  0001 C CNN
@@ -2720,10 +2698,10 @@ Connection ~ 5550 3600
 Connection ~ 5550 3700
 Connection ~ 5550 4000
 $Comp
-L Connector_Generic:Conn_01x04 J9
+L Connector_Generic:Conn_01x04 J8
 U 1 1 634C99B0
 P 6250 8900
-F 0 "J9" V 6168 8612 50  0000 R CNN
+F 0 "J8" V 6168 8612 50  0000 R CNN
 F 1 "Conn_01x04" V 6213 8612 50  0001 R CNN
 F 2 "Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical" H 6250 8900 50  0001 C CNN
 F 3 "~" H 6250 8900 50  0001 C CNN
@@ -2731,10 +2709,10 @@ F 3 "~" H 6250 8900 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J8
+L Connector_Generic:Conn_01x02 J7
 U 1 1 63465C9B
 P 5550 8900
-F 0 "J8" V 5468 8712 50  0000 R CNN
+F 0 "J7" V 5468 8712 50  0000 R CNN
 F 1 "Conn_01x02" V 5513 8712 50  0001 R CNN
 F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 5550 8900 50  0001 C CNN
 F 3 "~" H 5550 8900 50  0001 C CNN
@@ -2753,10 +2731,10 @@ F 3 "~" H 1750 1750 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x03 J2
+L Connector_Generic:Conn_01x03 J3
 U 1 1 5F9E3519
 P 1450 5850
-F 0 "J2" H 1368 5617 50  0000 C CNN
+F 0 "J3" H 1368 5617 50  0000 C CNN
 F 1 "Conn_01x03" H 1368 5616 50  0001 C CNN
 F 2 "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" H 1450 5850 50  0001 C CNN
 F 3 "~" H 1450 5850 50  0001 C CNN
@@ -2764,10 +2742,10 @@ F 3 "~" H 1450 5850 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x03 J3
+L Connector_Generic:Conn_01x03 J4
 U 1 1 5FA27E50
 P 1450 8050
-F 0 "J3" H 1368 7817 50  0000 C CNN
+F 0 "J4" H 1368 7817 50  0000 C CNN
 F 1 "Conn_01x03" H 1368 7816 50  0001 C CNN
 F 2 "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" H 1450 8050 50  0001 C CNN
 F 3 "~" H 1450 8050 50  0001 C CNN
@@ -2775,10 +2753,10 @@ F 3 "~" H 1450 8050 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J4
+L Connector_Generic:Conn_01x02 J2
 U 1 1 5FA608C1
 P 10800 2100
-F 0 "J4" V 10718 1912 50  0000 R CNN
+F 0 "J2" V 10718 1912 50  0000 R CNN
 F 1 "Conn_01x02" V 10763 1912 50  0001 R CNN
 F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 10800 2100 50  0001 C CNN
 F 3 "~" H 10800 2100 50  0001 C CNN
@@ -2812,10 +2790,10 @@ Wire Wire Line
 Wire Wire Line
 	13300 2400 13650 2400
 $Comp
-L power:VCC #PWR029
+L power:VCC #PWR05
 U 1 1 5B01C202
 P 11050 2000
-F 0 "#PWR029" H 11050 1850 50  0001 C CNN
+F 0 "#PWR05" H 11050 1850 50  0001 C CNN
 F 1 "VCC" H 11068 2173 50  0000 C CNN
 F 2 "" H 11050 2000 50  0000 C CNN
 F 3 "" H 11050 2000 50  0000 C CNN
@@ -2837,10 +2815,10 @@ Connection ~ 13300 2400
 Connection ~ 13650 2000
 Connection ~ 13650 2400
 $Comp
-L allBonsaiSymbolLibs:C_Small C7
+L allBonsaiSymbolLibs:C_Small C8
 U 1 1 60906B72
 P 14350 2200
-F 0 "C7" H 14442 2246 50  0000 L CNN
+F 0 "C8" H 14442 2246 50  0000 L CNN
 F 1 "100n" H 14442 2155 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 14350 2200 60  0001 C CNN
 F 3 "" H 14350 2200 60  0000 C CNN
@@ -2848,10 +2826,10 @@ F 3 "" H 14350 2200 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:C_Small C8
+L allBonsaiSymbolLibs:C_Small C9
 U 1 1 60906D4E
 P 14700 2200
-F 0 "C8" H 14792 2246 50  0000 L CNN
+F 0 "C9" H 14792 2246 50  0000 L CNN
 F 1 "100n" H 14792 2155 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 14700 2200 60  0001 C CNN
 F 3 "" H 14700 2200 60  0000 C CNN
@@ -2885,10 +2863,10 @@ Wire Wire Line
 Wire Wire Line
 	1650 7950 2400 7950
 $Comp
-L allBonsaiSymbolLibs:R-device R16
+L allBonsaiSymbolLibs:R-device R2
 U 1 1 57E93BD4
 P 6000 1250
-F 0 "R16" H 6070 1296 50  0000 L CNN
+F 0 "R2" H 6070 1296 50  0000 L CNN
 F 1 "1k" H 6070 1205 50  0000 L CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5930 1250 50  0001 C CNN
 F 3 "" H 6000 1250 50  0000 C CNN
@@ -2898,10 +2876,10 @@ $EndComp
 Wire Wire Line
 	5950 950  5850 950 
 $Comp
-L power:VCC #PWR016
+L power:VCC #PWR01
 U 1 1 57FCE3FE
 P 5850 950
-F 0 "#PWR016" H 5850 800 50  0001 C CNN
+F 0 "#PWR01" H 5850 800 50  0001 C CNN
 F 1 "VCC" H 5850 1100 50  0000 C CNN
 F 2 "" H 5850 950 50  0000 C CNN
 F 3 "" H 5850 950 50  0000 C CNN
@@ -2909,10 +2887,10 @@ F 3 "" H 5850 950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R12
+L allBonsaiSymbolLibs:R-device R1
 U 1 1 57FCE307
 P 6100 950
-F 0 "R12" V 6180 950 50  0000 C CNN
+F 0 "R1" V 6180 950 50  0000 C CNN
 F 1 "330" V 6100 950 50  0000 C CNN
 F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6030 950 50  0001 C CNN
 F 3 "" H 6100 950 50  0000 C CNN
@@ -2941,10 +2919,10 @@ Wire Wire Line
 Wire Wire Line
 	6750 950  6750 1050
 $Comp
-L allBonsaiSymbolLibs:LED-device D13
+L allBonsaiSymbolLibs:LED-device D1
 U 1 1 57FCE20E
 P 6550 950
-F 0 "D13" H 6550 1050 50  0000 C CNN
+F 0 "D1" H 6550 1050 50  0000 C CNN
 F 1 "LED" H 6550 850 50  0000 C CNN
 F 2 "LED_THT:LED_D3.0mm" H 6550 950 50  0001 C CNN
 F 3 "" H 6550 950 50  0000 C CNN
@@ -3025,10 +3003,10 @@ v14
 Text Label 9600 3200 0    50   ~ 0
 v15
 $Comp
-L Device:CP C9
+L Device:CP C1
 U 1 1 6002ED3D
 P 11500 2200
-F 0 "C9" H 11618 2246 50  0000 L CNN
+F 0 "C1" H 11618 2246 50  0000 L CNN
 F 1 "100u" H 11618 2155 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P2.50mm" H 11538 2050 50  0001 C CNN
 F 3 "~" H 11500 2200 50  0001 C CNN
@@ -3051,4 +3029,23 @@ Wire Wire Line
 Connection ~ 11500 2000
 Wire Wire Line
 	11500 2000 11950 2000
+NoConn ~ 9650 4100
+$Comp
+L allBonsaiSymbolLibs:74LS161-74ls161bonsai U1
+U 1 1 5B42C8F2
+P 3300 2150
+F 0 "U1" H 3250 2400 50  0000 C CNN
+F 1 "74LS161" H 3250 2300 50  0000 C CNN
+F 2 "Housings_DIP:DIP-16_W7.62mm_Socket_LongPads" H 3300 2150 50  0001 C CNN
+F 3 "" H 3300 2150 50  0001 C CNN
+	1    3300 2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2600 2250 2250 2250
+Wire Wire Line
+	2250 2250 2250 2350
+Wire Wire Line
+	2250 2350 2600 2350
+Connection ~ 2250 2250
 $EndSCHEMATC
