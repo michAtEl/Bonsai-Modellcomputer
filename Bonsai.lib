@@ -89,4 +89,23 @@ X ~ 9 -350 0 200 R 50 50 8 1 I
 ENDDRAW
 ENDDEF
 #
+# bonsai_Led_Small_Platzhalter
+#
+DEF bonsai_Led_Small_Platzhalter D 0 10 N N 1 F N
+F0 "D" -5 70 50 H V L CNN
+F1 "bonsai_Led_Small_Platzhalter" -175 -100 50 H V L CNN
+F2 "" 35 0 60 V V C CNN
+F3 "" 35 0 60 V V C CNN
+$FPLIST
+ CP*
+ SM*
+$ENDFPLIST
+DRAW
+P 2 0 1 4 35 20 35 -20 N
+P 4 0 1 4 35 0 65 20 65 -20 35 0 N
+X K 1 0 0 35 R 40 40 1 1 P
+X A 2 100 0 35 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 #End Library

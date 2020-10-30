@@ -1164,7 +1164,6 @@ Wire Wire Line
 	6250 4200 5950 4200
 Wire Wire Line
 	6000 4150 5850 4150
-Connection ~ 6000 2300
 Connection ~ 8400 4000
 Wire Wire Line
 	8400 3950 8400 4000
@@ -1308,8 +1307,6 @@ Wire Wire Line
 Wire Wire Line
 	5550 2450 6050 2450
 Wire Wire Line
-	5550 2350 7900 2350
-Wire Wire Line
 	4200 2550 4350 2550
 Wire Wire Line
 	4200 1850 4200 2550
@@ -1403,7 +1400,7 @@ F 3 "" H 11300 2400 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	7100 7150 7100 7000
+	7100 7150 7100 7100
 Wire Wire Line
 	6800 6950 6800 7100
 Wire Wire Line
@@ -1515,10 +1512,6 @@ F 3 "" H 11300 2000 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
-	5500 2300 5500 1250
-Wire Wire Line
-	5500 2300 6000 2300
-Wire Wire Line
 	3850 4150 4100 4150
 Wire Wire Line
 	4050 4100 3550 4100
@@ -1559,8 +1552,6 @@ Wire Wire Line
 	4350 4000 3750 4000
 Connection ~ 3750 4000
 NoConn ~ 3900 2150
-Wire Wire Line
-	6000 2300 6000 2500
 Wire Wire Line
 	1950 1650 2600 1650
 Wire Wire Line
@@ -2208,7 +2199,7 @@ F 3 "" H 7450 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	7400 7050 7400 7150
+	7400 7050 7400 7100
 $Comp
 L Bonsai:74541 U7
 U 9 1 5FE6C6E4
@@ -2348,13 +2339,11 @@ $EndComp
 Wire Wire Line
 	5600 1900 5700 1900
 Wire Wire Line
-	6000 2250 6000 2300
-Wire Wire Line
 	5750 1900 5750 2600
 Wire Wire Line
 	6000 2250 5800 2250
 Wire Wire Line
-	5800 2250 5800 1900
+	5800 2250 5800 2200
 Wire Wire Line
 	6250 2200 5850 2200
 Wire Wire Line
@@ -2363,8 +2352,6 @@ Wire Wire Line
 	6500 2150 5900 2150
 Wire Wire Line
 	5900 2150 5900 1900
-Wire Wire Line
-	6500 2150 6500 2900
 Wire Wire Line
 	6750 2100 5950 2100
 Wire Wire Line
@@ -3048,4 +3035,46 @@ Wire Wire Line
 	6050 2400 6050 2450
 Wire Wire Line
 	6250 2200 6250 2400
+Wire Wire Line
+	5550 2350 7900 2350
+Wire Wire Line
+	6500 2150 6500 2900
+Wire Wire Line
+	5800 2200 5500 2200
+Connection ~ 5800 2200
+Wire Wire Line
+	5800 2200 5800 1900
+Wire Wire Line
+	5500 2200 5500 1250
+Wire Wire Line
+	6000 2250 6000 2500
+$Comp
+L Connector_Generic:Conn_01x02 J9
+U 1 1 5FB0DD94
+P 7350 8900
+F 0 "J9" V 7268 8712 50  0000 R CNN
+F 1 "Conn_01x02" V 7313 8712 50  0001 R CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 7350 8900 50  0001 C CNN
+F 3 "~" H 7350 8900 50  0001 C CNN
+	1    7350 8900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7100 7100 7250 7100
+Wire Wire Line
+	7250 7100 7250 8700
+Connection ~ 7100 7100
+Wire Wire Line
+	7100 7100 7100 7000
+Wire Wire Line
+	7400 7100 7550 7100
+Wire Wire Line
+	7550 7100 7550 8550
+Wire Wire Line
+	7550 8550 7350 8550
+Wire Wire Line
+	7350 8550 7350 8700
+Connection ~ 7400 7100
+Wire Wire Line
+	7400 7100 7400 7150
 $EndSCHEMATC
