@@ -718,13 +718,13 @@ F 3 "" H 1700 7350 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 1650 5750 0    60   ~ 0
-Takt
-Text Label 1750 5850 0    60   ~ 0
-enDEC
+CLK
+Text Label 1650 5850 0    60   ~ 0
+~enDEC
 Text Label 1700 8050 0    60   ~ 0
-enAkku
+~writeAccu
 Text Label 1700 8150 0    60   ~ 0
-loadIR
+~readR
 $Comp
 L power:VCC #PWR06
 U 1 1 582EEF49
@@ -1264,12 +1264,8 @@ Wire Wire Line
 	4100 3500 4350 3500
 Wire Wire Line
 	4150 3400 4350 3400
-Connection ~ 4100 1750
 Wire Wire Line
-	4100 1750 4100 3500
-Connection ~ 4050 1850
-Wire Wire Line
-	4050 1850 4050 3600
+	4050 1850 4050 2550
 Wire Wire Line
 	5550 4100 5800 4100
 Wire Wire Line
@@ -1304,16 +1300,6 @@ Wire Wire Line
 	5550 2550 5800 2550
 Wire Wire Line
 	5550 2450 5800 2450
-Wire Wire Line
-	4200 2550 4350 2550
-Wire Wire Line
-	4200 1850 4200 2550
-Wire Wire Line
-	4300 2450 4350 2450
-Wire Wire Line
-	4300 1750 4300 2450
-Wire Wire Line
-	4350 1650 4350 2350
 Wire Wire Line
 	8550 4450 9600 4450
 Wire Wire Line
@@ -1360,10 +1346,6 @@ Wire Wire Line
 	7050 3400 7300 3400
 Wire Wire Line
 	6800 3500 7050 3500
-Wire Wire Line
-	4100 1750 4300 1750
-Wire Wire Line
-	4050 1850 4200 1850
 $Comp
 L power:GND #PWR08
 U 1 1 5B01C88A
@@ -1828,7 +1810,7 @@ Connection ~ 7000 3450
 Text Notes 850  1650 0    50   ~ 0
 vom Befehlesdecoder
 Text Label 1650 6000 0    60   ~ 0
-enSTW
+~enCU
 Wire Wire Line
 	1650 6200 1650 5950
 Wire Wire Line
@@ -1891,18 +1873,15 @@ Wire Wire Line
 Connection ~ 4100 3500
 Connection ~ 4000 3900
 Wire Wire Line
-	4150 1650 4350 1650
-Wire Wire Line
 	3900 1650 4150 1650
-Connection ~ 4150 1650
 Connection ~ 4150 3400
 Connection ~ 2400 7950
 Text Label 1700 7950 0    60   ~ 0
-clrMPC
+~clrMPC
 Wire Wire Line
 	4000 1950 4000 3050
 Wire Wire Line
-	4150 1650 4150 3400
+	4150 1650 4150 2350
 Wire Wire Line
 	4350 3050 4000 3050
 Connection ~ 4000 3050
@@ -7156,4 +7135,81 @@ Wire Wire Line
 Connection ~ 9400 4100
 Wire Wire Line
 	9400 4100 9650 4100
+Connection ~ 4050 2550
+Wire Wire Line
+	4050 2550 4050 3600
+Wire Wire Line
+	4050 2550 4350 2550
+Wire Wire Line
+	4350 2350 4150 2350
+Connection ~ 4150 2350
+Wire Wire Line
+	4150 2350 4150 3400
+Wire Wire Line
+	4100 1750 4100 2450
+Connection ~ 4100 2450
+Wire Wire Line
+	4100 2450 4100 3500
+Wire Wire Line
+	4100 2450 4350 2450
+$Comp
+L Bonsai:74240 U4
+U 4 1 6088CDDE
+P 14000 6700
+F 0 "U4" V 13850 6750 50  0000 L CNN
+F 1 "74240" V 14000 6800 50  0000 L CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 14150 6600 50  0001 C CNN
+F 3 "" H 14150 6600 50  0001 C CNN
+	4    14000 6700
+	0    1    1    0   
+$EndComp
+$Comp
+L Bonsai:74240 U4
+U 3 1 6088E591
+P 13650 6700
+F 0 "U4" V 13500 6750 50  0000 L CNN
+F 1 "74240" V 13650 6800 50  0001 L CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 13800 6600 50  0001 C CNN
+F 3 "" H 13800 6600 50  0001 C CNN
+	3    13650 6700
+	0    1    1    0   
+$EndComp
+$Comp
+L Bonsai:74240 U4
+U 2 1 6088F09D
+P 13300 6700
+F 0 "U4" V 13150 6750 50  0000 L CNN
+F 1 "74240" V 13300 6800 50  0001 L CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 13450 6600 50  0001 C CNN
+F 3 "" H 13450 6600 50  0001 C CNN
+	2    13300 6700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	14000 6350 14000 6400
+Wire Wire Line
+	13650 6400 13650 6350
+Connection ~ 13650 6350
+Wire Wire Line
+	13650 6350 14000 6350
+NoConn ~ 14000 7050
+NoConn ~ 13650 7050
+NoConn ~ 13300 7050
+$Comp
+L power:VCC #PWR0101
+U 1 1 6125D521
+P 13650 6250
+F 0 "#PWR0101" H 13650 6100 50  0001 C CNN
+F 1 "VCC" H 13667 6423 50  0000 C CNN
+F 2 "" H 13650 6250 50  0001 C CNN
+F 3 "" H 13650 6250 50  0001 C CNN
+	1    13650 6250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13650 6250 13650 6350
+Wire Wire Line
+	13650 6350 13300 6350
+Wire Wire Line
+	13300 6350 13300 6400
 $EndSCHEMATC
