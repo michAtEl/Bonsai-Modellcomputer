@@ -1319,17 +1319,17 @@ Wire Wire Line
 Wire Wire Line
 	8400 3800 8650 3800
 Wire Wire Line
-	8400 3700 9650 3700
+	8400 3700 8650 3700
 Wire Wire Line
-	8400 3600 9650 3600
+	8400 3600 8650 3600
 Wire Wire Line
 	8400 3500 8650 3500
 Wire Wire Line
-	8400 3400 9650 3400
+	8400 3400 8650 3400
 Wire Wire Line
-	8400 3050 9650 3050
+	8400 3050 8650 3050
 Wire Wire Line
-	8400 2950 9650 2950
+	8400 2950 8650 2950
 Wire Wire Line
 	8400 2850 8650 2850
 Wire Wire Line
@@ -1343,11 +1343,11 @@ Wire Wire Line
 Wire Wire Line
 	6300 2950 6550 2950
 Wire Wire Line
-	7300 2950 8400 2950
+	7300 2950 7650 2950
 Wire Wire Line
-	7300 3600 8400 3600
+	7300 3600 7650 3600
 Wire Wire Line
-	7650 3700 8400 3700
+	7650 3700 7900 3700
 Wire Wire Line
 	6050 4000 6300 4000
 Wire Wire Line
@@ -1737,7 +1737,7 @@ Wire Wire Line
 	8100 2400 8100 2500
 Connection ~ 8100 2500
 Wire Wire Line
-	8100 2500 8100 4150
+	8100 2500 8100 2600
 Connection ~ 8600 3350
 Wire Wire Line
 	8600 3350 8600 3450
@@ -1800,7 +1800,7 @@ Wire Wire Line
 Wire Wire Line
 	8150 4250 8150 4600
 Wire Wire Line
-	8600 3950 8600 4250
+	8600 3950 8600 4050
 Connection ~ 7850 3650
 $Comp
 L power:VCC #PWR04
@@ -1842,24 +1842,24 @@ Wire Wire Line
 Connection ~ 7700 4550
 Connection ~ 8850 3750
 Wire Wire Line
-	8400 4000 8900 4000
+	8400 4000 8650 4000
 Wire Wire Line
-	8850 3750 8850 4300
+	8850 3750 8850 3850
 Connection ~ 9100 3950
 Wire Wire Line
-	9100 3950 9100 4350
+	9100 3950 9100 4050
 Wire Wire Line
-	8400 3900 9650 3900
+	8400 3900 8650 3900
 Wire Wire Line
 	8900 3950 8900 4000
 Connection ~ 8900 4000
 Wire Wire Line
-	8900 4000 9650 4000
+	8900 4000 9150 4000
 Wire Wire Line
 	8650 3750 8650 3800
 Connection ~ 8650 3800
 Wire Wire Line
-	8650 3800 9650 3800
+	8650 3800 8900 3800
 $Comp
 L allBonsaiSymbolLibs:LED_Small-device D27
 U 1 1 5CF05099
@@ -1875,12 +1875,12 @@ Wire Wire Line
 	8650 3450 8650 3500
 Connection ~ 8650 3500
 Wire Wire Line
-	8650 3500 9650 3500
+	8650 3500 8900 3500
 Wire Wire Line
-	8850 2800 8850 3450
+	8850 2800 8850 2900
 Connection ~ 8850 3450
 Wire Wire Line
-	8850 3450 8850 3750
+	8850 3450 8850 3550
 Wire Wire Line
 	4000 4050 4000 3900
 Wire Wire Line
@@ -2291,9 +2291,9 @@ F 3 "" H 3550 7500 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	8650 2850 9650 2850
+	8650 2850 8900 2850
 Wire Wire Line
-	8150 2450 9650 2450
+	8150 2450 8400 2450
 Wire Wire Line
 	3750 2950 3750 4000
 Wire Wire Line
@@ -2302,7 +2302,7 @@ Wire Wire Line
 	8150 2400 8150 2450
 Connection ~ 8350 2400
 Wire Wire Line
-	8350 2400 8350 4200
+	8350 2400 8350 2500
 $Comp
 L allBonsaiSymbolLibs:LED_Small-device D6
 U 1 1 58370AD1
@@ -2315,11 +2315,11 @@ F 3 "" V 8250 2400 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7900 2350 9650 2350
+	7900 2350 8150 2350
 Wire Wire Line
 	8100 2250 8100 2300
 Wire Wire Line
-	7850 1900 7850 3650
+	7850 1900 7850 2300
 $Comp
 L allBonsaiSymbolLibs:R_PACK8BUSSED RP2
 U 1 1 5B1ED72C
@@ -2378,7 +2378,7 @@ Wire Wire Line
 Wire Wire Line
 	7950 2200 7950 1900
 Wire Wire Line
-	8350 2200 8350 2400
+	8350 2200 8350 2300
 Wire Wire Line
 	8600 2150 8000 2150
 Wire Wire Line
@@ -2388,25 +2388,25 @@ Wire Wire Line
 Wire Wire Line
 	8050 2100 8050 1900
 Wire Wire Line
-	8850 2100 8850 2800
+	8850 2100 8850 2300
 Wire Wire Line
 	9100 2050 8100 2050
 Wire Wire Line
 	8100 2050 8100 1900
 Wire Wire Line
-	9100 2050 9100 3950
+	9100 2050 9100 2300
 Wire Wire Line
 	9350 2000 8150 2000
 Wire Wire Line
 	8150 2000 8150 1900
 Wire Wire Line
-	9350 2000 9350 4400
+	9350 2000 9350 2300
 Wire Wire Line
 	9600 1950 8200 1950
 Wire Wire Line
 	8200 1950 8200 1900
 Wire Wire Line
-	9600 1950 9600 4450
+	9600 1950 9600 2300
 Connection ~ 8400 2850
 Connection ~ 7050 2750
 Connection ~ 6050 2750
@@ -2441,21 +2441,21 @@ Connection ~ 8600 2600
 Wire Wire Line
 	8600 2600 8600 2700
 Wire Wire Line
-	8600 2150 8600 2600
+	8600 2150 8600 2300
 Wire Wire Line
-	7900 2550 9650 2550
+	7900 2550 8150 2550
 Wire Wire Line
 	7050 2750 7300 2750
 Wire Wire Line
 	8400 2600 8400 2650
 Connection ~ 8400 2650
 Wire Wire Line
-	8400 2650 9650 2650
+	8400 2650 8650 2650
 Wire Wire Line
 	8400 2700 8400 2750
 Connection ~ 8400 2750
 Wire Wire Line
-	8400 2750 9650 2750
+	8400 2750 8650 2750
 $Comp
 L allBonsaiSymbolLibs:74LS138-74xx U2
 U 1 1 57E935AE
@@ -2486,7 +2486,7 @@ Wire Wire Line
 Wire Wire Line
 	6050 6000 6050 6450
 Wire Wire Line
-	7850 3650 7850 4600
+	7850 3650 7850 3750
 Wire Wire Line
 	2400 2650 2400 7950
 Wire Wire Line
@@ -2942,37 +2942,37 @@ Text Label 9650 2450 0    50   ~ 0
 h1
 Text Label 9650 2350 0    50   ~ 0
 h0
-Text Label 5750 3200 0    50   ~ 0
+Text Label 5650 3200 0    50   ~ 0
 v0
-Text Label 6000 3200 0    50   ~ 0
+Text Label 5900 3200 0    50   ~ 0
 v1
-Text Label 6250 3200 0    50   ~ 0
+Text Label 6150 3200 0    50   ~ 0
 v2
-Text Label 6500 3200 0    50   ~ 0
+Text Label 6400 3200 0    50   ~ 0
 v3
-Text Label 6750 3200 0    50   ~ 0
+Text Label 6650 3200 0    50   ~ 0
 v4
-Text Label 7000 3200 0    50   ~ 0
+Text Label 6900 3200 0    50   ~ 0
 v5
-Text Label 7250 3200 0    50   ~ 0
+Text Label 7150 3200 0    50   ~ 0
 v6
-Text Label 7500 3200 0    50   ~ 0
+Text Label 7400 3200 0    50   ~ 0
 v7
-Text Label 7850 3200 0    50   ~ 0
+Text Label 7750 3200 0    50   ~ 0
 v8
-Text Label 8100 3200 0    50   ~ 0
+Text Label 8000 3200 0    50   ~ 0
 v9
-Text Label 8350 3200 0    50   ~ 0
+Text Label 8200 3200 0    50   ~ 0
 v10
-Text Label 8600 3200 0    50   ~ 0
+Text Label 8450 3200 0    50   ~ 0
 v11
-Text Label 8850 3200 0    50   ~ 0
+Text Label 8700 3200 0    50   ~ 0
 v12
-Text Label 9100 3200 0    50   ~ 0
+Text Label 8950 3200 0    50   ~ 0
 v13
-Text Label 9350 3200 0    50   ~ 0
+Text Label 9200 3200 0    50   ~ 0
 v14
-Text Label 9600 3200 0    50   ~ 0
+Text Label 9450 3200 0    50   ~ 0
 v15
 $Comp
 L Device:CP C1
@@ -3001,7 +3001,6 @@ Wire Wire Line
 Connection ~ 11500 2000
 Wire Wire Line
 	11500 2000 11950 2000
-NoConn ~ 9650 4100
 $Comp
 L allBonsaiSymbolLibs:74LS161-74ls161bonsai U1
 U 1 1 5B42C8F2
@@ -3884,12 +3883,12 @@ Wire Wire Line
 	7300 2300 7300 2350
 Connection ~ 7300 2350
 Wire Wire Line
-	7300 2350 7900 2350
+	7300 2350 7650 2350
 Wire Wire Line
 	7300 2400 7300 2450
 Connection ~ 7300 2450
 Wire Wire Line
-	7300 2450 7900 2450
+	7300 2450 7650 2450
 Wire Wire Line
 	7050 2400 7050 2450
 Connection ~ 7050 2450
@@ -4084,27 +4083,27 @@ Wire Wire Line
 	7300 2500 7300 2550
 Connection ~ 7300 2550
 Wire Wire Line
-	7300 2550 7900 2550
+	7300 2550 7650 2550
 Wire Wire Line
 	7300 2600 7300 2650
 Connection ~ 7300 2650
 Wire Wire Line
-	7300 2650 8400 2650
+	7300 2650 7650 2650
 Wire Wire Line
 	7300 2700 7300 2750
 Connection ~ 7300 2750
 Wire Wire Line
-	7300 2750 8400 2750
+	7300 2750 7650 2750
 Wire Wire Line
 	7300 2800 7300 2850
 Connection ~ 7300 2850
 Wire Wire Line
-	7300 2850 8400 2850
+	7300 2850 7650 2850
 Wire Wire Line
 	7300 3000 7300 3050
 Connection ~ 7300 3050
 Wire Wire Line
-	7300 3050 8400 3050
+	7300 3050 7650 3050
 Wire Wire Line
 	5550 2800 5550 2850
 Connection ~ 5550 2850
@@ -5093,12 +5092,12 @@ Wire Wire Line
 	7300 3350 7300 3400
 Connection ~ 7300 3400
 Wire Wire Line
-	7300 3400 8400 3400
+	7300 3400 7650 3400
 Wire Wire Line
 	7300 3450 7300 3500
 Connection ~ 7300 3500
 Wire Wire Line
-	7300 3500 8400 3500
+	7300 3500 7650 3500
 Wire Wire Line
 	7300 3650 7300 3700
 Connection ~ 7300 3700
@@ -5108,20 +5107,2053 @@ Wire Wire Line
 	7300 3750 7300 3800
 Connection ~ 7300 3800
 Wire Wire Line
-	7300 3800 8400 3800
+	7300 3800 7650 3800
 Wire Wire Line
 	7300 3850 7300 3900
 Connection ~ 7300 3900
 Wire Wire Line
-	7300 3900 8400 3900
+	7300 3900 7650 3900
 Wire Wire Line
 	7300 3950 7300 4000
 Connection ~ 7300 4000
 Wire Wire Line
-	7300 4000 8400 4000
+	7300 4000 7650 4000
 Wire Wire Line
 	7300 4050 7300 4100
 Connection ~ 7300 4100
 Wire Wire Line
-	7300 4100 9650 4100
+	7300 4100 7650 4100
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D173
+U 1 1 5FA7DB0A
+P 7650 2300
+F 0 "D173" H 7750 2484 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 2393 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 2300 60  0001 C CNN
+F 3 "" V 7805 2300 60  0001 C CNN
+	1    7650 2300
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 2300
+Wire Wire Line
+	7850 2300 7850 2400
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D174
+U 1 1 5FA7DE78
+P 8150 2300
+F 0 "D174" H 8250 2484 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 2393 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 2300 60  0001 C CNN
+F 3 "" V 8305 2300 60  0001 C CNN
+	1    8150 2300
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 2300
+Wire Wire Line
+	8350 2300 8350 2400
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D175
+U 1 1 5FA7E2CF
+P 8400 2300
+F 0 "D175" H 8500 2484 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8500 2393 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8555 2300 60  0001 C CNN
+F 3 "" V 8555 2300 60  0001 C CNN
+	1    8400 2300
+	1    0    0    -1  
+$EndComp
+Connection ~ 8600 2300
+Wire Wire Line
+	8600 2300 8600 2400
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D176
+U 1 1 5FA7E4A3
+P 8650 2300
+F 0 "D176" H 8750 2484 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8750 2393 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8805 2300 60  0001 C CNN
+F 3 "" V 8805 2300 60  0001 C CNN
+	1    8650 2300
+	1    0    0    -1  
+$EndComp
+Connection ~ 8850 2300
+Wire Wire Line
+	8850 2300 8850 2400
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D177
+U 1 1 5FA7E7D9
+P 8900 2300
+F 0 "D177" H 9000 2484 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 2393 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 2300 60  0001 C CNN
+F 3 "" V 9055 2300 60  0001 C CNN
+	1    8900 2300
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 2300
+Wire Wire Line
+	9100 2300 9100 2400
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D178
+U 1 1 5FA7EC02
+P 9150 2300
+F 0 "D178" H 9250 2484 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 2393 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 2300 60  0001 C CNN
+F 3 "" V 9305 2300 60  0001 C CNN
+	1    9150 2300
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 2300
+Wire Wire Line
+	9350 2300 9350 2400
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D179
+U 1 1 5FA7EF17
+P 9400 2300
+F 0 "D179" H 9500 2484 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 2393 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 2300 60  0001 C CNN
+F 3 "" V 9555 2300 60  0001 C CNN
+	1    9400 2300
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 2300
+Wire Wire Line
+	9600 2300 9600 2400
+Wire Wire Line
+	7650 2300 7650 2350
+Connection ~ 7650 2350
+Wire Wire Line
+	7650 2350 7900 2350
+Wire Wire Line
+	8150 2300 8150 2350
+Connection ~ 8150 2350
+Wire Wire Line
+	8150 2350 8400 2350
+Wire Wire Line
+	8400 2300 8400 2350
+Connection ~ 8400 2350
+Wire Wire Line
+	8400 2350 8650 2350
+Wire Wire Line
+	8650 2300 8650 2350
+Connection ~ 8650 2350
+Wire Wire Line
+	8650 2350 8900 2350
+Wire Wire Line
+	8900 2300 8900 2350
+Connection ~ 8900 2350
+Wire Wire Line
+	8900 2350 9150 2350
+Wire Wire Line
+	9150 2300 9150 2350
+Connection ~ 9150 2350
+Wire Wire Line
+	9150 2350 9400 2350
+Wire Wire Line
+	9400 2300 9400 2350
+Connection ~ 9400 2350
+Wire Wire Line
+	9400 2350 9650 2350
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D180
+U 1 1 5FFA7588
+P 7650 2400
+F 0 "D180" H 7750 2584 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 2493 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 2400 60  0001 C CNN
+F 3 "" V 7805 2400 60  0001 C CNN
+	1    7650 2400
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 2400
+Wire Wire Line
+	7850 2400 7850 2500
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D181
+U 1 1 5FFA77D3
+P 8400 2400
+F 0 "D181" H 8500 2584 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8500 2493 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8555 2400 60  0001 C CNN
+F 3 "" V 8555 2400 60  0001 C CNN
+	1    8400 2400
+	1    0    0    -1  
+$EndComp
+Connection ~ 8600 2400
+Wire Wire Line
+	8600 2400 8600 2500
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D182
+U 1 1 5FFA7963
+P 8650 2400
+F 0 "D182" H 8750 2584 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8750 2493 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8805 2400 60  0001 C CNN
+F 3 "" V 8805 2400 60  0001 C CNN
+	1    8650 2400
+	1    0    0    -1  
+$EndComp
+Connection ~ 8850 2400
+Wire Wire Line
+	8850 2400 8850 2500
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D183
+U 1 1 5FFA7B3C
+P 8900 2400
+F 0 "D183" H 9000 2584 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 2493 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 2400 60  0001 C CNN
+F 3 "" V 9055 2400 60  0001 C CNN
+	1    8900 2400
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 2400
+Wire Wire Line
+	9100 2400 9100 2500
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D184
+U 1 1 5FFA7D08
+P 9150 2400
+F 0 "D184" H 9250 2584 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 2493 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 2400 60  0001 C CNN
+F 3 "" V 9305 2400 60  0001 C CNN
+	1    9150 2400
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 2400
+Wire Wire Line
+	9350 2400 9350 2500
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D185
+U 1 1 5FFA7F14
+P 9400 2400
+F 0 "D185" H 9500 2584 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 2493 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 2400 60  0001 C CNN
+F 3 "" V 9555 2400 60  0001 C CNN
+	1    9400 2400
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 2400
+Wire Wire Line
+	9600 2400 9600 2500
+Wire Wire Line
+	7650 2400 7650 2450
+Connection ~ 7650 2450
+Wire Wire Line
+	7650 2450 7900 2450
+Wire Wire Line
+	8400 2400 8400 2450
+Connection ~ 8400 2450
+Wire Wire Line
+	8400 2450 8650 2450
+Wire Wire Line
+	8650 2400 8650 2450
+Connection ~ 8650 2450
+Wire Wire Line
+	8650 2450 8900 2450
+Wire Wire Line
+	8900 2400 8900 2450
+Connection ~ 8900 2450
+Wire Wire Line
+	8900 2450 9150 2450
+Wire Wire Line
+	9150 2400 9150 2450
+Connection ~ 9150 2450
+Wire Wire Line
+	9150 2450 9400 2450
+Wire Wire Line
+	9400 2400 9400 2450
+Connection ~ 9400 2450
+Wire Wire Line
+	9400 2450 9650 2450
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D186
+U 1 1 60450A90
+P 7650 2500
+F 0 "D186" H 7750 2684 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 2593 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 2500 60  0001 C CNN
+F 3 "" V 7805 2500 60  0001 C CNN
+	1    7650 2500
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 2500
+Wire Wire Line
+	7850 2500 7850 2600
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D187
+U 1 1 60450CD0
+P 8150 2500
+F 0 "D187" H 8250 2684 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 2593 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 2500 60  0001 C CNN
+F 3 "" V 8305 2500 60  0001 C CNN
+	1    8150 2500
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 2500
+Wire Wire Line
+	8350 2500 8350 2600
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D188
+U 1 1 60451131
+P 8400 2500
+F 0 "D188" H 8500 2684 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8500 2593 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8555 2500 60  0001 C CNN
+F 3 "" V 8555 2500 60  0001 C CNN
+	1    8400 2500
+	1    0    0    -1  
+$EndComp
+Connection ~ 8600 2500
+Wire Wire Line
+	8600 2500 8600 2600
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D189
+U 1 1 604512B6
+P 8650 2500
+F 0 "D189" H 8750 2684 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8750 2593 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8805 2500 60  0001 C CNN
+F 3 "" V 8805 2500 60  0001 C CNN
+	1    8650 2500
+	1    0    0    -1  
+$EndComp
+Connection ~ 8850 2500
+Wire Wire Line
+	8850 2500 8850 2600
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D190
+U 1 1 6045161A
+P 8900 2500
+F 0 "D190" H 9000 2684 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 2593 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 2500 60  0001 C CNN
+F 3 "" V 9055 2500 60  0001 C CNN
+	1    8900 2500
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 2500
+Wire Wire Line
+	9100 2500 9100 2600
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D191
+U 1 1 604518D4
+P 9150 2500
+F 0 "D191" H 9250 2684 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 2593 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 2500 60  0001 C CNN
+F 3 "" V 9305 2500 60  0001 C CNN
+	1    9150 2500
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 2500
+Wire Wire Line
+	9350 2500 9350 2600
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D192
+U 1 1 60451D9D
+P 9400 2500
+F 0 "D192" H 9500 2684 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 2593 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 2500 60  0001 C CNN
+F 3 "" V 9555 2500 60  0001 C CNN
+	1    9400 2500
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 2500
+Wire Wire Line
+	9600 2500 9600 2600
+Wire Wire Line
+	9400 2500 9400 2550
+Connection ~ 9400 2550
+Wire Wire Line
+	9400 2550 9650 2550
+Wire Wire Line
+	9150 2500 9150 2550
+Connection ~ 9150 2550
+Wire Wire Line
+	9150 2550 9400 2550
+Wire Wire Line
+	8900 2500 8900 2550
+Connection ~ 8900 2550
+Wire Wire Line
+	8900 2550 9150 2550
+Wire Wire Line
+	8650 2500 8650 2550
+Connection ~ 8650 2550
+Wire Wire Line
+	8650 2550 8900 2550
+Wire Wire Line
+	8400 2500 8400 2550
+Connection ~ 8400 2550
+Wire Wire Line
+	8400 2550 8650 2550
+Wire Wire Line
+	8150 2500 8150 2550
+Connection ~ 8150 2550
+Wire Wire Line
+	8150 2550 8400 2550
+Wire Wire Line
+	7650 2500 7650 2550
+Connection ~ 7650 2550
+Wire Wire Line
+	7650 2550 7900 2550
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D193
+U 1 1 609FC3E3
+P 7650 2600
+F 0 "D193" H 7750 2784 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 2693 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 2600 60  0001 C CNN
+F 3 "" V 7805 2600 60  0001 C CNN
+	1    7650 2600
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 2600
+Wire Wire Line
+	7850 2600 7850 2700
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D194
+U 1 1 609FC614
+P 7650 2700
+F 0 "D194" H 7750 2884 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 2793 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 2700 60  0001 C CNN
+F 3 "" V 7805 2700 60  0001 C CNN
+	1    7650 2700
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 2700
+Wire Wire Line
+	7850 2700 7850 2800
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D195
+U 1 1 609FC82F
+P 7650 2800
+F 0 "D195" H 7750 2984 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 2893 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 2800 60  0001 C CNN
+F 3 "" V 7805 2800 60  0001 C CNN
+	1    7650 2800
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 2800
+Wire Wire Line
+	7850 2800 7850 2900
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D196
+U 1 1 609FCA2C
+P 7650 2900
+F 0 "D196" H 7750 3084 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 2993 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 2900 60  0001 C CNN
+F 3 "" V 7805 2900 60  0001 C CNN
+	1    7650 2900
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 2900
+Wire Wire Line
+	7850 2900 7850 3000
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D197
+U 1 1 609FCCC6
+P 7650 3000
+F 0 "D197" H 7750 3184 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 3093 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 3000 60  0001 C CNN
+F 3 "" V 7805 3000 60  0001 C CNN
+	1    7650 3000
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 3000
+Wire Wire Line
+	7850 3000 7850 3350
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D199
+U 1 1 609FCFD8
+P 7650 3450
+F 0 "D199" H 7750 3634 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 3543 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 3450 60  0001 C CNN
+F 3 "" V 7805 3450 60  0001 C CNN
+	1    7650 3450
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 3450
+Wire Wire Line
+	7850 3450 7850 3550
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D200
+U 1 1 609FD436
+P 7650 3550
+F 0 "D200" H 7750 3734 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 3643 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 3550 60  0001 C CNN
+F 3 "" V 7805 3550 60  0001 C CNN
+	1    7650 3550
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 3550
+Wire Wire Line
+	7850 3550 7850 3650
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D198
+U 1 1 609FD6D5
+P 7650 3350
+F 0 "D198" H 7750 3534 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 3443 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 3350 60  0001 C CNN
+F 3 "" V 7805 3350 60  0001 C CNN
+	1    7650 3350
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 3350
+Wire Wire Line
+	7850 3350 7850 3450
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D201
+U 1 1 609FD91B
+P 7650 3750
+F 0 "D201" H 7750 3934 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 3843 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 3750 60  0001 C CNN
+F 3 "" V 7805 3750 60  0001 C CNN
+	1    7650 3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 3750
+Wire Wire Line
+	7850 3750 7850 3850
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D202
+U 1 1 609FDC1C
+P 7650 3850
+F 0 "D202" H 7750 4034 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 3943 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 3850 60  0001 C CNN
+F 3 "" V 7805 3850 60  0001 C CNN
+	1    7650 3850
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 3850
+Wire Wire Line
+	7850 3850 7850 3950
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D203
+U 1 1 609FDDB1
+P 7650 3950
+F 0 "D203" H 7750 4134 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 4043 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 3950 60  0001 C CNN
+F 3 "" V 7805 3950 60  0001 C CNN
+	1    7650 3950
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 3950
+Wire Wire Line
+	7850 3950 7850 4050
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D204
+U 1 1 609FE06B
+P 7650 4050
+F 0 "D204" H 7750 4234 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7750 4143 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7805 4050 60  0001 C CNN
+F 3 "" V 7805 4050 60  0001 C CNN
+	1    7650 4050
+	1    0    0    -1  
+$EndComp
+Connection ~ 7850 4050
+Wire Wire Line
+	7850 4050 7850 4600
+Wire Wire Line
+	7650 2600 7650 2650
+Connection ~ 7650 2650
+Wire Wire Line
+	7650 2650 7900 2650
+Wire Wire Line
+	7650 2700 7650 2750
+Connection ~ 7650 2750
+Wire Wire Line
+	7650 2750 7900 2750
+Wire Wire Line
+	7650 2800 7650 2850
+Connection ~ 7650 2850
+Wire Wire Line
+	7650 2850 7900 2850
+Wire Wire Line
+	7650 2900 7650 2950
+Connection ~ 7650 2950
+Wire Wire Line
+	7650 2950 7900 2950
+Wire Wire Line
+	7650 3000 7650 3050
+Connection ~ 7650 3050
+Wire Wire Line
+	7650 3050 7900 3050
+Wire Wire Line
+	7650 3350 7650 3400
+Connection ~ 7650 3400
+Wire Wire Line
+	7650 3400 7900 3400
+Wire Wire Line
+	7650 3450 7650 3500
+Connection ~ 7650 3500
+Wire Wire Line
+	7650 3500 7900 3500
+Wire Wire Line
+	7650 3550 7650 3600
+Connection ~ 7650 3600
+Wire Wire Line
+	7650 3600 7900 3600
+Wire Wire Line
+	7650 3750 7650 3800
+Connection ~ 7650 3800
+Wire Wire Line
+	7650 3800 7900 3800
+Wire Wire Line
+	7650 3850 7650 3900
+Connection ~ 7650 3900
+Wire Wire Line
+	7650 3900 7900 3900
+Wire Wire Line
+	7650 3950 7650 4000
+Connection ~ 7650 4000
+Wire Wire Line
+	7650 4000 7900 4000
+Wire Wire Line
+	7650 4050 7650 4100
+Connection ~ 7650 4100
+Wire Wire Line
+	7650 4100 7900 4100
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D205
+U 1 1 6142567E
+P 7900 2600
+F 0 "D205" H 8000 2784 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8000 2693 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8055 2600 60  0001 C CNN
+F 3 "" V 8055 2600 60  0001 C CNN
+	1    7900 2600
+	1    0    0    -1  
+$EndComp
+Connection ~ 8100 2600
+Wire Wire Line
+	8100 2600 8100 2700
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D206
+U 1 1 6142599B
+P 7900 2700
+F 0 "D206" H 8000 2884 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8000 2793 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8055 2700 60  0001 C CNN
+F 3 "" V 8055 2700 60  0001 C CNN
+	1    7900 2700
+	1    0    0    -1  
+$EndComp
+Connection ~ 8100 2700
+Wire Wire Line
+	8100 2700 8100 2800
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D207
+U 1 1 61425BBF
+P 7900 2800
+F 0 "D207" H 8000 2984 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8000 2893 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8055 2800 60  0001 C CNN
+F 3 "" V 8055 2800 60  0001 C CNN
+	1    7900 2800
+	1    0    0    -1  
+$EndComp
+Connection ~ 8100 2800
+Wire Wire Line
+	8100 2800 8100 2900
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D208
+U 1 1 61425D3B
+P 7900 2900
+F 0 "D208" H 8000 3084 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8000 2993 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8055 2900 60  0001 C CNN
+F 3 "" V 8055 2900 60  0001 C CNN
+	1    7900 2900
+	1    0    0    -1  
+$EndComp
+Connection ~ 8100 2900
+Wire Wire Line
+	8100 2900 8100 3000
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D209
+U 1 1 61425F59
+P 7900 3000
+F 0 "D209" H 8000 3184 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8000 3093 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8055 3000 60  0001 C CNN
+F 3 "" V 8055 3000 60  0001 C CNN
+	1    7900 3000
+	1    0    0    -1  
+$EndComp
+Connection ~ 8100 3000
+Wire Wire Line
+	8100 3000 8100 3350
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D210
+U 1 1 61426138
+P 7900 3350
+F 0 "D210" H 8000 3534 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8000 3443 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8055 3350 60  0001 C CNN
+F 3 "" V 8055 3350 60  0001 C CNN
+	1    7900 3350
+	1    0    0    -1  
+$EndComp
+Connection ~ 8100 3350
+Wire Wire Line
+	8100 3350 8100 3450
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D211
+U 1 1 6142646E
+P 7900 3450
+F 0 "D211" H 8000 3634 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8000 3543 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8055 3450 60  0001 C CNN
+F 3 "" V 8055 3450 60  0001 C CNN
+	1    7900 3450
+	1    0    0    -1  
+$EndComp
+Connection ~ 8100 3450
+Wire Wire Line
+	8100 3450 8100 3550
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D212
+U 1 1 614266D0
+P 7900 3550
+F 0 "D212" H 8000 3734 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8000 3643 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8055 3550 60  0001 C CNN
+F 3 "" V 8055 3550 60  0001 C CNN
+	1    7900 3550
+	1    0    0    -1  
+$EndComp
+Connection ~ 8100 3550
+Wire Wire Line
+	8100 3550 8100 3650
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D213
+U 1 1 614268BD
+P 7900 3650
+F 0 "D213" H 8000 3834 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8000 3743 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8055 3650 60  0001 C CNN
+F 3 "" V 8055 3650 60  0001 C CNN
+	1    7900 3650
+	1    0    0    -1  
+$EndComp
+Connection ~ 8100 3650
+Wire Wire Line
+	8100 3650 8100 3750
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D214
+U 1 1 61426A38
+P 7900 3750
+F 0 "D214" H 8000 3934 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8000 3843 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8055 3750 60  0001 C CNN
+F 3 "" V 8055 3750 60  0001 C CNN
+	1    7900 3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 8100 3750
+Wire Wire Line
+	8100 3750 8100 3850
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D215
+U 1 1 61426C75
+P 7900 3850
+F 0 "D215" H 8000 4034 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8000 3943 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8055 3850 60  0001 C CNN
+F 3 "" V 8055 3850 60  0001 C CNN
+	1    7900 3850
+	1    0    0    -1  
+$EndComp
+Connection ~ 8100 3850
+Wire Wire Line
+	8100 3850 8100 3950
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D216
+U 1 1 61426DE1
+P 7900 3950
+F 0 "D216" H 8000 4134 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8000 4043 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8055 3950 60  0001 C CNN
+F 3 "" V 8055 3950 60  0001 C CNN
+	1    7900 3950
+	1    0    0    -1  
+$EndComp
+Connection ~ 8100 3950
+Wire Wire Line
+	8100 3950 8100 4050
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D217
+U 1 1 6142701F
+P 7900 4050
+F 0 "D217" H 8000 4234 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8000 4143 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8055 4050 60  0001 C CNN
+F 3 "" V 8055 4050 60  0001 C CNN
+	1    7900 4050
+	1    0    0    -1  
+$EndComp
+Connection ~ 8100 4050
+Wire Wire Line
+	8100 4050 8100 4150
+Wire Wire Line
+	7900 2600 7900 2650
+Connection ~ 7900 2650
+Wire Wire Line
+	7900 2650 8150 2650
+Wire Wire Line
+	7900 2700 7900 2750
+Connection ~ 7900 2750
+Wire Wire Line
+	7900 2750 8150 2750
+Wire Wire Line
+	7900 2800 7900 2850
+Connection ~ 7900 2850
+Wire Wire Line
+	7900 2850 8150 2850
+Wire Wire Line
+	7900 2900 7900 2950
+Connection ~ 7900 2950
+Wire Wire Line
+	7900 2950 8150 2950
+Wire Wire Line
+	7900 3000 7900 3050
+Connection ~ 7900 3050
+Wire Wire Line
+	7900 3050 8150 3050
+Wire Wire Line
+	7900 3350 7900 3400
+Connection ~ 7900 3400
+Wire Wire Line
+	7900 3400 8150 3400
+Wire Wire Line
+	7900 3450 7900 3500
+Connection ~ 7900 3500
+Wire Wire Line
+	7900 3500 8150 3500
+Wire Wire Line
+	7900 3550 7900 3600
+Connection ~ 7900 3600
+Wire Wire Line
+	7900 3600 8150 3600
+Wire Wire Line
+	7900 3650 7900 3700
+Connection ~ 7900 3700
+Wire Wire Line
+	7900 3700 8150 3700
+Wire Wire Line
+	7900 3750 7900 3800
+Connection ~ 7900 3800
+Wire Wire Line
+	7900 3800 8150 3800
+Wire Wire Line
+	7900 3850 7900 3900
+Connection ~ 7900 3900
+Wire Wire Line
+	7900 3900 8150 3900
+Wire Wire Line
+	7900 3950 7900 4000
+Connection ~ 7900 4000
+Wire Wire Line
+	7900 4000 8150 4000
+Wire Wire Line
+	7900 4050 7900 4100
+Connection ~ 7900 4100
+Wire Wire Line
+	7900 4100 8150 4100
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D218
+U 1 1 61FF5EE2
+P 8150 2600
+F 0 "D218" H 8250 2784 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 2693 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 2600 60  0001 C CNN
+F 3 "" V 8305 2600 60  0001 C CNN
+	1    8150 2600
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 2600
+Wire Wire Line
+	8350 2600 8350 2700
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D219
+U 1 1 61FF6068
+P 8150 2700
+F 0 "D219" H 8250 2884 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 2793 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 2700 60  0001 C CNN
+F 3 "" V 8305 2700 60  0001 C CNN
+	1    8150 2700
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 2700
+Wire Wire Line
+	8350 2700 8350 2800
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D220
+U 1 1 61FF6318
+P 8150 2800
+F 0 "D220" H 8250 2984 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 2893 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 2800 60  0001 C CNN
+F 3 "" V 8305 2800 60  0001 C CNN
+	1    8150 2800
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 2800
+Wire Wire Line
+	8350 2800 8350 2900
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D221
+U 1 1 61FF64E2
+P 8150 2900
+F 0 "D221" H 8250 3084 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 2993 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 2900 60  0001 C CNN
+F 3 "" V 8305 2900 60  0001 C CNN
+	1    8150 2900
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 2900
+Wire Wire Line
+	8350 2900 8350 3000
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D222
+U 1 1 61FF6764
+P 8150 3000
+F 0 "D222" H 8250 3184 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 3093 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 3000 60  0001 C CNN
+F 3 "" V 8305 3000 60  0001 C CNN
+	1    8150 3000
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 3000
+Wire Wire Line
+	8350 3000 8350 3350
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D223
+U 1 1 61FF69A5
+P 8150 3350
+F 0 "D223" H 8250 3534 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 3443 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 3350 60  0001 C CNN
+F 3 "" V 8305 3350 60  0001 C CNN
+	1    8150 3350
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 3350
+Wire Wire Line
+	8350 3350 8350 3450
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D224
+U 1 1 61FF6D13
+P 8150 3450
+F 0 "D224" H 8250 3634 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 3543 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 3450 60  0001 C CNN
+F 3 "" V 8305 3450 60  0001 C CNN
+	1    8150 3450
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 3450
+Wire Wire Line
+	8350 3450 8350 3550
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D225
+U 1 1 61FF6F50
+P 8150 3550
+F 0 "D225" H 8250 3734 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 3643 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 3550 60  0001 C CNN
+F 3 "" V 8305 3550 60  0001 C CNN
+	1    8150 3550
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 3550
+Wire Wire Line
+	8350 3550 8350 3650
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D226
+U 1 1 61FF717C
+P 8150 3650
+F 0 "D226" H 8250 3834 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 3743 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 3650 60  0001 C CNN
+F 3 "" V 8305 3650 60  0001 C CNN
+	1    8150 3650
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 3650
+Wire Wire Line
+	8350 3650 8350 3750
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D227
+U 1 1 61FF73E8
+P 8150 3750
+F 0 "D227" H 8250 3934 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 3843 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 3750 60  0001 C CNN
+F 3 "" V 8305 3750 60  0001 C CNN
+	1    8150 3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 3750
+Wire Wire Line
+	8350 3750 8350 3850
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D228
+U 1 1 61FF75E5
+P 8150 3850
+F 0 "D228" H 8250 4034 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 3943 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 3850 60  0001 C CNN
+F 3 "" V 8305 3850 60  0001 C CNN
+	1    8150 3850
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 3850
+Wire Wire Line
+	8350 3850 8350 3950
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D229
+U 1 1 61FF77BD
+P 8150 3950
+F 0 "D229" H 8250 4134 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 4043 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 3950 60  0001 C CNN
+F 3 "" V 8305 3950 60  0001 C CNN
+	1    8150 3950
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 3950
+Wire Wire Line
+	8350 3950 8350 4050
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D230
+U 1 1 61FF7996
+P 8150 4050
+F 0 "D230" H 8250 4234 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8250 4143 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8305 4050 60  0001 C CNN
+F 3 "" V 8305 4050 60  0001 C CNN
+	1    8150 4050
+	1    0    0    -1  
+$EndComp
+Connection ~ 8350 4050
+Wire Wire Line
+	8350 4050 8350 4200
+Wire Wire Line
+	8150 2600 8150 2650
+Connection ~ 8150 2650
+Wire Wire Line
+	8150 2650 8400 2650
+Wire Wire Line
+	8150 2700 8150 2750
+Connection ~ 8150 2750
+Wire Wire Line
+	8150 2750 8400 2750
+Wire Wire Line
+	8150 2800 8150 2850
+Connection ~ 8150 2850
+Wire Wire Line
+	8150 2850 8400 2850
+Wire Wire Line
+	8150 2900 8150 2950
+Connection ~ 8150 2950
+Wire Wire Line
+	8150 2950 8400 2950
+Wire Wire Line
+	8150 3000 8150 3050
+Connection ~ 8150 3050
+Wire Wire Line
+	8150 3050 8400 3050
+Wire Wire Line
+	8150 3350 8150 3400
+Connection ~ 8150 3400
+Wire Wire Line
+	8150 3400 8400 3400
+Wire Wire Line
+	8150 3450 8150 3500
+Connection ~ 8150 3500
+Wire Wire Line
+	8150 3500 8400 3500
+Wire Wire Line
+	8150 3550 8150 3600
+Connection ~ 8150 3600
+Wire Wire Line
+	8150 3600 8400 3600
+Wire Wire Line
+	8150 3650 8150 3700
+Connection ~ 8150 3700
+Wire Wire Line
+	8150 3700 8400 3700
+Wire Wire Line
+	8150 3750 8150 3800
+Connection ~ 8150 3800
+Wire Wire Line
+	8150 3800 8400 3800
+Wire Wire Line
+	8150 3850 8150 3900
+Connection ~ 8150 3900
+Wire Wire Line
+	8150 3900 8400 3900
+Wire Wire Line
+	8150 3950 8150 4000
+Connection ~ 8150 4000
+Wire Wire Line
+	8150 4000 8400 4000
+Wire Wire Line
+	8150 4050 8150 4100
+Connection ~ 8150 4100
+Wire Wire Line
+	8150 4100 8400 4100
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D231
+U 1 1 62CAFE1A
+P 8400 4050
+F 0 "D231" H 8500 4234 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8500 4143 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8555 4050 60  0001 C CNN
+F 3 "" V 8555 4050 60  0001 C CNN
+	1    8400 4050
+	1    0    0    -1  
+$EndComp
+Connection ~ 8600 4050
+Wire Wire Line
+	8600 4050 8600 4250
+Wire Wire Line
+	8400 4050 8400 4100
+Connection ~ 8400 4100
+Wire Wire Line
+	8400 4100 8650 4100
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D232
+U 1 1 62DAAA90
+P 8650 2600
+F 0 "D232" H 8750 2784 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8750 2693 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8805 2600 60  0001 C CNN
+F 3 "" V 8805 2600 60  0001 C CNN
+	1    8650 2600
+	1    0    0    -1  
+$EndComp
+Connection ~ 8850 2600
+Wire Wire Line
+	8850 2600 8850 2700
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D233
+U 1 1 62DAAC35
+P 8650 2700
+F 0 "D233" H 8750 2884 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8750 2793 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8805 2700 60  0001 C CNN
+F 3 "" V 8805 2700 60  0001 C CNN
+	1    8650 2700
+	1    0    0    -1  
+$EndComp
+Connection ~ 8850 2700
+Wire Wire Line
+	8850 2700 8850 2800
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D234
+U 1 1 62DAAEAB
+P 8650 2900
+F 0 "D234" H 8750 3084 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8750 2993 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8805 2900 60  0001 C CNN
+F 3 "" V 8805 2900 60  0001 C CNN
+	1    8650 2900
+	1    0    0    -1  
+$EndComp
+Connection ~ 8850 2900
+Wire Wire Line
+	8850 2900 8850 3000
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D235
+U 1 1 62DAB10F
+P 8650 3000
+F 0 "D235" H 8750 3184 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8750 3093 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8805 3000 60  0001 C CNN
+F 3 "" V 8805 3000 60  0001 C CNN
+	1    8650 3000
+	1    0    0    -1  
+$EndComp
+Connection ~ 8850 3000
+Wire Wire Line
+	8850 3000 8850 3350
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D236
+U 1 1 62DAB320
+P 8650 3350
+F 0 "D236" H 8750 3534 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8750 3443 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8805 3350 60  0001 C CNN
+F 3 "" V 8805 3350 60  0001 C CNN
+	1    8650 3350
+	1    0    0    -1  
+$EndComp
+Connection ~ 8850 3350
+Wire Wire Line
+	8850 3350 8850 3450
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D237
+U 1 1 62DAB769
+P 8650 3550
+F 0 "D237" H 8750 3734 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8750 3643 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8805 3550 60  0001 C CNN
+F 3 "" V 8805 3550 60  0001 C CNN
+	1    8650 3550
+	1    0    0    -1  
+$EndComp
+Connection ~ 8850 3550
+Wire Wire Line
+	8850 3550 8850 3650
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D238
+U 1 1 62DABB21
+P 8650 3650
+F 0 "D238" H 8750 3834 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8750 3743 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8805 3650 60  0001 C CNN
+F 3 "" V 8805 3650 60  0001 C CNN
+	1    8650 3650
+	1    0    0    -1  
+$EndComp
+Connection ~ 8850 3650
+Wire Wire Line
+	8850 3650 8850 3750
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D239
+U 1 1 62DABE6B
+P 8650 3850
+F 0 "D239" H 8750 4034 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8750 3943 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8805 3850 60  0001 C CNN
+F 3 "" V 8805 3850 60  0001 C CNN
+	1    8650 3850
+	1    0    0    -1  
+$EndComp
+Connection ~ 8850 3850
+Wire Wire Line
+	8850 3850 8850 3950
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D240
+U 1 1 62DAC0C9
+P 8650 3950
+F 0 "D240" H 8750 4134 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8750 4043 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8805 3950 60  0001 C CNN
+F 3 "" V 8805 3950 60  0001 C CNN
+	1    8650 3950
+	1    0    0    -1  
+$EndComp
+Connection ~ 8850 3950
+Wire Wire Line
+	8850 3950 8850 4050
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D241
+U 1 1 62DAC33D
+P 8650 4050
+F 0 "D241" H 8750 4234 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8750 4143 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8805 4050 60  0001 C CNN
+F 3 "" V 8805 4050 60  0001 C CNN
+	1    8650 4050
+	1    0    0    -1  
+$EndComp
+Connection ~ 8850 4050
+Wire Wire Line
+	8850 4050 8850 4300
+Wire Wire Line
+	8650 2600 8650 2650
+Connection ~ 8650 2650
+Wire Wire Line
+	8650 2650 8900 2650
+Wire Wire Line
+	8650 2700 8650 2750
+Connection ~ 8650 2750
+Wire Wire Line
+	8650 2750 8900 2750
+Wire Wire Line
+	8650 2900 8650 2950
+Connection ~ 8650 2950
+Wire Wire Line
+	8650 2950 8900 2950
+Wire Wire Line
+	8650 3000 8650 3050
+Connection ~ 8650 3050
+Wire Wire Line
+	8650 3050 8900 3050
+Wire Wire Line
+	8650 3350 8650 3400
+Connection ~ 8650 3400
+Wire Wire Line
+	8650 3400 8900 3400
+Wire Wire Line
+	8650 3550 8650 3600
+Connection ~ 8650 3600
+Wire Wire Line
+	8650 3600 8900 3600
+Wire Wire Line
+	8650 3650 8650 3700
+Connection ~ 8650 3700
+Wire Wire Line
+	8650 3700 8900 3700
+Wire Wire Line
+	8650 3850 8650 3900
+Connection ~ 8650 3900
+Wire Wire Line
+	8650 3900 8900 3900
+Wire Wire Line
+	8650 3950 8650 4000
+Connection ~ 8650 4000
+Wire Wire Line
+	8650 4000 8900 4000
+Wire Wire Line
+	8650 4050 8650 4100
+Connection ~ 8650 4100
+Wire Wire Line
+	8650 4100 8900 4100
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D242
+U 1 1 6390D616
+P 8900 2600
+F 0 "D242" H 9000 2784 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 2693 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 2600 60  0001 C CNN
+F 3 "" V 9055 2600 60  0001 C CNN
+	1    8900 2600
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 2600
+Wire Wire Line
+	9100 2600 9100 2700
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D243
+U 1 1 6390D817
+P 8900 2700
+F 0 "D243" H 9000 2884 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 2793 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 2700 60  0001 C CNN
+F 3 "" V 9055 2700 60  0001 C CNN
+	1    8900 2700
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 2700
+Wire Wire Line
+	9100 2700 9100 2800
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D244
+U 1 1 6390DA62
+P 8900 2800
+F 0 "D244" H 9000 2984 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 2893 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 2800 60  0001 C CNN
+F 3 "" V 9055 2800 60  0001 C CNN
+	1    8900 2800
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 2800
+Wire Wire Line
+	9100 2800 9100 2900
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D245
+U 1 1 6390DC20
+P 8900 2900
+F 0 "D245" H 9000 3084 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 2993 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 2900 60  0001 C CNN
+F 3 "" V 9055 2900 60  0001 C CNN
+	1    8900 2900
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 2900
+Wire Wire Line
+	9100 2900 9100 3000
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D246
+U 1 1 6390DE75
+P 8900 3000
+F 0 "D246" H 9000 3184 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 3093 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 3000 60  0001 C CNN
+F 3 "" V 9055 3000 60  0001 C CNN
+	1    8900 3000
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 3000
+Wire Wire Line
+	9100 3000 9100 3350
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D247
+U 1 1 6390E0AB
+P 8900 3350
+F 0 "D247" H 9000 3534 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 3443 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 3350 60  0001 C CNN
+F 3 "" V 9055 3350 60  0001 C CNN
+	1    8900 3350
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 3350
+Wire Wire Line
+	9100 3350 9100 3450
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D248
+U 1 1 6390E486
+P 8900 3450
+F 0 "D248" H 9000 3634 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 3543 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 3450 60  0001 C CNN
+F 3 "" V 9055 3450 60  0001 C CNN
+	1    8900 3450
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 3450
+Wire Wire Line
+	9100 3450 9100 3550
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D249
+U 1 1 6390E6E1
+P 8900 3550
+F 0 "D249" H 9000 3734 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 3643 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 3550 60  0001 C CNN
+F 3 "" V 9055 3550 60  0001 C CNN
+	1    8900 3550
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 3550
+Wire Wire Line
+	9100 3550 9100 3650
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D250
+U 1 1 6390E976
+P 8900 3650
+F 0 "D250" H 9000 3834 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 3743 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 3650 60  0001 C CNN
+F 3 "" V 9055 3650 60  0001 C CNN
+	1    8900 3650
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 3650
+Wire Wire Line
+	9100 3650 9100 3750
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D251
+U 1 1 6390EC6D
+P 8900 3750
+F 0 "D251" H 9000 3934 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 3843 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 3750 60  0001 C CNN
+F 3 "" V 9055 3750 60  0001 C CNN
+	1    8900 3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 3750
+Wire Wire Line
+	9100 3750 9100 3850
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D252
+U 1 1 6390EF2A
+P 8900 3850
+F 0 "D252" H 9000 4034 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 3943 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 3850 60  0001 C CNN
+F 3 "" V 9055 3850 60  0001 C CNN
+	1    8900 3850
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 3850
+Wire Wire Line
+	9100 3850 9100 3950
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D253
+U 1 1 6390F1FD
+P 8900 4050
+F 0 "D253" H 9000 4234 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9000 4143 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9055 4050 60  0001 C CNN
+F 3 "" V 9055 4050 60  0001 C CNN
+	1    8900 4050
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 4050
+Wire Wire Line
+	9100 4050 9100 4350
+Wire Wire Line
+	8900 2600 8900 2650
+Connection ~ 8900 2650
+Wire Wire Line
+	8900 2650 9150 2650
+Wire Wire Line
+	8900 2700 8900 2750
+Connection ~ 8900 2750
+Wire Wire Line
+	8900 2750 9150 2750
+Wire Wire Line
+	8900 2800 8900 2850
+Connection ~ 8900 2850
+Wire Wire Line
+	8900 2850 9150 2850
+Wire Wire Line
+	8900 2900 8900 2950
+Connection ~ 8900 2950
+Wire Wire Line
+	8900 2950 9150 2950
+Wire Wire Line
+	8900 3000 8900 3050
+Connection ~ 8900 3050
+Wire Wire Line
+	8900 3050 9150 3050
+Wire Wire Line
+	8900 3350 8900 3400
+Connection ~ 8900 3400
+Wire Wire Line
+	8900 3400 9150 3400
+Wire Wire Line
+	8900 3450 8900 3500
+Connection ~ 8900 3500
+Wire Wire Line
+	8900 3500 9150 3500
+Wire Wire Line
+	8900 3550 8900 3600
+Connection ~ 8900 3600
+Wire Wire Line
+	8900 3600 9150 3600
+Wire Wire Line
+	8900 3650 8900 3700
+Connection ~ 8900 3700
+Wire Wire Line
+	8900 3700 9150 3700
+Wire Wire Line
+	8900 3750 8900 3800
+Connection ~ 8900 3800
+Wire Wire Line
+	8900 3800 9150 3800
+Wire Wire Line
+	8900 3850 8900 3900
+Connection ~ 8900 3900
+Wire Wire Line
+	8900 3900 9150 3900
+Wire Wire Line
+	8900 4050 8900 4100
+Connection ~ 8900 4100
+Wire Wire Line
+	8900 4100 9150 4100
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D254
+U 1 1 6462E49C
+P 9150 2600
+F 0 "D254" H 9250 2784 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 2693 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 2600 60  0001 C CNN
+F 3 "" V 9305 2600 60  0001 C CNN
+	1    9150 2600
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 2600
+Wire Wire Line
+	9350 2600 9350 2700
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D256
+U 1 1 6462E6B0
+P 9150 2700
+F 0 "D256" H 9250 2884 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 2793 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 2700 60  0001 C CNN
+F 3 "" V 9305 2700 60  0001 C CNN
+	1    9150 2700
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 2700
+Wire Wire Line
+	9350 2700 9350 2800
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D258
+U 1 1 6462E916
+P 9150 2800
+F 0 "D258" H 9250 2984 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 2893 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 2800 60  0001 C CNN
+F 3 "" V 9305 2800 60  0001 C CNN
+	1    9150 2800
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 2800
+Wire Wire Line
+	9350 2800 9350 2900
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D260
+U 1 1 6462EB52
+P 9150 2900
+F 0 "D260" H 9250 3084 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 2993 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 2900 60  0001 C CNN
+F 3 "" V 9305 2900 60  0001 C CNN
+	1    9150 2900
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 2900
+Wire Wire Line
+	9350 2900 9350 3000
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D262
+U 1 1 6462EDC7
+P 9150 3000
+F 0 "D262" H 9250 3184 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 3093 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 3000 60  0001 C CNN
+F 3 "" V 9305 3000 60  0001 C CNN
+	1    9150 3000
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 3000
+Wire Wire Line
+	9350 3000 9350 3350
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D264
+U 1 1 6462F03C
+P 9150 3350
+F 0 "D264" H 9250 3534 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 3443 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 3350 60  0001 C CNN
+F 3 "" V 9305 3350 60  0001 C CNN
+	1    9150 3350
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 3350
+Wire Wire Line
+	9350 3350 9350 3450
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D266
+U 1 1 6462F45B
+P 9150 3450
+F 0 "D266" H 9250 3634 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 3543 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 3450 60  0001 C CNN
+F 3 "" V 9305 3450 60  0001 C CNN
+	1    9150 3450
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 3450
+Wire Wire Line
+	9350 3450 9350 3550
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D268
+U 1 1 6462F6CA
+P 9150 3550
+F 0 "D268" H 9250 3734 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 3643 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 3550 60  0001 C CNN
+F 3 "" V 9305 3550 60  0001 C CNN
+	1    9150 3550
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 3550
+Wire Wire Line
+	9350 3550 9350 3650
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D270
+U 1 1 6462F920
+P 9150 3650
+F 0 "D270" H 9250 3834 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 3743 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 3650 60  0001 C CNN
+F 3 "" V 9305 3650 60  0001 C CNN
+	1    9150 3650
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 3650
+Wire Wire Line
+	9350 3650 9350 3750
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D272
+U 1 1 6462FAE8
+P 9150 3750
+F 0 "D272" H 9250 3934 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 3843 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 3750 60  0001 C CNN
+F 3 "" V 9305 3750 60  0001 C CNN
+	1    9150 3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 3750
+Wire Wire Line
+	9350 3750 9350 3850
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D274
+U 1 1 6462FDAB
+P 9150 3850
+F 0 "D274" H 9250 4034 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 3943 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 3850 60  0001 C CNN
+F 3 "" V 9305 3850 60  0001 C CNN
+	1    9150 3850
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 3850
+Wire Wire Line
+	9350 3850 9350 3950
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D276
+U 1 1 6463010F
+P 9150 3950
+F 0 "D276" H 9250 4134 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 4043 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 3950 60  0001 C CNN
+F 3 "" V 9305 3950 60  0001 C CNN
+	1    9150 3950
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 3950
+Wire Wire Line
+	9350 3950 9350 4050
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D278
+U 1 1 6463043A
+P 9150 4050
+F 0 "D278" H 9250 4234 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9250 4143 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9305 4050 60  0001 C CNN
+F 3 "" V 9305 4050 60  0001 C CNN
+	1    9150 4050
+	1    0    0    -1  
+$EndComp
+Connection ~ 9350 4050
+Wire Wire Line
+	9350 4050 9350 4400
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D255
+U 1 1 6463068B
+P 9400 2600
+F 0 "D255" H 9500 2784 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 2693 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 2600 60  0001 C CNN
+F 3 "" V 9555 2600 60  0001 C CNN
+	1    9400 2600
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 2600
+Wire Wire Line
+	9600 2600 9600 2700
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D257
+U 1 1 64630888
+P 9400 2700
+F 0 "D257" H 9500 2884 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 2793 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 2700 60  0001 C CNN
+F 3 "" V 9555 2700 60  0001 C CNN
+	1    9400 2700
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 2700
+Wire Wire Line
+	9600 2700 9600 2800
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D259
+U 1 1 64630AAA
+P 9400 2800
+F 0 "D259" H 9500 2984 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 2893 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 2800 60  0001 C CNN
+F 3 "" V 9555 2800 60  0001 C CNN
+	1    9400 2800
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 2800
+Wire Wire Line
+	9600 2800 9600 2900
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D261
+U 1 1 64630D58
+P 9400 2900
+F 0 "D261" H 9500 3084 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 2993 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 2900 60  0001 C CNN
+F 3 "" V 9555 2900 60  0001 C CNN
+	1    9400 2900
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 2900
+Wire Wire Line
+	9600 2900 9600 3000
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D263
+U 1 1 64630F16
+P 9400 3000
+F 0 "D263" H 9500 3184 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 3093 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 3000 60  0001 C CNN
+F 3 "" V 9555 3000 60  0001 C CNN
+	1    9400 3000
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 3000
+Wire Wire Line
+	9600 3000 9600 3350
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D265
+U 1 1 646311E2
+P 9400 3350
+F 0 "D265" H 9500 3534 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 3443 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 3350 60  0001 C CNN
+F 3 "" V 9555 3350 60  0001 C CNN
+	1    9400 3350
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 3350
+Wire Wire Line
+	9600 3350 9600 3450
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D267
+U 1 1 646316FC
+P 9400 3450
+F 0 "D267" H 9500 3634 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 3543 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 3450 60  0001 C CNN
+F 3 "" V 9555 3450 60  0001 C CNN
+	1    9400 3450
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 3450
+Wire Wire Line
+	9600 3450 9600 3550
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D269
+U 1 1 646318E0
+P 9400 3550
+F 0 "D269" H 9500 3734 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 3643 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 3550 60  0001 C CNN
+F 3 "" V 9555 3550 60  0001 C CNN
+	1    9400 3550
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 3550
+Wire Wire Line
+	9600 3550 9600 3650
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D271
+U 1 1 64631ABD
+P 9400 3650
+F 0 "D271" H 9500 3834 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 3743 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 3650 60  0001 C CNN
+F 3 "" V 9555 3650 60  0001 C CNN
+	1    9400 3650
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 3650
+Wire Wire Line
+	9600 3650 9600 3750
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D273
+U 1 1 64631CDA
+P 9400 3750
+F 0 "D273" H 9500 3934 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 3843 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 3750 60  0001 C CNN
+F 3 "" V 9555 3750 60  0001 C CNN
+	1    9400 3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 3750
+Wire Wire Line
+	9600 3750 9600 3850
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D275
+U 1 1 64631F3F
+P 9400 3850
+F 0 "D275" H 9500 4034 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 3943 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 3850 60  0001 C CNN
+F 3 "" V 9555 3850 60  0001 C CNN
+	1    9400 3850
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 3850
+Wire Wire Line
+	9600 3850 9600 3950
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D277
+U 1 1 6463211D
+P 9400 3950
+F 0 "D277" H 9500 4134 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 4043 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 3950 60  0001 C CNN
+F 3 "" V 9555 3950 60  0001 C CNN
+	1    9400 3950
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 3950
+Wire Wire Line
+	9600 3950 9600 4050
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D279
+U 1 1 646323D6
+P 9400 4050
+F 0 "D279" H 9500 4234 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9500 4143 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9555 4050 60  0001 C CNN
+F 3 "" V 9555 4050 60  0001 C CNN
+	1    9400 4050
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 4050
+Wire Wire Line
+	9600 4050 9600 4450
+Wire Wire Line
+	9150 2600 9150 2650
+Connection ~ 9150 2650
+Wire Wire Line
+	9150 2650 9400 2650
+Wire Wire Line
+	9150 2700 9150 2750
+Connection ~ 9150 2750
+Wire Wire Line
+	9150 2750 9400 2750
+Wire Wire Line
+	9150 2800 9150 2850
+Connection ~ 9150 2850
+Wire Wire Line
+	9150 2850 9400 2850
+Wire Wire Line
+	9150 2900 9150 2950
+Connection ~ 9150 2950
+Wire Wire Line
+	9150 2950 9400 2950
+Wire Wire Line
+	9150 3000 9150 3050
+Connection ~ 9150 3050
+Wire Wire Line
+	9150 3050 9400 3050
+Wire Wire Line
+	9400 2600 9400 2650
+Connection ~ 9400 2650
+Wire Wire Line
+	9400 2650 9650 2650
+Wire Wire Line
+	9400 2700 9400 2750
+Connection ~ 9400 2750
+Wire Wire Line
+	9400 2750 9650 2750
+Wire Wire Line
+	9400 2800 9400 2850
+Connection ~ 9400 2850
+Wire Wire Line
+	9400 2850 9650 2850
+Wire Wire Line
+	9400 2900 9400 2950
+Connection ~ 9400 2950
+Wire Wire Line
+	9400 2950 9650 2950
+Wire Wire Line
+	9400 3000 9400 3050
+Connection ~ 9400 3050
+Wire Wire Line
+	9400 3050 9650 3050
+Wire Wire Line
+	9150 3350 9150 3400
+Connection ~ 9150 3400
+Wire Wire Line
+	9150 3400 9400 3400
+Wire Wire Line
+	9150 3450 9150 3500
+Connection ~ 9150 3500
+Wire Wire Line
+	9150 3500 9400 3500
+Wire Wire Line
+	9150 3550 9150 3600
+Connection ~ 9150 3600
+Wire Wire Line
+	9150 3600 9400 3600
+Wire Wire Line
+	9150 3650 9150 3700
+Connection ~ 9150 3700
+Wire Wire Line
+	9150 3700 9400 3700
+Wire Wire Line
+	9150 3750 9150 3800
+Connection ~ 9150 3800
+Wire Wire Line
+	9150 3800 9400 3800
+Wire Wire Line
+	9150 3850 9150 3900
+Connection ~ 9150 3900
+Wire Wire Line
+	9150 3900 9400 3900
+Wire Wire Line
+	9150 3950 9150 4000
+Connection ~ 9150 4000
+Wire Wire Line
+	9150 4000 9400 4000
+Wire Wire Line
+	9150 4050 9150 4100
+Connection ~ 9150 4100
+Wire Wire Line
+	9150 4100 9400 4100
+Wire Wire Line
+	9400 3350 9400 3400
+Connection ~ 9400 3400
+Wire Wire Line
+	9400 3400 9650 3400
+Wire Wire Line
+	9400 3450 9400 3500
+Connection ~ 9400 3500
+Wire Wire Line
+	9400 3500 9650 3500
+Wire Wire Line
+	9400 3550 9400 3600
+Connection ~ 9400 3600
+Wire Wire Line
+	9400 3600 9650 3600
+Wire Wire Line
+	9400 3650 9400 3700
+Connection ~ 9400 3700
+Wire Wire Line
+	9400 3700 9650 3700
+Wire Wire Line
+	9400 3750 9400 3800
+Connection ~ 9400 3800
+Wire Wire Line
+	9400 3800 9650 3800
+Wire Wire Line
+	9400 3850 9400 3900
+Connection ~ 9400 3900
+Wire Wire Line
+	9400 3900 9650 3900
+Wire Wire Line
+	9400 3950 9400 4000
+Connection ~ 9400 4000
+Wire Wire Line
+	9400 4000 9650 4000
+Wire Wire Line
+	9400 4050 9400 4100
+Connection ~ 9400 4100
+Wire Wire Line
+	9400 4100 9650 4100
 $EndSCHEMATC
