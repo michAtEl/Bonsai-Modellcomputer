@@ -69,44 +69,33 @@ F 3 "" H 4150 5100 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED-device D43
-U 1 1 57EA26FF
-P 3250 5450
-F 0 "D43" V 3204 5528 50  0000 L CNN
-F 1 "LED" V 3295 5528 50  0000 L CNN
-F 2 "LED_THT:LED_D3.0mm" H 3250 5450 50  0001 C CNN
-F 3 "" H 3250 5450 50  0000 C CNN
-	1    3250 5450
-	0    1    1    0   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:LED-device D44
+L Device:LED_ALT D44
 U 1 1 57EA28E7
 P 3550 5450
-F 0 "D44" V 3504 5528 50  0000 L CNN
-F 1 "LED" V 3595 5528 50  0000 L CNN
+F 0 "D44" V 3504 5528 50  0001 L CNN
+F 1 "LED" V 3595 5528 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 3550 5450 50  0001 C CNN
 F 3 "" H 3550 5450 50  0000 C CNN
 	1    3550 5450
 	0    1    1    0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED-device D45
+L Device:LED_ALT D45
 U 1 1 57EA2963
 P 3850 5450
-F 0 "D45" V 3804 5528 50  0000 L CNN
-F 1 "LED" V 3895 5528 50  0000 L CNN
+F 0 "D45" V 3804 5528 50  0001 L CNN
+F 1 "LED" V 3895 5528 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 3850 5450 50  0001 C CNN
 F 3 "" H 3850 5450 50  0000 C CNN
 	1    3850 5450
 	0    1    1    0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED-device D46
+L Device:LED_ALT D46
 U 1 1 57EA29EE
 P 4150 5450
-F 0 "D46" V 4104 5528 50  0000 L CNN
-F 1 "LED" V 4195 5528 50  0000 L CNN
+F 0 "D46" V 4104 5528 50  0001 L CNN
+F 1 "LED" V 4195 5528 50  0001 L CNN
 F 2 "LED_THT:LED_D3.0mm" H 4150 5450 50  0001 C CNN
 F 3 "" H 4150 5450 50  0000 C CNN
 	1    4150 5450
@@ -179,17 +168,6 @@ F 3 "" H 2900 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D48
-U 1 1 57F32788
-P 2900 8200
-F 0 "D48" V 2854 8278 50  0001 L CNN
-F 1 "LED" V 2945 8278 50  0001 L CNN
-F 2 "LED_THT:LED_D3.0mm" H 2900 8200 50  0001 C CNN
-F 3 "" H 2900 8200 50  0000 C CNN
-	1    2900 8200
-	0    1    1    0   
-$EndComp
-$Comp
 L power:VCC #PWR023
 U 1 1 57F3278E
 P 2900 8300
@@ -212,7 +190,7 @@ F 3 "" H 3200 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D49
+L Device:LED_Small_ALT D49
 U 1 1 57F331AC
 P 3200 8200
 F 0 "D49" V 3154 8278 50  0001 L CNN
@@ -245,7 +223,7 @@ F 3 "" H 3500 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D50
+L Device:LED_Small_ALT D50
 U 1 1 57F332FA
 P 3500 8200
 F 0 "D50" V 3454 8278 50  0001 L CNN
@@ -278,7 +256,7 @@ F 3 "" H 3800 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D51
+L Device:LED_Small_ALT D51
 U 1 1 57F3423B
 P 3800 8200
 F 0 "D51" V 3754 8278 50  0001 L CNN
@@ -311,7 +289,7 @@ F 3 "" H 4100 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D52
+L Device:LED_Small_ALT D52
 U 1 1 57F3437D
 P 4100 8200
 F 0 "D52" V 4054 8278 50  0001 L CNN
@@ -344,7 +322,7 @@ F 3 "" H 4400 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D53
+L Device:LED_Small_ALT D53
 U 1 1 57F3449B
 P 4400 8200
 F 0 "D53" V 4354 8278 50  0001 L CNN
@@ -377,7 +355,7 @@ F 3 "" H 4700 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D54
+L Device:LED_Small_ALT D54
 U 1 1 57F3479F
 P 4700 8200
 F 0 "D54" V 4654 8278 50  0001 L CNN
@@ -410,7 +388,7 @@ F 3 "" H 5000 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D55
+L Device:LED_Small_ALT D55
 U 1 1 57F347B7
 P 5000 8200
 F 0 "D55" V 4954 8278 50  0001 L CNN
@@ -443,7 +421,7 @@ F 3 "" H 5300 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D56
+L Device:LED_Small_ALT D56
 U 1 1 57F347CF
 P 5300 8200
 F 0 "D56" V 5254 8278 50  0001 L CNN
@@ -476,7 +454,7 @@ F 3 "" H 5600 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D57
+L Device:LED_Small_ALT D57
 U 1 1 57F347E7
 P 5600 8200
 F 0 "D57" V 5554 8278 50  0001 L CNN
@@ -509,7 +487,7 @@ F 3 "" H 5900 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D58
+L Device:LED_Small_ALT D58
 U 1 1 57F347FF
 P 5900 8200
 F 0 "D58" V 5854 8278 50  0001 L CNN
@@ -542,7 +520,7 @@ F 3 "" H 6200 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D59
+L Device:LED_Small_ALT D59
 U 1 1 57F34817
 P 6200 8200
 F 0 "D59" V 6154 8278 50  0001 L CNN
@@ -575,7 +553,7 @@ F 3 "" H 6500 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D60
+L Device:LED_Small_ALT D60
 U 1 1 57F3629F
 P 6500 8200
 F 0 "D60" V 6454 8278 50  0001 L CNN
@@ -597,7 +575,7 @@ F 3 "" H 6800 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D61
+L Device:LED_Small_ALT D61
 U 1 1 57F362B7
 P 6800 8200
 F 0 "D61" V 6754 8278 50  0001 L CNN
@@ -630,7 +608,7 @@ F 3 "" H 7100 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D62
+L Device:LED_Small_ALT D62
 U 1 1 57F362CF
 P 7100 8200
 F 0 "D62" V 7054 8278 50  0001 L CNN
@@ -663,7 +641,7 @@ F 3 "" H 7400 7950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D63
+L Device:LED_Small_ALT D63
 U 1 1 57F362E7
 P 7400 8200
 F 0 "D63" V 7354 8278 50  0001 L CNN
@@ -696,7 +674,7 @@ F 3 "" H 6750 1600 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D47
+L Device:LED_Small_ALT D47
 U 1 1 58103D59
 P 1700 7250
 F 0 "D47" V 1654 7328 50  0000 L CNN
@@ -748,7 +726,7 @@ F 3 "" H 4350 2850 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D7
+L Device:LED_Small_ALT D7
 U 1 1 58342180
 P 5900 2500
 F 0 "D7" H 5850 2625 50  0001 L CNN
@@ -759,7 +737,7 @@ F 3 "" V 5900 2500 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D8
+L Device:LED_Small_ALT D8
 U 1 1 5836CC1D
 P 6150 2500
 F 0 "D8" H 6100 2625 50  0001 L CNN
@@ -770,7 +748,7 @@ F 3 "" V 6150 2500 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D3
+L Device:LED_Small_ALT D3
 U 1 1 5836CDE4
 P 6150 2400
 F 0 "D3" H 6100 2525 50  0001 L CNN
@@ -781,7 +759,7 @@ F 3 "" V 6150 2400 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D12
+L Device:LED_Small_ALT D12
 U 1 1 5836CF4D
 P 6150 2700
 F 0 "D12" H 6100 2825 50  0001 L CNN
@@ -792,7 +770,7 @@ F 3 "" V 6150 2700 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D10
+L Device:LED_Small_ALT D10
 U 1 1 5836D0CD
 P 5650 2900
 F 0 "D10" H 5600 3025 50  0001 L CNN
@@ -803,7 +781,7 @@ F 3 "" V 5650 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D18
+L Device:LED_Small_ALT D18
 U 1 1 5836E67E
 P 6400 2900
 F 0 "D18" H 6350 3025 50  0001 L CNN
@@ -814,7 +792,7 @@ F 3 "" V 6400 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D13
+L Device:LED_Small_ALT D13
 U 1 1 5836E981
 P 7150 2700
 F 0 "D13" H 7100 2825 50  0001 L CNN
@@ -825,7 +803,7 @@ F 3 "" V 7150 2700 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D19
+L Device:LED_Small_ALT D19
 U 1 1 5836EB0D
 P 7400 2900
 F 0 "D19" H 7350 3025 50  0001 L CNN
@@ -836,7 +814,7 @@ F 3 "" V 7400 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D4
+L Device:LED_Small_ALT D4
 U 1 1 58370620
 P 8000 2300
 F 0 "D4" H 7950 2425 50  0001 L CNN
@@ -847,7 +825,7 @@ F 3 "" V 8000 2300 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D5
+L Device:LED_Small_ALT D5
 U 1 1 583707CA
 P 8000 2400
 F 0 "D5" H 7950 2525 50  0001 L CNN
@@ -858,7 +836,7 @@ F 3 "" V 8000 2400 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D9
+L Device:LED_Small_ALT D9
 U 1 1 5837094D
 P 8000 2500
 F 0 "D9" H 7950 2625 50  0001 L CNN
@@ -869,7 +847,7 @@ F 3 "" V 8000 2500 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D11
+L Device:LED_Small_ALT D11
 U 1 1 58370C6C
 P 8500 2600
 F 0 "D11" H 8450 2725 50  0001 L CNN
@@ -880,7 +858,7 @@ F 3 "" V 8500 2600 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D14
+L Device:LED_Small_ALT D14
 U 1 1 58370E12
 P 8500 2700
 F 0 "D14" H 8450 2825 50  0001 L CNN
@@ -891,7 +869,7 @@ F 3 "" V 8500 2700 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D16
+L Device:LED_Small_ALT D16
 U 1 1 58370FA1
 P 8500 2800
 F 0 "D16" H 8450 2925 50  0001 L CNN
@@ -902,7 +880,7 @@ F 3 "" V 8500 2800 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D20
+L Device:LED_Small_ALT D20
 U 1 1 58371135
 P 8500 2900
 F 0 "D20" H 8450 3025 50  0001 L CNN
@@ -913,7 +891,7 @@ F 3 "" V 8500 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D21
+L Device:LED_Small_ALT D21
 U 1 1 583712D6
 P 8500 3000
 F 0 "D21" H 8450 3125 50  0001 L CNN
@@ -924,7 +902,7 @@ F 3 "" V 8500 3000 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D17
+L Device:LED_Small_ALT D17
 U 1 1 58371478
 P 8750 2800
 F 0 "D17" H 8700 2925 50  0001 L CNN
@@ -935,7 +913,7 @@ F 3 "" V 8750 2800 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D22
+L Device:LED_Small_ALT D22
 U 1 1 58378EB7
 P 6150 3350
 F 0 "D22" H 6100 3475 50  0001 L CNN
@@ -946,7 +924,7 @@ F 3 "" V 6150 3350 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D28
+L Device:LED_Small_ALT D28
 U 1 1 5837926C
 P 5650 3550
 F 0 "D28" H 5600 3675 50  0001 L CNN
@@ -957,7 +935,7 @@ F 3 "" V 5650 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D32
+L Device:LED_Small_ALT D32
 U 1 1 58379419
 P 5650 3650
 F 0 "D32" H 5600 3775 50  0001 L CNN
@@ -968,7 +946,7 @@ F 3 "" V 5650 3650 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D39
+L Device:LED_Small_ALT D39
 U 1 1 583795BB
 P 5650 3950
 F 0 "D39" H 5600 4075 50  0001 L CNN
@@ -979,7 +957,7 @@ F 3 "" V 5650 3950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D40
+L Device:LED_Small_ALT D40
 U 1 1 5837976E
 P 6150 3950
 F 0 "D40" H 6100 4075 50  0001 L CNN
@@ -990,7 +968,7 @@ F 3 "" V 6150 3950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D37
+L Device:LED_Small_ALT D37
 U 1 1 5837992A
 P 6150 3850
 F 0 "D37" H 6100 3975 50  0001 L CNN
@@ -1001,7 +979,7 @@ F 3 "" V 6150 3850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D29
+L Device:LED_Small_ALT D29
 U 1 1 5837A513
 P 6400 3550
 F 0 "D29" H 6350 3675 50  0001 L CNN
@@ -1012,7 +990,7 @@ F 3 "" V 6400 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D25
+L Device:LED_Small_ALT D25
 U 1 1 5837A6F3
 P 6900 3450
 F 0 "D25" H 6850 3575 50  0001 L CNN
@@ -1023,7 +1001,7 @@ F 3 "" V 6900 3450 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D23
+L Device:LED_Small_ALT D23
 U 1 1 5837A8C6
 P 7150 3350
 F 0 "D23" H 7100 3475 50  0001 L CNN
@@ -1034,7 +1012,7 @@ F 3 "" V 7150 3350 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D30
+L Device:LED_Small_ALT D30
 U 1 1 5837AF7A
 P 7400 3550
 F 0 "D30" H 7350 3675 50  0001 L CNN
@@ -1045,7 +1023,7 @@ F 3 "" V 7400 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D33
+L Device:LED_Small_ALT D33
 U 1 1 5837C493
 P 7750 3650
 F 0 "D33" H 7700 3775 50  0001 L CNN
@@ -1056,7 +1034,7 @@ F 3 "" V 7750 3650 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D24
+L Device:LED_Small_ALT D24
 U 1 1 5837C65B
 P 8500 3350
 F 0 "D24" H 8450 3475 50  0001 L CNN
@@ -1067,7 +1045,7 @@ F 3 "" V 8500 3350 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D26
+L Device:LED_Small_ALT D26
 U 1 1 5837C858
 P 8500 3450
 F 0 "D26" H 8450 3575 50  0001 L CNN
@@ -1078,7 +1056,7 @@ F 3 "" V 8500 3450 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D31
+L Device:LED_Small_ALT D31
 U 1 1 5837CA1C
 P 8500 3550
 F 0 "D31" H 8450 3675 50  0001 L CNN
@@ -1089,7 +1067,7 @@ F 3 "" V 8500 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D34
+L Device:LED_Small_ALT D34
 U 1 1 5837CBE7
 P 8500 3650
 F 0 "D34" H 8450 3775 50  0001 L CNN
@@ -1100,7 +1078,7 @@ F 3 "" V 8500 3650 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D35
+L Device:LED_Small_ALT D35
 U 1 1 5837CDB5
 P 8500 3750
 F 0 "D35" H 8450 3875 50  0001 L CNN
@@ -1111,7 +1089,7 @@ F 3 "" V 8500 3750 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D38
+L Device:LED_Small_ALT D38
 U 1 1 5837CF8E
 P 8500 3850
 F 0 "D38" H 8450 3975 50  0001 L CNN
@@ -1122,7 +1100,7 @@ F 3 "" V 8500 3850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D41
+L Device:LED_Small_ALT D41
 U 1 1 5837D16A
 P 8500 3950
 F 0 "D41" H 8450 4075 50  0001 L CNN
@@ -1133,7 +1111,7 @@ F 3 "" V 8500 3950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D36
+L Device:LED_Small_ALT D36
 U 1 1 5837D34F
 P 8750 3750
 F 0 "D36" H 8700 3875 50  0001 L CNN
@@ -1144,7 +1122,7 @@ F 3 "" V 8750 3750 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D42
+L Device:LED_Small_ALT D42
 U 1 1 5837D53D
 P 9000 3950
 F 0 "D42" H 8950 4075 50  0001 L CNN
@@ -1843,7 +1821,7 @@ Connection ~ 8650 3800
 Wire Wire Line
 	8650 3800 8900 3800
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D27
+L Device:LED_Small_ALT D27
 U 1 1 5CF05099
 P 8750 3450
 F 0 "D27" H 8700 3575 50  0001 L CNN
@@ -2283,7 +2261,7 @@ Connection ~ 8350 2400
 Wire Wire Line
 	8350 2400 8350 2500
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D6
+L Device:LED_Small_ALT D6
 U 1 1 58370AD1
 P 8250 2400
 F 0 "D6" H 8200 2525 50  0001 L CNN
@@ -2390,7 +2368,7 @@ Connection ~ 8400 2850
 Connection ~ 7050 2750
 Connection ~ 6050 2750
 $Comp
-L allBonsaiSymbolLibs:LED_Small-device D15
+L Device:LED_Small_ALT D15
 U 1 1 5836E800
 P 6650 2800
 F 0 "D15" H 6600 2925 50  0001 L CNN
@@ -2866,11 +2844,9 @@ $EndComp
 Wire Wire Line
 	6150 1250 6450 1250
 Wire Wire Line
-	6250 950  6350 950 
-Wire Wire Line
 	6750 950  6750 1050
 $Comp
-L allBonsaiSymbolLibs:LED-device D1
+L Device:LED_Small_ALT D1
 U 1 1 57FCE20E
 P 6550 950
 F 0 "D1" H 6550 1050 50  0000 C CNN
@@ -7212,4 +7188,46 @@ Wire Wire Line
 	13650 6350 13300 6350
 Wire Wire Line
 	13300 6350 13300 6400
+$Comp
+L Device:LED_ALT D43
+U 1 1 57EA26FF
+P 3250 5450
+F 0 "D43" V 3204 5528 50  0001 L CNN
+F 1 "LED" V 3295 5528 50  0001 L CNN
+F 2 "LED_THT:LED_D3.0mm" H 3250 5450 50  0001 C CNN
+F 3 "" H 3250 5450 50  0000 C CNN
+	1    3250 5450
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4150 5250 4150 5300
+Wire Wire Line
+	3850 5250 3850 5300
+Wire Wire Line
+	4150 5600 4150 5650
+Wire Wire Line
+	3850 5600 3850 5650
+Wire Wire Line
+	3550 5600 3550 5650
+Wire Wire Line
+	3250 5600 3250 5650
+Wire Wire Line
+	3250 5300 3250 5250
+Wire Wire Line
+	3550 5250 3550 5300
+$Comp
+L Device:LED_Small_ALT D48
+U 1 1 57F32788
+P 2900 8200
+F 0 "D48" V 2854 8278 50  0001 L CNN
+F 1 "LED" V 2945 8278 50  0001 L CNN
+F 2 "LED_THT:LED_D3.0mm" H 2900 8200 50  0001 C CNN
+F 3 "" H 2900 8200 50  0000 C CNN
+	1    2900 8200
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6750 950  6650 950 
+Wire Wire Line
+	6250 950  6450 950 
 $EndSCHEMATC

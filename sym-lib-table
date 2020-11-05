@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name allBonsaiSymbolLibs)(type Legacy)(uri ${KIPRJMOD}/allBonsaiSymbolLibs.lib)(options "")(descr ""))
   (lib (name Bonsai)(type Legacy)(uri ${KIPRJMOD}/Bonsai.lib)(options "")(descr ""))
+  (lib (name Steuerwerk-rescue)(type Legacy)(uri ${KIPRJMOD}/Steuerwerk-rescue.lib)(options "")(descr ""))
 )

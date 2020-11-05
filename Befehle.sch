@@ -14,342 +14,276 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L allBonsaiSymbolLibs:R-device R10
+L allBonsaiSymbolLibs:R-device R1
 U 1 1 57E93BBB
 P 6100 2000
-F 0 "R10" V 6100 1950 50  0001 C CNN
+F 0 "R1" V 6100 1950 50  0001 C CNN
 F 1 "330" V 6100 2150 50  0001 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6100 50  50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6100 50  50  0001 C CNN
 F 3 "" H 6100 2000 50  0000 C CNN
 	1    6100 2000
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R11
+L allBonsaiSymbolLibs:R-device R2
 U 1 1 57E93CDA
 P 6200 2000
-F 0 "R11" V 6200 1950 50  0001 C CNN
+F 0 "R2" V 6200 1950 50  0001 C CNN
 F 1 "330" V 6200 2150 50  0001 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6200 50  50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6200 50  50  0001 C CNN
 F 3 "" H 6200 2000 50  0000 C CNN
 	1    6200 2000
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R13
+L allBonsaiSymbolLibs:R-device R3
 U 1 1 57E93D22
 P 6300 2000
-F 0 "R13" V 6300 1950 50  0001 C CNN
+F 0 "R3" V 6300 1950 50  0001 C CNN
 F 1 "330" V 6300 2150 50  0001 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6300 50  50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6300 50  50  0001 C CNN
 F 3 "" H 6300 2000 50  0000 C CNN
 	1    6300 2000
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R14
+L allBonsaiSymbolLibs:R-device R4
 U 1 1 57E93D69
 P 6400 2000
-F 0 "R14" V 6400 1950 50  0001 C CNN
+F 0 "R4" V 6400 1950 50  0001 C CNN
 F 1 "330" V 6400 2150 50  0001 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6400 50  50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6400 50  50  0001 C CNN
 F 3 "" H 6400 2000 50  0000 C CNN
 	1    6400 2000
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R15
+L allBonsaiSymbolLibs:R-device R5
 U 1 1 57E93DAB
 P 6500 2000
-F 0 "R15" V 6500 1950 50  0001 C CNN
+F 0 "R5" V 6500 1950 50  0001 C CNN
 F 1 "330" V 6500 2150 50  0001 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6500 50  50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6500 50  50  0001 C CNN
 F 3 "" H 6500 2000 50  0000 C CNN
 	1    6500 2000
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R16
+L allBonsaiSymbolLibs:R-device R6
 U 1 1 57E93DE4
 P 6600 2000
-F 0 "R16" V 6600 1950 50  0001 C CNN
+F 0 "R6" V 6600 1950 50  0001 C CNN
 F 1 "330" V 6600 2150 50  0001 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6600 50  50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6600 50  50  0001 C CNN
 F 3 "" H 6600 2000 50  0000 C CNN
 	1    6600 2000
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R18
+L allBonsaiSymbolLibs:R-device R7
 U 1 1 57E93E32
 P 6700 2000
-F 0 "R18" V 6700 1950 50  0001 C CNN
+F 0 "R7" V 6700 1950 50  0001 C CNN
 F 1 "330" V 6700 2150 50  0001 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6700 50  50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6700 50  50  0001 C CNN
 F 3 "" H 6700 2000 50  0000 C CNN
 	1    6700 2000
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R21
+L allBonsaiSymbolLibs:R-device R8
 U 1 1 57E93E85
 P 6800 2000
-F 0 "R21" V 6800 1950 50  0001 C CNN
+F 0 "R8" V 6800 1950 50  0001 C CNN
 F 1 "330" H 6650 2000 50  0000 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6800 50  50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6800 50  50  0001 C CNN
 F 3 "" H 6800 2000 50  0000 C CNN
 	1    6800 2000
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:Led_Small D5
+L Device:LED_Small_ALT D1
 U 1 1 57E94020
 P 6100 1750
-F 0 "D5" H 6200 1750 50  0001 C CNN
+F 0 "D1" H 6200 1750 50  0001 C CNN
 F 1 "Led_Small" H 6100 1636 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" H 6100 2000 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 6100 2000 50  0001 C CNN
 F 3 "" V 6100 1750 50  0000 C CNN
 	1    6100 1750
 	0    -1   -1   0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:Led_Small D6
+L Device:LED_Small_ALT D2
 U 1 1 57E94088
 P 6200 1750
-F 0 "D6" H 6300 1750 50  0001 C CNN
+F 0 "D2" H 6300 1750 50  0001 C CNN
 F 1 "Led_Small" H 6200 1636 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" H 9950 1650 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 9950 1650 50  0001 C CNN
 F 3 "" V 6200 1750 50  0000 C CNN
 	1    6200 1750
 	0    -1   -1   0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:Led_Small D8
+L Device:LED_Small_ALT D3
 U 1 1 57E940D8
 P 6300 1750
-F 0 "D8" H 6400 1750 50  0001 C CNN
+F 0 "D3" H 6400 1750 50  0001 C CNN
 F 1 "Led_Small" H 6300 1636 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" H 10050 1650 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 10050 1650 50  0001 C CNN
 F 3 "" V 6300 1750 50  0000 C CNN
 	1    6300 1750
 	0    -1   -1   0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:Led_Small D9
+L Device:LED_Small_ALT D4
 U 1 1 57E9412E
 P 6400 1750
-F 0 "D9" H 6500 1750 50  0001 C CNN
+F 0 "D4" H 6500 1750 50  0001 C CNN
 F 1 "Led_Small" H 6400 1636 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" H 10150 1650 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 10150 1650 50  0001 C CNN
 F 3 "" V 6400 1750 50  0000 C CNN
 	1    6400 1750
 	0    -1   -1   0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:Led_Small D10
+L Device:LED_Small_ALT D5
 U 1 1 57E94186
 P 6500 1750
-F 0 "D10" H 6600 1750 50  0001 C CNN
+F 0 "D5" H 6600 1750 50  0001 C CNN
 F 1 "Led_Small" H 6500 1636 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" H 10250 1650 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 10250 1650 50  0001 C CNN
 F 3 "" V 6500 1750 50  0000 C CNN
 	1    6500 1750
 	0    -1   -1   0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:Led_Small D13
+L Device:LED_Small_ALT D6
 U 1 1 57E941E2
 P 6600 1750
-F 0 "D13" H 6700 1750 50  0001 C CNN
+F 0 "D6" H 6700 1750 50  0001 C CNN
 F 1 "Led_Small" H 6600 1636 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" H 10350 1650 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 10350 1650 50  0001 C CNN
 F 3 "" V 6600 1750 50  0000 C CNN
 	1    6600 1750
 	0    -1   -1   0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:Led_Small D14
+L Device:LED_Small_ALT D7
 U 1 1 57E94242
 P 6700 1750
-F 0 "D14" H 6800 1750 50  0001 C CNN
+F 0 "D7" H 6800 1750 50  0001 C CNN
 F 1 "Led_Small" H 6700 1636 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" H 10450 1650 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 10450 1650 50  0001 C CNN
 F 3 "" V 6700 1750 50  0000 C CNN
 	1    6700 1750
 	0    -1   -1   0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:Led_Small D18
+L Device:LED_Small_ALT D8
 U 1 1 57E942A6
 P 6800 1750
-F 0 "D18" H 6900 1750 50  0001 C CNN
+F 0 "D8" H 6900 1750 50  0001 C CNN
 F 1 "LED" H 6800 1636 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" H 10550 1650 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 10550 1650 50  0001 C CNN
 F 3 "" V 6800 1750 50  0000 C CNN
 	1    6800 1750
 	0    -1   -1   0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:74LS373-74xx U6
+L allBonsaiSymbolLibs:74LS373-74xx U5
 U 1 1 57E94D2E
-P 4150 5650
-F 0 "U6" V 4150 5700 50  0000 C CNN
-F 1 "74LS373" V 4250 5700 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-20_W7.62mm_Socket_LongPadstg" V 4150 5650 50  0001 C CNN
-F 3 "" H 4150 5650 50  0000 C CNN
-	1    4150 5650
+P 4150 6250
+F 0 "U5" V 4150 6300 50  0000 C CNN
+F 1 "74LS373" V 4250 6300 50  0000 C CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_LongPads" V 4150 6250 50  0001 C CNN
+F 3 "" H 4150 6250 50  0000 C CNN
+	1    4150 6250
 	0    -1   -1   0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:74LS541-74xx U5
+L allBonsaiSymbolLibs:74LS541-74xx U2
 U 1 1 57E94F18
 P 4150 2850
-F 0 "U5" H 4150 2084 50  0000 C CNN
+F 0 "U2" H 4150 2084 50  0000 C CNN
 F 1 "74LS541" H 4150 2175 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-20_W7.62mm_Socket_LongPadstg" V 4350 2850 50  0001 C CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_LongPads" V 4350 2850 50  0001 C CNN
 F 3 "" H 4150 2850 50  0000 C CNN
 	1    4150 2850
 	0    -1   -1   0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R12
-U 1 1 57E9A0AC
-P 8450 7550
-F 0 "R12" V 8450 7550 50  0000 C CNN
-F 1 "330" V 8350 7550 50  0000 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 8450 9650 50  0001 C CNN
-F 3 "" H 8450 7550 50  0000 C CNN
-	1    8450 7550
-	-1   0    0    1   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:R-device R9
-U 1 1 57E9A129
-P 7950 7550
-F 0 "R9" V 7950 7550 50  0000 C CNN
-F 1 "330" V 7850 7550 50  0000 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7950 9650 50  0001 C CNN
-F 3 "" H 7950 7550 50  0000 C CNN
-	1    7950 7550
-	-1   0    0    1   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:Led_Small D7
-U 1 1 57E9A89E
-P 8450 7850
-F 0 "D7" H 8450 7993 50  0000 C CNN
-F 1 "LED" H 8450 7736 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" H 8300 7750 50  0001 C CNN
-F 3 "" V 8450 7850 50  0000 C CNN
-	1    8450 7850
-	0    1    1    0   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:Led_Small D4
-U 1 1 57E9A927
-P 7950 7850
-F 0 "D4" H 7950 8000 50  0000 C CNN
-F 1 "LED" H 7950 7736 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" H 7800 7750 50  0001 C CNN
-F 3 "" V 7950 7850 50  0000 C CNN
-	1    7950 7850
-	0    1    1    0   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:74LS540-74xx U8
+L allBonsaiSymbolLibs:74LS540-74xx U3
 U 1 1 57E93AFB
 P 6600 2850
-F 0 "U8" H 6600 2084 50  0000 C CNN
+F 0 "U3" H 6600 2084 50  0000 C CNN
 F 1 "74LS540" H 6600 2175 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-20_W7.62mm_Socket_LongPadstg" V 6800 2850 50  0001 C CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_LongPads" V 6800 2850 50  0001 C CNN
 F 3 "" H 6600 2850 50  0000 C CNN
 	1    6600 2850
 	0    -1   -1   0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:7400 U3
-U 3 1 57F32988
-P 2250 11150
-F 0 "U3" H 2250 11200 50  0000 C CNN
-F 1 "7400" H 2250 11050 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-14_W7.62mm_Socket_LongPadstg" H 1900 11450 50  0001 C CNN
-F 3 "" H 2250 11150 50  0000 C CNN
-	3    2250 11150
-	0    -1   1    0   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:7400 U3
-U 4 1 57F32A39
-P 2250 12450
-F 0 "U3" H 2250 12500 50  0000 C CNN
-F 1 "7400" H 2250 12350 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-14_W7.62mm_Socket_LongPadstg" H 2250 12700 50  0001 C CNN
-F 3 "" H 2250 12450 50  0000 C CNN
-	4    2250 12450
-	0    1    1    0   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:R-device R5
+L allBonsaiSymbolLibs:R-device R10
 U 1 1 57FBEFF9
-P 1750 3650
-F 0 "R5" V 1750 3650 50  0000 C CNN
-F 1 "330" V 1650 3650 50  0000 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1450 3700 50  0001 C CNN
-F 3 "" H 1750 3650 50  0000 C CNN
-	1    1750 3650
+P 2200 5050
+F 0 "R10" V 2200 5050 50  0000 C CNN
+F 1 "330" V 2100 5050 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1900 5100 50  0001 C CNN
+F 3 "" H 2200 5050 50  0000 C CNN
+	1    2200 5050
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:Led_Small D2
+L Device:LED_Small_ALT D17
 U 1 1 57FBF0ED
-P 1750 3900
-F 0 "D2" H 1700 4025 50  0000 L CNN
-F 1 "Led_Small" H 1575 3800 50  0000 L CNN
-F 2 "LEDs:LED_D3.0mm" H 1750 3700 50  0001 C CNN
-F 3 "" V 1750 3900 50  0000 C CNN
-	1    1750 3900
+P 2200 5300
+F 0 "D17" H 2150 5425 50  0000 L CNN
+F 1 "Led_Small" H 2025 5200 50  0000 L CNN
+F 2 "LED_THT:LED_D3.0mm" H 2200 5100 50  0001 C CNN
+F 3 "" V 2200 5300 50  0000 C CNN
+	1    2200 5300
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR01
+L power:VCC #PWR08
 U 1 1 57FBF211
-P 1750 4100
-F 0 "#PWR01" H 1750 3950 50  0001 C CNN
-F 1 "VCC" H 1750 4250 50  0000 C CNN
-F 2 "" H 1750 4100 50  0000 C CNN
-F 3 "" H 1750 4100 50  0000 C CNN
-	1    1750 4100
+P 2200 5500
+F 0 "#PWR08" H 2200 5350 50  0001 C CNN
+F 1 "VCC" H 2200 5650 50  0000 C CNN
+F 2 "" H 2200 5500 50  0000 C CNN
+F 3 "" H 2200 5500 50  0000 C CNN
+	1    2200 5500
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R1
+L allBonsaiSymbolLibs:R-device R9
 U 1 1 57FBF2F2
-P 850 2750
-F 0 "R1" V 850 2750 50  0000 C CNN
-F 1 "4,7k" V 750 2750 50  0000 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1050 3700 50  0001 C CNN
-F 3 "" H 850 2750 50  0000 C CNN
-	1    850  2750
-	-1   0    0    1   
+P 1250 3750
+F 0 "R9" V 1250 3750 50  0000 C CNN
+F 1 "4,7k" V 1150 3750 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1450 4700 50  0001 C CNN
+F 3 "" H 1250 3750 50  0000 C CNN
+	1    1250 3750
+	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR02
+L power:VCC #PWR04
 U 1 1 57FBF424
-P 850 2900
-F 0 "#PWR02" H 850 2750 50  0001 C CNN
-F 1 "VCC" H 850 3050 50  0000 C CNN
-F 2 "" H 850 2900 50  0000 C CNN
-F 3 "" H 850 2900 50  0000 C CNN
-	1    850  2900
-	-1   0    0    1   
+P 1250 3550
+F 0 "#PWR04" H 1250 3400 50  0001 C CNN
+F 1 "VCC" H 1250 3700 50  0000 C CNN
+F 2 "" H 1250 3550 50  0000 C CNN
+F 3 "" H 1250 3550 50  0000 C CNN
+	1    1250 3550
+	1    0    0    -1  
 $EndComp
-Text GLabel 750  2600 0    60   Input ~ 0
+Text GLabel 1200 4000 0    60   Input ~ 0
 enableR
 $Comp
-L power:GND #PWR04
+L power:GND #PWR05
 U 1 1 57FC33C9
 P 4300 3550
-F 0 "#PWR04" H 4300 3300 50  0001 C CNN
+F 0 "#PWR05" H 4300 3300 50  0001 C CNN
 F 1 "GND" H 4300 3400 50  0000 C CNN
 F 2 "" H 4300 3550 50  0000 C CNN
 F 3 "" H 4300 3550 50  0000 C CNN
@@ -357,10 +291,10 @@ F 3 "" H 4300 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR05
+L power:GND #PWR06
 U 1 1 57FC4CCE
 P 7050 3550
-F 0 "#PWR05" H 7050 3300 50  0001 C CNN
+F 0 "#PWR06" H 7050 3300 50  0001 C CNN
 F 1 "GND" H 7050 3400 50  0000 C CNN
 F 2 "" H 7050 3550 50  0000 C CNN
 F 3 "" H 7050 3550 50  0000 C CNN
@@ -368,233 +302,137 @@ F 3 "" H 7050 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR06
-U 1 1 57FC686E
-P 8550 4500
-F 0 "#PWR06" H 8550 4350 50  0001 C CNN
-F 1 "VCC" H 8550 4650 50  0000 C CNN
-F 2 "" H 8550 4500 50  0000 C CNN
-F 3 "" H 8550 4500 50  0000 C CNN
-	1    8550 4500
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:VCC #PWR07
+L power:VCC #PWR021
 U 1 1 57FC839A
-P 6900 7350
-F 0 "#PWR07" H 6900 7200 50  0001 C CNN
-F 1 "VCC" H 6900 7500 50  0000 C CNN
-F 2 "" H 6900 7350 50  0000 C CNN
-F 3 "" H 6900 7350 50  0000 C CNN
-	1    6900 7350
+P 5650 13500
+F 0 "#PWR021" H 5650 13350 50  0001 C CNN
+F 1 "VCC" H 5650 13650 50  0000 C CNN
+F 2 "" H 5650 13500 50  0000 C CNN
+F 3 "" H 5650 13500 50  0000 C CNN
+	1    5650 13500
 	1    0    0    -1  
 $EndComp
-Text GLabel 9450 5150 0    60   Input ~ 0
-0
-Text GLabel 8950 5150 0    60   Input ~ 0
-1
-Text GLabel 8450 5150 0    60   Input ~ 0
-2
-Text GLabel 7950 5150 0    60   Input ~ 0
-3
+Text GLabel 9950 11800 2    60   Input ~ 0
+~upPC
 $Comp
-L allBonsaiSymbolLibs:Led_Small D15
-U 1 1 580EAA2D
-P 8350 5400
-F 0 "D15" V 8350 5500 50  0001 L CNN
-F 1 "Led_Small" V 8300 6600 50  0001 L CNN
-F 2 "bonsai:LED_Diodenmatrix" V 8400 6950 50  0001 C CNN
-F 3 "" V 8350 5400 50  0000 C CNN
-	1    8350 5400
-	1    0    0    -1  
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:Led_Small D11
-U 1 1 580EAB66
-P 7850 5400
-F 0 "D11" V 7850 5200 50  0001 L CNN
-F 1 "Led_Small" V 7700 6750 50  0001 L CNN
-F 2 "bonsai:LED_Diodenmatrix" V 7850 4150 50  0001 C CNN
-F 3 "" V 7850 5400 50  0000 C CNN
-	1    7850 5400
-	1    0    0    -1  
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:Led_Small D12
-U 1 1 580EABEB
-P 7850 5600
-F 0 "D12" V 7850 5400 50  0001 L CNN
-F 1 "Led_Small" V 7900 6850 50  0001 L CNN
-F 2 "bonsai:LED_Diodenmatrix" H 9450 5600 50  0001 C CNN
-F 3 "" V 7850 5600 50  0000 C CNN
-	1    7850 5600
-	1    0    0    -1  
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:Led_Small D16
-U 1 1 580EAC8E
-P 8350 5800
-F 0 "D16" V 8350 5600 50  0001 L CNN
-F 1 "Led_Small" V 8350 6850 50  0001 L CNN
-F 2 "bonsai:LED_Diodenmatrix" H 9700 5800 50  0001 C CNN
-F 3 "" V 8350 5800 50  0000 C CNN
-	1    8350 5800
-	1    0    0    -1  
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:Led_Small D20
-U 1 1 580EAD43
-P 9350 6000
-F 0 "D20" V 9350 6100 50  0001 L CNN
-F 1 "Led_Small" V 9250 6700 50  0001 L CNN
-F 2 "bonsai:LED_Diodenmatrix" H 10450 6000 50  0001 C CNN
-F 3 "" V 9350 6000 50  0000 C CNN
-	1    9350 6000
-	1    0    0    -1  
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:Led_Small D19
-U 1 1 580EAE00
-P 8850 6000
-F 0 "D19" V 8850 5800 50  0001 L CNN
-F 1 "Led_Small" V 8850 6850 50  0001 L CNN
-F 2 "bonsai:LED_Diodenmatrix" H 9950 6000 50  0001 C CNN
-F 3 "" V 8850 6000 50  0000 C CNN
-	1    8850 6000
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR09
-U 1 1 580EBD54
-P 5850 6050
-F 0 "#PWR09" H 5850 5800 50  0001 C CNN
-F 1 "GND" H 5850 5900 50  0000 C CNN
-F 2 "" H 5850 6050 50  0000 C CNN
-F 3 "" H 5850 6050 50  0000 C CNN
-	1    5850 6050
-	0    1    1    0   
-$EndComp
-Text GLabel 1250 13150 0    60   Input ~ 0
-upPC
-$Comp
-L allBonsaiSymbolLibs:R-device R6
+L allBonsaiSymbolLibs:R-device R19
 U 1 1 580F54F3
-P 1700 10350
-F 0 "R6" V 1600 10350 50  0000 C CNN
-F 1 "4,7k" V 1800 10350 50  0000 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1850 10300 50  0001 C CNN
-F 3 "" H 1700 10350 50  0000 C CNN
-	1    1700 10350
+P 5200 12450
+F 0 "R19" V 5100 12450 50  0000 C CNN
+F 1 "4,7k" V 5300 12450 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5350 12400 50  0001 C CNN
+F 3 "" H 5200 12450 50  0000 C CNN
+	1    5200 12450
+	1    0    0    1   
+$EndComp
+$Comp
+L power:VCC #PWR019
+U 1 1 580F57E4
+P 5200 12250
+F 0 "#PWR019" H 5200 12100 50  0001 C CNN
+F 1 "VCC" H 5200 12400 50  0000 C CNN
+F 2 "" H 5200 12250 50  0000 C CNN
+F 3 "" H 5200 12250 50  0000 C CNN
+	1    5200 12250
+	1    0    0    -1  
+$EndComp
+Text GLabel 5000 11800 0    60   Input ~ 0
+~incPCz
+$Comp
+L allBonsaiSymbolLibs:R-device R18
+U 1 1 582A32C5
+P 5200 11600
+F 0 "R18" V 5280 11600 50  0000 C CNN
+F 1 "4,7k" V 5200 11600 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5050 11000 50  0001 C CNN
+F 3 "" H 5200 11600 50  0000 C CNN
+	1    5200 11600
+	1    0    0    1   
+$EndComp
+$Comp
+L power:VCC #PWR018
+U 1 1 582A32CB
+P 5200 11400
+F 0 "#PWR018" H 5200 11250 50  0001 C CNN
+F 1 "VCC" H 5200 11550 50  0000 C CNN
+F 2 "" H 5200 11400 50  0000 C CNN
+F 3 "" H 5200 11400 50  0000 C CNN
+	1    5200 11400
+	1    0    0    -1  
+$EndComp
+Text GLabel 1600 7350 0    60   Input ~ 0
+loadIR
+$Comp
+L allBonsaiSymbolLibs:R-device R11
+U 1 1 582B55B4
+P 1800 7050
+F 0 "R11" V 1700 7050 50  0000 C CNN
+F 1 "4,7k" V 1800 7050 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 1450 7250 50  0001 C CNN
+F 3 "" H 1800 7050 50  0000 C CNN
+	1    1800 7050
 	1    0    0    1   
 $EndComp
 $Comp
 L power:VCC #PWR010
-U 1 1 580F57E4
-P 1700 10150
-F 0 "#PWR010" H 1700 10000 50  0001 C CNN
-F 1 "VCC" H 1700 10300 50  0000 C CNN
-F 2 "" H 1700 10150 50  0000 C CNN
-F 3 "" H 1700 10150 50  0000 C CNN
-	1    1700 10150
-	1    0    0    -1  
-$EndComp
-Text GLabel 1150 7950 0    60   Input ~ 0
-incPCz
-$Comp
-L allBonsaiSymbolLibs:R-device R3
-U 1 1 582A32C5
-P 1350 8350
-F 0 "R3" V 1430 8350 50  0000 C CNN
-F 1 "4,7k" V 1350 8350 50  0000 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1200 7750 50  0001 C CNN
-F 3 "" H 1350 8350 50  0000 C CNN
-	1    1350 8350
-	-1   0    0    -1  
-$EndComp
-$Comp
-L power:VCC #PWR011
-U 1 1 582A32CB
-P 1350 8500
-F 0 "#PWR011" H 1350 8350 50  0001 C CNN
-F 1 "VCC" H 1350 8650 50  0000 C CNN
-F 2 "" H 1350 8500 50  0000 C CNN
-F 3 "" H 1350 8500 50  0000 C CNN
-	1    1350 8500
-	-1   0    0    1   
-$EndComp
-Text GLabel 1450 4650 0    60   Input ~ 0
-loadIR
-$Comp
-L allBonsaiSymbolLibs:R-device R4
-U 1 1 582B55B4
-P 2100 4350
-F 0 "R4" V 2000 4350 50  0000 C CNN
-F 1 "4,7k" V 2100 4350 50  0000 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 1750 4550 50  0001 C CNN
-F 3 "" H 2100 4350 50  0000 C CNN
-	1    2100 4350
-	1    0    0    1   
-$EndComp
-$Comp
-L power:VCC #PWR013
 U 1 1 582B5718
-P 2100 4100
-F 0 "#PWR013" H 2100 3950 50  0001 C CNN
-F 1 "VCC" H 2100 4250 50  0000 C CNN
-F 2 "" H 2100 4100 50  0000 C CNN
-F 3 "" H 2100 4100 50  0000 C CNN
-	1    2100 4100
+P 1800 6800
+F 0 "#PWR010" H 1800 6650 50  0001 C CNN
+F 1 "VCC" H 1800 6950 50  0000 C CNN
+F 2 "" H 1800 6800 50  0000 C CNN
+F 3 "" H 1800 6800 50  0000 C CNN
+	1    1800 6800
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:R-device R8
+L allBonsaiSymbolLibs:R-device R16
 U 1 1 582B6652
-P 3250 4850
-F 0 "R8" V 3250 4850 50  0000 C CNN
-F 1 "330" V 3150 4850 50  0000 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 3600 4600 50  0001 C CNN
-F 3 "" H 3250 4850 50  0000 C CNN
-	1    3250 4850
+P 2950 7550
+F 0 "R16" V 2950 7550 50  0000 C CNN
+F 1 "330" V 2850 7550 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 3300 7300 50  0001 C CNN
+F 3 "" H 2950 7550 50  0000 C CNN
+	1    2950 7550
 	-1   0    0    1   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:Led_Small D3
+L Device:LED_Small_ALT D30
 U 1 1 582B68A1
-P 3250 5200
-F 0 "D3" H 3250 5343 50  0000 C CNN
-F 1 "LED" H 3250 5086 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" H 3250 5050 50  0001 C CNN
-F 3 "" V 3250 5200 50  0000 C CNN
-	1    3250 5200
+P 2950 7850
+F 0 "D30" H 2950 7993 50  0000 C CNN
+F 1 "LED" H 2950 7736 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 2950 7700 50  0001 C CNN
+F 3 "" V 2950 7850 50  0000 C CNN
+	1    2950 7850
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR014
+L power:GND #PWR016
 U 1 1 582B6B6B
-P 3250 5350
-F 0 "#PWR014" H 3250 5100 50  0001 C CNN
-F 1 "GND" H 3250 5200 50  0000 C CNN
-F 2 "" H 3250 5350 50  0000 C CNN
-F 3 "" H 3250 5350 50  0000 C CNN
-	1    3250 5350
+P 2950 8000
+F 0 "#PWR016" H 2950 7750 50  0001 C CNN
+F 1 "GND" H 2950 7850 50  0000 C CNN
+F 2 "" H 2950 8000 50  0000 C CNN
+F 3 "" H 2950 8000 50  0000 C CNN
+	1    2950 8000
 	1    0    0    -1  
 $EndComp
 Text Label 6800 3550 3    60   ~ 0
-a1
+a0
 Text Label 6700 3550 3    60   ~ 0
-a2
+a1
 Text Label 6600 3550 3    60   ~ 0
-a3
+a2
 Text Label 6100 3550 3    60   ~ 0
-a4
-Text Label 6400 3550 3    60   ~ 0
-a5
-Text Label 6300 3550 3    60   ~ 0
-a6
-Text Label 6200 3550 3    60   ~ 0
 a7
+Text Label 6400 3550 3    60   ~ 0
+a4
+Text Label 6300 3550 3    60   ~ 0
+a5
+Text Label 6200 3550 3    60   ~ 0
+a6
 Text Label 6500 3550 3    60   ~ 0
-a8
+a3
 Entry Wire Line
 	6800 4200 6700 4300
 Entry Wire Line
@@ -638,95 +476,55 @@ Entry Wire Line
 Entry Wire Line
 	3650 4200 3750 4300
 Text Label 3850 3550 3    60   ~ 0
-a3
-Text Label 3650 3550 3    60   ~ 0
-a1
-Text Label 4050 3550 3    60   ~ 0
-a5
-Text Label 4150 3550 3    60   ~ 0
-a6
-Text Label 3750 3550 3    60   ~ 0
 a2
-Text Label 3950 3550 3    60   ~ 0
-a8
-Text Label 4050 4850 3    60   ~ 0
+Text Label 3650 3550 3    60   ~ 0
+a0
+Text Label 4050 3550 3    60   ~ 0
 a4
-Text Label 3850 4850 3    60   ~ 0
+Text Label 4150 3550 3    60   ~ 0
 a5
-Text Label 3950 4850 3    60   ~ 0
-a7
-Text Label 3750 4850 3    60   ~ 0
-a3
-Text Label 3650 4850 3    60   ~ 0
+Text Label 3750 3550 3    60   ~ 0
 a1
+Text Label 3950 3550 3    60   ~ 0
+a3
+Text Label 4050 5400 3    60   ~ 0
+a4
+Text Label 3850 5400 3    60   ~ 0
+a2
+Text Label 3950 5400 3    60   ~ 0
+a3
+Text Label 3750 5400 3    60   ~ 0
+a1
+Text Label 3650 5400 3    60   ~ 0
+a0
 Entry Wire Line
-	4350 6500 4250 6600
+	4250 8250 4150 8350
 Entry Wire Line
-	4250 6500 4150 6600
+	4150 8250 4050 8350
 Entry Wire Line
-	4150 6500 4050 6600
+	4050 8250 3950 8350
 Entry Wire Line
-	4050 6500 3950 6600
+	3950 8250 3850 8350
 Entry Wire Line
-	3950 6500 3850 6600
+	3850 8250 3750 8350
 Entry Wire Line
-	3850 6500 3750 6600
+	3750 8250 3650 8350
 Entry Wire Line
-	3750 6500 3650 6600
-Entry Wire Line
-	3650 6500 3550 6600
-Entry Wire Line
-	4250 8350 4150 8450
-Entry Wire Line
-	4250 8550 4150 8650
-Entry Wire Line
-	4250 8850 4150 8950
-Entry Wire Line
-	4250 9050 4150 9150
-Text Label 4350 6450 1    60   ~ 0
-d1
-Text Label 4250 6450 1    60   ~ 0
-d3
-Text Label 4150 6450 1    60   ~ 0
-d5
-Text Label 4050 6450 1    60   ~ 0
-d4
-Text Label 3950 6450 1    60   ~ 0
-d6
-Text Label 3850 6450 1    60   ~ 0
-d44
-Text Label 3750 6450 1    60   ~ 0
-d7
-Text Label 3600 8950 2    60   ~ 0
-d1
-Text Label 3600 9150 2    60   ~ 0
-d3
-Entry Wire Line
-	4650 9450 4550 9550
-Entry Wire Line
-	4550 9450 4450 9550
-Entry Wire Line
-	4450 9450 4350 9550
-Entry Wire Line
-	4350 9450 4250 9550
-Entry Wire Line
-	4250 9450 4150 9550
-Entry Wire Line
-	4050 9450 3950 9550
-Text Label 4550 9750 1    60   ~ 0
-d1
-Text Label 4450 9750 1    60   ~ 0
-d7
-Text Label 4350 9750 1    60   ~ 0
-d3
-Text Label 4250 9750 1    60   ~ 0
-d44
-Text Label 4150 9750 1    60   ~ 0
-d5
-Text Label 4050 9750 1    60   ~ 0
-d6
-Text Label 3950 9750 1    60   ~ 0
-d4
+	3650 8250 3550 8350
+Text Label 4350 7050 1    60   ~ 0
+DB7
+Text Label 4250 7050 1    60   ~ 0
+DB6
+Text Label 4150 7050 1    60   ~ 0
+DB5
+Text Label 4050 7050 1    60   ~ 0
+DB4
+Text Label 3950 7050 1    60   ~ 0
+DB3
+Text Label 3850 7050 1    60   ~ 0
+DB2
+Text Label 3750 7050 1    60   ~ 0
+DB1
 Text Label 4250 2100 1    60   ~ 0
 AB6
 Text Label 4150 2100 1    60   ~ 0
@@ -741,68 +539,46 @@ Text Label 3750 2100 1    60   ~ 0
 AB1
 Text Label 3650 2100 1    60   ~ 0
 AB0
-$Comp
-L allBonsaiSymbolLibs:Conn_02x10_Counter_Clockwise-conn P2
-U 1 1 58D096FC
-P 2850 1050
-F 0 "P2" V 2896 512 50  0001 R CNN
-F 1 "CONN_02X10" V 2805 512 50  0001 R CNN
-F 2 "allBonsaiFootprintsLibs:Pin_Header_Straight_2x10_Pitch2.00mmBonsai.pretty" H 2850 -150 50  0001 C CNN
-F 3 "" H 2850 -150 50  0000 C CNN
-	1    2850 1050
-	1    0    0    -1  
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:Conn_02x10_Counter_Clockwise-conn P1
-U 1 1 5A1624C1
-P 4250 10100
-F 0 "P1" V 4296 9562 50  0000 R CNN
-F 1 "CONN_02X10" V 4205 9562 50  0000 R CNN
-F 2 "allBonsaiFootprintsLibs:Pin_Header_Straight_2x10_Pitch2.00mmBonsai.pretty" V 3900 10000 50  0001 C CNN
-F 3 "" H 4250 8900 50  0000 C CNN
-	1    4250 10100
-	0    -1   -1   0   
-$EndComp
-Text Label 3650 6450 1    60   ~ 0
-d2
+Text Label 3650 7050 1    60   ~ 0
+DB0
 $Comp
 L allBonsaiSymbolLibs:74LS14 U1
 U 2 1 5A2A45AB
-P 2250 2600
-F 0 "U1" H 2400 2700 50  0000 C CNN
-F 1 "74LS14" H 2450 2500 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-14_W7.62mm_Socket_LongPadstg" H 650 2600 50  0001 C CNN
-F 3 "" H 2250 2600 50  0000 C CNN
-	2    2250 2600
+P 2700 4000
+F 0 "U1" H 2850 4100 50  0000 C CNN
+F 1 "74LS14" H 2900 3900 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 1100 4000 50  0001 C CNN
+F 3 "" H 2700 4000 50  0000 C CNN
+	2    2700 4000
 	1    0    0    -1  
 $EndComp
 $Comp
 L allBonsaiSymbolLibs:74LS14 U1
 U 1 1 5A2A5408
-P 1300 2600
-F 0 "U1" H 1450 2700 50  0000 C CNN
-F 1 "74LS14" H 1500 2500 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-14_W7.62mm_Socket_LongPadstg" V 1300 3750 50  0001 C CNN
-F 3 "" H 1300 2600 50  0000 C CNN
-	1    1300 2600
+P 1750 4000
+F 0 "U1" H 1900 4100 50  0000 C CNN
+F 1 "74LS14" H 1950 3900 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" V 1750 5150 50  0001 C CNN
+F 3 "" H 1750 4000 50  0000 C CNN
+	1    1750 4000
 	1    0    0    -1  
 $EndComp
 $Comp
 L allBonsaiSymbolLibs:74LS14 U1
 U 3 1 5A2A55C6
-P 1750 3050
-F 0 "U1" H 1900 3150 50  0000 C CNN
-F 1 "74LS14" H 1950 2950 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-14_W7.62mm_Socket_LongPadstg" V 1750 4200 50  0001 C CNN
-F 3 "" H 1750 3050 50  0000 C CNN
-	3    1750 3050
+P 2200 4450
+F 0 "U1" H 2350 4550 50  0000 C CNN
+F 1 "74LS14" H 2400 4350 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" V 2200 5600 50  0001 C CNN
+F 3 "" H 2200 4450 50  0000 C CNN
+	3    2200 4450
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR015
+L power:VCC #PWR01
 U 1 1 5A2AA32D
 P 6100 1650
-F 0 "#PWR015" H 6100 1500 50  0001 C CNN
+F 0 "#PWR01" H 6100 1500 50  0001 C CNN
 F 1 "VCC" H 6100 1800 50  0000 C CNN
 F 2 "" H 6100 1650 50  0000 C CNN
 F 3 "" H 6100 1650 50  0000 C CNN
@@ -810,43 +586,32 @@ F 3 "" H 6100 1650 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Bonsai:74540 U2
-U 4 1 5A282C7C
-P 7950 7050
-F 0 "U2" V 7750 7150 60  0000 C CNN
-F 1 "74540" H 8100 6900 60  0001 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-20_W7.62mm_Socket_LongPadstg" H 8050 7850 60  0001 C CNN
-F 3 "" H 8100 6900 60  0001 C CNN
-	4    7950 7050
-	0    1    1    0   
-$EndComp
-$Comp
-L Bonsai:74540 U2
+L Bonsai:74540 U6
 U 7 1 5A287D96
-P 2800 4650
-F 0 "U2" H 2900 4750 60  0000 C CNN
-F 1 "74540" H 2950 4500 60  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-20_W7.62mm_Socket_LongPadstg" H 2950 4500 60  0001 C CNN
-F 3 "" H 2950 4500 60  0001 C CNN
-	7    2800 4650
+P 2500 7350
+F 0 "U6" H 2600 7450 60  0000 C CNN
+F 1 "74540" H 2650 7200 60  0000 C CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_LongPads" H 2650 7200 60  0001 C CNN
+F 3 "" H 2650 7200 60  0001 C CNN
+	7    2500 7350
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR016
+L power:GND #PWR025
 U 1 1 5A57D7FB
-P 6900 8300
-F 0 "#PWR016" H 6900 8050 50  0001 C CNN
-F 1 "GND" H 6905 8127 50  0000 C CNN
-F 2 "" H 6900 8300 50  0001 C CNN
-F 3 "" H 6900 8300 50  0001 C CNN
-	1    6900 8300
+P 5650 14450
+F 0 "#PWR025" H 5650 14200 50  0001 C CNN
+F 1 "GND" H 5655 14277 50  0000 C CNN
+F 2 "" H 5650 14450 50  0001 C CNN
+F 3 "" H 5650 14450 50  0001 C CNN
+	1    5650 14450
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:PWR_FLAG #FLG019
+L power:PWR_FLAG #FLG01
 U 1 1 5AAF510E
 P 6950 13700
-F 0 "#FLG019" H 6950 13795 50  0001 C CNN
+F 0 "#FLG01" H 6950 13795 50  0001 C CNN
 F 1 "PWR_FLAG" H 6950 13850 50  0000 C CNN
 F 2 "" H 6950 13700 50  0000 C CNN
 F 3 "" H 6950 13700 50  0000 C CNN
@@ -854,10 +619,10 @@ F 3 "" H 6950 13700 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR021
+L power:VCC #PWR022
 U 1 1 5AB1C35B
 P 6600 13700
-F 0 "#PWR021" H 6600 13550 50  0001 C CNN
+F 0 "#PWR022" H 6600 13550 50  0001 C CNN
 F 1 "VCC" H 6550 13850 50  0000 L CNN
 F 2 "" H 6600 13700 50  0000 C CNN
 F 3 "" H 6600 13700 50  0000 C CNN
@@ -865,10 +630,10 @@ F 3 "" H 6600 13700 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR022
+L power:GND #PWR023
 U 1 1 5AB7EDBD
 P 6600 14100
-F 0 "#PWR022" H 6600 13850 50  0001 C CNN
+F 0 "#PWR023" H 6600 13850 50  0001 C CNN
 F 1 "GND" H 6650 13950 50  0000 R CNN
 F 2 "" H 6600 14100 50  0000 C CNN
 F 3 "" H 6600 14100 50  0000 C CNN
@@ -876,37 +641,21 @@ F 3 "" H 6600 14100 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:D-device D22
+L allBonsaiSymbolLibs:D-device D32
 U 1 1 5ABA7A1B
 P 7500 13900
-F 0 "D22" V 7591 13822 50  0000 R CNN
+F 0 "D32" V 7591 13822 50  0000 R CNN
 F 1 "D" V 7500 13822 50  0000 R CNN
-F 2 "Diodes_ThroughHole:D_DO-41_SOD81_P10.16mm_Horizontal" V 7400 13750 50  0001 R CNN
+F 2 "Diode_THT:D_A-405_P10.16mm_Horizontal" V 7400 13750 50  0001 R CNN
 F 3 "" H 7500 13900 50  0000 C CNN
 	1    7500 13900
 	0    1    1    0   
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:2PinTerminalBlocktg-2PinTerminalBlocktg J1
-U 1 1 5AC8E498
-P 6300 13800
-F 0 "J1" H 6162 13486 50  0001 C CNN
-F 1 "2PinTerminalBlocktg" H 6162 13577 50  0001 C CNN
-F 2 "2PinTerminalBlocktg" H 6300 13800 50  0001 L BNN
-F 3 "None" H 6300 13800 50  0001 L BNN
-F 4 "Wurth Electronics" H 6300 13800 50  0001 L BNN "Field4"
-F 5 "None" H 6300 13800 50  0001 L BNN "Field5"
-F 6 "Unavailable" H 6300 13800 50  0001 L BNN "Field6"
-F 7 "TERM BLOCK 2POS HORIZ 5.08MM T/H" H 6300 13800 50  0001 L BNN "Field7"
-F 8 "2PinTerminalBlocktg" H 6300 13800 50  0001 L BNN "Field8"
-	1    6300 13800
-	-1   0    0    1   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:C_Small C1
+L allBonsaiSymbolLibs:C_Small C2
 U 1 1 5AD62DCF
 P 7700 13900
-F 0 "C1" H 7792 13946 50  0000 L CNN
+F 0 "C2" H 7792 13946 50  0000 L CNN
 F 1 "100n" H 7792 13855 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 7700 13900 60  0001 C CNN
 F 3 "" H 7700 13900 60  0000 C CNN
@@ -914,60 +663,22 @@ F 3 "" H 7700 13900 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:C_Small C2
+L allBonsaiSymbolLibs:C_Small C3
 U 1 1 5AD62ED1
 P 8100 13900
-F 0 "C2" H 8192 13946 50  0000 L CNN
+F 0 "C3" H 8192 13946 50  0000 L CNN
 F 1 "100n" H 8192 13855 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 8100 13900 60  0001 C CNN
 F 3 "" H 8100 13900 60  0000 C CNN
 	1    8100 13900
 	1    0    0    -1  
 $EndComp
-$Comp
-L allBonsaiSymbolLibs:2PinTerminalBlocktg-2PinTerminalBlocktg J2
-U 1 1 5ADBA454
-P 500 3700
-F 0 "J2" H 362 3386 50  0000 C CNN
-F 1 "2PinTerminalBlocktg" H 362 3477 50  0000 C CNN
-F 2 "2PinTerminalBlocktg" H 500 3700 50  0001 L BNN
-F 3 "None" H 500 3700 50  0001 L BNN
-F 4 "Wurth Electronics" H 500 3700 50  0001 L BNN "Field4"
-F 5 "None" H 500 3700 50  0001 L BNN "Field5"
-F 6 "Unavailable" H 500 3700 50  0001 L BNN "Field6"
-F 7 "TERM BLOCK 2POS HORIZ 5.08MM T/H" H 500 3700 50  0001 L BNN "Field7"
-F 8 "2PinTerminalBlocktg" H 500 3700 50  0001 L BNN "Field8"
-	1    500  3700
-	-1   0    0    1   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:3PinTerminalBlocktg-3PinTerminalBlocktg J3
-U 1 1 5ADBA737
-P 700 9700
-F 0 "J3" H 562 9386 50  0000 C CNN
-F 1 "3PinTerminalBlocktg" H 562 9477 50  0000 C CNN
-F 2 "3PinTerminalBlocktg" H 700 9700 50  0001 L BNN
-F 3 "1.12 USD" H 700 9700 50  0001 L BNN
-F 4 "Warning" H 700 9700 50  0001 L BNN "Field4"
-F 5 "Wurth Electronics" H 700 9700 50  0001 L BNN "Field5"
-F 6 "TERM BLK 5MM HORZ ENTRY MOD 3P" H 700 9700 50  0001 L BNN "Field6"
-F 7 "None" H 700 9700 50  0001 L BNN "Field7"
-F 8 "3PinTerminalBlocktg" H 700 9700 50  0001 L BNN "Field8"
-	1    700  9700
-	-1   0    0    1   
-$EndComp
-Text GLabel 1100 9800 2    60   Input ~ 0
-upPC
-Text GLabel 1100 9600 2    60   Input ~ 0
-incPC
-Text GLabel 1100 9700 2    60   Input ~ 0
-incPCz
-Text GLabel 800  3600 2    60   Input ~ 0
+Text GLabel 1100 5800 2    60   Input ~ 0
 enableR
-Text GLabel 800  3700 2    60   Input ~ 0
+Text GLabel 1100 5900 2    60   Input ~ 0
 loadIR
 Wire Wire Line
-	750  2600 850  2600
+	1200 4000 1250 4000
 Wire Wire Line
 	3650 3550 3650 4200
 Wire Wire Line
@@ -981,47 +692,30 @@ Wire Wire Line
 Wire Wire Line
 	4150 4200 4150 3550
 Wire Wire Line
-	3950 4400 3950 4750
+	3850 4400 3850 5550
 Wire Wire Line
-	3850 4400 3850 4950
+	3750 4400 3750 5550
 Wire Wire Line
-	3750 4400 3750 4950
+	3650 4400 3650 5550
 Wire Wire Line
-	3650 4400 3650 4950
+	2250 4000 2200 4000
 Wire Wire Line
-	7950 8000 7950 7950
-Wire Wire Line
-	8450 8000 8450 7950
-Wire Wire Line
-	1800 2600 1750 2600
-Wire Wire Line
-	1750 4000 1750 4100
+	2200 5400 2200 5500
 Wire Wire Line
 	4650 4000 4650 3550
-Wire Wire Line
-	3500 4000 4550 4000
-Wire Wire Line
-	3500 4000 3500 2600
-Wire Wire Line
-	3500 2600 2700 2600
 Wire Wire Line
 	4550 4000 4550 3550
 Connection ~ 4550 4000
 Wire Wire Line
-	1150 7950 1350 7950
+	5000 11800 5200 11800
 Wire Wire Line
-	1350 7950 1350 8200
-Connection ~ 1350 7950
+	5200 11800 5200 11750
+Connection ~ 5200 11800
 Wire Wire Line
-	1750 8050 1850 8050
+	1600 7350 1800 7350
 Wire Wire Line
-	1850 7950 1850 8050
-Connection ~ 1850 8050
-Wire Wire Line
-	1450 4650 2100 4650
-Wire Wire Line
-	2100 4650 2100 4500
-Connection ~ 2100 4650
+	1800 7350 1800 7200
+Connection ~ 1800 7350
 Wire Wire Line
 	6800 3550 6800 4200
 Wire Wire Line
@@ -1039,23 +733,21 @@ Wire Wire Line
 Wire Wire Line
 	6100 3550 6100 4200
 Wire Wire Line
-	3750 6350 3750 6500
+	3750 6950 3750 8250
 Wire Wire Line
-	3850 6350 3850 6500
+	3850 6950 3850 8250
 Wire Wire Line
-	3950 6350 3950 6500
+	3950 6950 3950 8250
 Wire Wire Line
-	4050 6350 4050 6500
+	4050 6950 4050 8250
 Wire Wire Line
-	4150 6350 4150 6500
+	4150 6950 4150 8250
 Wire Wire Line
-	4250 6350 4250 6500
+	4250 6950 4250 8250
 Wire Wire Line
-	4350 6350 4350 6500
+	2950 7700 2950 7750
 Wire Wire Line
-	3250 5000 3250 5100
-Wire Wire Line
-	3250 5300 3250 5350
+	2950 7950 2950 8000
 Wire Wire Line
 	6100 1650 6200 1650
 Connection ~ 6200 1650
@@ -1065,20 +757,14 @@ Connection ~ 6500 1650
 Connection ~ 6600 1650
 Connection ~ 6700 1650
 Wire Wire Line
-	3700 9800 3700 10300
-Wire Wire Line
-	3700 9800 3850 9800
-Wire Wire Line
 	7000 3550 7050 3550
 Connection ~ 7050 3550
 Wire Wire Line
-	2650 650  2650 550 
+	2150 2200 2150 2100
 Wire Wire Line
-	2650 1650 2650 1550
+	2150 3200 2150 3100
 Wire Wire Line
-	2650 550  3150 550 
-Wire Wire Line
-	4900 9800 4750 9800
+	2150 2100 2650 2100
 Connection ~ 6950 13700
 Wire Wire Line
 	7700 13700 7700 13800
@@ -1093,109 +779,89 @@ Wire Wire Line
 	7700 14100 7700 14000
 Connection ~ 7700 14100
 Wire Wire Line
-	1100 9800 900  9800
+	1100 5800 1000 5800
 Wire Wire Line
-	800  3600 700  3600
-Wire Wire Line
-	700  3700 800  3700
-Wire Wire Line
-	3700 10300 3850 10300
-Wire Wire Line
-	900  9600 1100 9600
-Wire Wire Line
-	900  9700 1100 9700
-Wire Wire Line
-	3850 10300 3950 10300
-Connection ~ 3950 10300
-Connection ~ 3850 10300
-Entry Wire Line
-	4650 9550 4750 9450
-Entry Wire Line
-	4150 9450 4050 9550
+	1000 5900 1100 5900
 $Comp
-L power:GND #PWR023
+L power:GND #PWR011
 U 1 1 5AD7B494
-P 4650 6350
-F 0 "#PWR023" H 4650 6100 50  0001 C CNN
-F 1 "GND" H 4655 6177 50  0000 C CNN
-F 2 "" H 4650 6350 50  0001 C CNN
-F 3 "" H 4650 6350 50  0001 C CNN
-	1    4650 6350
+P 4650 6950
+F 0 "#PWR011" H 4650 6700 50  0001 C CNN
+F 1 "GND" H 4655 6777 50  0000 C CNN
+F 2 "" H 4650 6950 50  0001 C CNN
+F 3 "" H 4650 6950 50  0001 C CNN
+	1    4650 6950
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR024
+L power:GND #PWR03
 U 1 1 5AD7BD7F
-P 2900 1650
-F 0 "#PWR024" H 2900 1400 50  0001 C CNN
-F 1 "GND" H 3000 1500 50  0000 R CNN
-F 2 "" H 2900 1650 50  0001 C CNN
-F 3 "" H 2900 1650 50  0001 C CNN
-	1    2900 1650
+P 2400 3200
+F 0 "#PWR03" H 2400 2950 50  0001 C CNN
+F 1 "GND" H 2500 3050 50  0000 R CNN
+F 2 "" H 2400 3200 50  0001 C CNN
+F 3 "" H 2400 3200 50  0001 C CNN
+	1    2400 3200
 	1    0    0    -1  
 $EndComp
 $Comp
 L allBonsaiSymbolLibs:74LS14 U1
 U 6 1 5AD7DB58
-P 7900 1700
-F 0 "U1" H 8050 1800 50  0000 C CNN
-F 1 "74LS14" H 8100 1600 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-14_W7.62mm_Socket_LongPadstg" H 6300 1700 50  0001 C CNN
-F 3 "" H 7900 1700 50  0000 C CNN
-	6    7900 1700
+P 9900 2800
+F 0 "U1" H 10050 2900 50  0000 C CNN
+F 1 "74LS14" H 10100 2700 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 8300 2800 50  0001 C CNN
+F 3 "" H 9900 2800 50  0000 C CNN
+	6    9900 2800
 	1    0    0    -1  
 $EndComp
 $Comp
 L allBonsaiSymbolLibs:74LS14 U1
 U 5 1 5AD7DCFA
-P 7900 1300
-F 0 "U1" H 8050 1400 50  0000 C CNN
-F 1 "74LS14" H 8100 1200 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-14_W7.62mm_Socket_LongPadstg" H 6300 1300 50  0001 C CNN
-F 3 "" H 7900 1300 50  0000 C CNN
-	5    7900 1300
+P 9900 2400
+F 0 "U1" H 10050 2500 50  0000 C CNN
+F 1 "74LS14" H 10100 2300 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 8300 2400 50  0001 C CNN
+F 3 "" H 9900 2400 50  0000 C CNN
+	5    9900 2400
 	1    0    0    -1  
 $EndComp
 $Comp
 L allBonsaiSymbolLibs:74LS14 U1
 U 4 1 5AD7DDF7
-P 7900 900
-F 0 "U1" H 8050 1000 50  0000 C CNN
-F 1 "74LS14" H 8100 800 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-14_W7.62mm_Socket_LongPadstg" H 6300 900 50  0001 C CNN
-F 3 "" H 7900 900 50  0000 C CNN
-	4    7900 900 
+P 9900 2000
+F 0 "U1" H 10050 2100 50  0000 C CNN
+F 1 "74LS14" H 10100 1900 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 8300 2000 50  0001 C CNN
+F 3 "" H 9900 2000 50  0000 C CNN
+	4    9900 2000
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	8350 1300 8350 1100
+	10350 2400 10350 2200
 Wire Wire Line
-	8350 1100 7450 1100
+	10350 2200 9450 2200
 Wire Wire Line
-	7450 1100 7450 900 
+	9450 2200 9450 2000
 Wire Wire Line
-	8350 1700 8350 1500
+	10350 2800 10350 2600
 Wire Wire Line
-	8350 1500 7450 1500
+	10350 2600 9450 2600
 Wire Wire Line
-	7450 1500 7450 1300
+	9450 2600 9450 2400
 $Comp
-L power:VCC #PWR026
+L power:VCC #PWR02
 U 1 1 5AD7E65E
-P 7450 1700
-F 0 "#PWR026" H 7450 1550 50  0001 C CNN
-F 1 "VCC" H 7450 1850 50  0000 C CNN
-F 2 "" H 7450 1700 50  0000 C CNN
-F 3 "" H 7450 1700 50  0000 C CNN
-	1    7450 1700
+P 9450 2800
+F 0 "#PWR02" H 9450 2650 50  0001 C CNN
+F 1 "VCC" H 9450 2950 50  0000 C CNN
+F 2 "" H 9450 2800 50  0000 C CNN
+F 3 "" H 9450 2800 50  0000 C CNN
+	1    9450 2800
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	4550 4000 4650 4000
-Wire Wire Line
-	1350 7950 1850 7950
-Wire Wire Line
-	1850 8050 1950 8050
 Wire Wire Line
 	6200 1650 6300 1650
 Wire Wire Line
@@ -1218,145 +884,47 @@ Wire Wire Line
 	8100 13700 8500 13700
 Wire Wire Line
 	8100 14100 8500 14100
+Text Label 4350 5400 3    60   ~ 0
+b1
+Text Label 4250 5400 3    60   ~ 0
+b0
+Text Label 4150 5400 3    60   ~ 0
+a5
 Wire Wire Line
-	3950 10300 4050 10300
-Connection ~ 4050 10300
+	5650 13500 5650 13550
 Wire Wire Line
-	4050 10300 4150 10300
-Connection ~ 4150 10300
+	2650 2100 2650 2200
+Connection ~ 2650 3100
 Wire Wire Line
-	4150 10300 4250 10300
-Connection ~ 4250 10300
+	2650 3100 2650 3200
+Connection ~ 2650 2400
 Wire Wire Line
-	4250 10300 4350 10300
-Connection ~ 4350 10300
+	2650 2400 2650 2500
+Connection ~ 2650 2500
 Wire Wire Line
-	4350 10300 4450 10300
-Connection ~ 4450 10300
+	2650 2500 2650 2600
+Connection ~ 2650 2600
 Wire Wire Line
-	4450 10300 4550 10300
-Connection ~ 4550 10300
+	2650 2600 2650 2700
+Connection ~ 2650 2700
 Wire Wire Line
-	4550 10300 4650 10300
-Connection ~ 4650 10300
+	2650 2700 2650 2800
+Connection ~ 2650 2800
 Wire Wire Line
-	4650 10300 4750 10300
-Connection ~ 4750 10300
+	2650 2800 2650 2900
+Connection ~ 2650 2900
 Wire Wire Line
-	4750 10300 4900 10300
+	2650 2900 2650 3000
+Connection ~ 2650 3000
 Wire Wire Line
-	5100 4650 5100 6600
+	2650 3000 2650 3100
+Connection ~ 2200 4000
+Connection ~ 2650 2200
 Wire Wire Line
-	5100 6600 4550 6600
+	2650 2200 2650 2300
+Connection ~ 2650 2300
 Wire Wire Line
-	4550 6600 4550 6350
-Wire Wire Line
-	5200 4750 5200 5700
-Text Label 4350 4950 3    60   ~ 0
-a2
-Text Label 4250 4950 3    60   ~ 0
-a8
-Wire Wire Line
-	5200 4750 3950 4750
-Text Label 4150 4850 3    60   ~ 0
-a6
-Text Label 4650 9750 1    60   ~ 0
-d2
-$Comp
-L power:VCC #PWR019
-U 1 1 5AF5D5F2
-P 7950 8000
-F 0 "#PWR019" H 7950 7850 50  0001 C CNN
-F 1 "VCC" H 7950 8150 50  0000 C CNN
-F 2 "" H 7950 8000 50  0000 C CNN
-F 3 "" H 7950 8000 50  0000 C CNN
-	1    7950 8000
-	-1   0    0    1   
-$EndComp
-$Comp
-L Bonsai:74540 U2
-U 3 1 5A282E5F
-P 8450 7050
-F 0 "U2" V 8250 7150 60  0000 C CNN
-F 1 "74540" H 8600 6900 60  0001 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-20_W7.62mm_Socket_LongPadstg" H 8600 6900 60  0001 C CNN
-F 3 "" H 8600 6900 60  0001 C CNN
-	3    8450 7050
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	8450 7400 8450 7350
-Wire Wire Line
-	6900 7350 6900 7400
-$Comp
-L allBonsaiSymbolLibs:7400 U3
-U 1 1 57F3278C
-P 2150 9850
-F 0 "U3" H 2150 9900 50  0000 C CNN
-F 1 "7400" H 2150 9750 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-14_W7.62mm_Socket_LongPadstg" H 1850 10100 50  0001 C CNN
-F 3 "" H 2150 9850 50  0000 C CNN
-	1    2150 9850
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	2350 10550 2350 10450
-Wire Wire Line
-	2350 10450 2150 10450
-$Comp
-L allBonsaiSymbolLibs:7400 U3
-U 2 1 57F331B6
-P 1850 8650
-F 0 "U3" H 1850 8700 50  0000 C CNN
-F 1 "7400" H 1850 8550 50  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-14_W7.62mm_Socket_LongPadstg" H 1700 8900 50  0001 C CNN
-F 3 "" H 1850 8650 50  0000 C CNN
-	2    1850 8650
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	3450 8950 4150 8950
-Wire Wire Line
-	3450 9150 4150 9150
-Wire Wire Line
-	1850 9250 2050 9250
-Connection ~ 2250 9050
-Wire Wire Line
-	2250 9050 2250 9250
-Wire Wire Line
-	3150 550  3150 650 
-Connection ~ 3150 1550
-Wire Wire Line
-	3150 1550 3150 1650
-Connection ~ 3150 850 
-Wire Wire Line
-	3150 850  3150 950 
-Connection ~ 3150 950 
-Wire Wire Line
-	3150 950  3150 1050
-Connection ~ 3150 1050
-Wire Wire Line
-	3150 1050 3150 1150
-Connection ~ 3150 1150
-Wire Wire Line
-	3150 1150 3150 1250
-Connection ~ 3150 1250
-Wire Wire Line
-	3150 1250 3150 1350
-Connection ~ 3150 1350
-Wire Wire Line
-	3150 1350 3150 1450
-Connection ~ 3150 1450
-Wire Wire Line
-	3150 1450 3150 1550
-Connection ~ 850  2600
-Connection ~ 1750 2600
-Connection ~ 3150 650 
-Wire Wire Line
-	3150 650  3150 750 
-Connection ~ 3150 750 
-Wire Wire Line
-	3150 750  3150 850 
+	2650 2300 2650 2400
 Wire Wire Line
 	4250 3550 4300 3550
 Connection ~ 4300 3550
@@ -1364,12 +932,12 @@ Wire Wire Line
 	4300 3550 4350 3550
 Connection ~ 6100 1650
 Wire Wire Line
-	2100 4650 2450 4650
+	1800 7350 2150 7350
 Wire Wire Line
-	3150 1650 2900 1650
-Connection ~ 2900 1650
+	2650 3200 2400 3200
+Connection ~ 2400 3200
 Wire Wire Line
-	2900 1650 2650 1650
+	2400 3200 2150 3200
 Wire Wire Line
 	3650 2150 3650 1950
 Wire Wire Line
@@ -1405,691 +973,122 @@ Entry Wire Line
 Entry Wire Line
 	3550 1850 3650 1950
 Entry Wire Line
-	2350 650  2450 750 
+	1850 2200 1950 2300
 Wire Wire Line
-	2650 750  2450 750 
-Text Label 2500 750  0    50   ~ 0
+	2150 2300 1950 2300
+Text Label 2000 2300 0    50   ~ 0
 AB7
 Wire Wire Line
-	2650 850  2450 850 
+	2150 2400 1950 2400
 Wire Wire Line
-	2650 950  2450 950 
+	2150 2500 1950 2500
 Wire Wire Line
-	2650 1050 2450 1050
+	2150 2600 1950 2600
 Wire Wire Line
-	2650 1150 2450 1150
+	2150 2700 1950 2700
 Wire Wire Line
-	2650 1250 2450 1250
+	2150 2800 1950 2800
 Wire Wire Line
-	2650 1350 2450 1350
+	2150 2900 1950 2900
 Wire Wire Line
-	2650 1450 2450 1450
-Text Label 2500 850  0    50   ~ 0
+	2150 3000 1950 3000
+Text Label 2000 2400 0    50   ~ 0
 AB6
-Text Label 2500 950  0    50   ~ 0
+Text Label 2000 2500 0    50   ~ 0
 AB5
-Text Label 2500 1050 0    50   ~ 0
+Text Label 2000 2600 0    50   ~ 0
 AB4
-Text Label 2500 1150 0    50   ~ 0
+Text Label 2000 2700 0    50   ~ 0
 AB3
-Text Label 2500 1250 0    50   ~ 0
+Text Label 2000 2800 0    50   ~ 0
 AB2
-Text Label 2500 1350 0    50   ~ 0
+Text Label 2000 2900 0    50   ~ 0
 AB1
-Text Label 2500 1450 0    50   ~ 0
+Text Label 2000 3000 0    50   ~ 0
 AB0
 Entry Wire Line
-	2350 750  2450 850 
+	1850 2300 1950 2400
 Entry Wire Line
-	2350 850  2450 950 
+	1850 2400 1950 2500
 Entry Wire Line
-	2350 950  2450 1050
+	1850 2500 1950 2600
 Entry Wire Line
-	2350 1050 2450 1150
+	1850 2600 1950 2700
 Entry Wire Line
-	2350 1150 2450 1250
+	1850 2700 1950 2800
 Entry Wire Line
-	2350 1250 2450 1350
+	1850 2800 1950 2900
 Entry Wire Line
-	2350 1350 2450 1450
+	1850 2900 1950 3000
+Text GLabel 5000 12650 0    60   Input ~ 0
+~incPC
+Wire Wire Line
+	5000 12650 5200 12650
+Wire Wire Line
+	5200 12650 5200 12600
+Connection ~ 5200 12650
+Wire Wire Line
+	5200 12650 8550 12650
+Wire Wire Line
+	5200 12300 5200 12250
 $Comp
-L power:GND #PWR017
-U 1 1 5A68F060
-P 3850 10300
-F 0 "#PWR017" H 3850 10050 50  0001 C CNN
-F 1 "GND" V 3855 10172 50  0000 R CNN
-F 2 "" H 3850 10300 50  0001 C CNN
-F 3 "" H 3850 10300 50  0001 C CNN
-	1    3850 10300
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4900 9800 4900 10300
-Wire Wire Line
-	2350 11850 2250 11850
-Wire Wire Line
-	2250 11750 2250 11850
-Connection ~ 2250 11850
-Wire Wire Line
-	2250 11850 2150 11850
-Text GLabel 1500 10550 0    60   Input ~ 0
-incPC
-Wire Wire Line
-	1500 10550 1700 10550
-Wire Wire Line
-	1700 10550 1700 10500
-Connection ~ 1700 10550
-Wire Wire Line
-	1700 10550 2150 10550
-Wire Wire Line
-	1700 10200 1700 10150
-Wire Wire Line
-	2250 13050 2250 13150
-Wire Wire Line
-	2250 13150 1250 13150
-$Comp
-L power:VCC #PWR0101
-U 1 1 6022D6E1
-P 8450 8000
-F 0 "#PWR0101" H 8450 7850 50  0001 C CNN
-F 1 "VCC" H 8450 8150 50  0000 C CNN
-F 2 "" H 8450 8000 50  0000 C CNN
-F 3 "" H 8450 8000 50  0000 C CNN
-	1    8450 8000
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	8450 7750 8450 7700
-Wire Wire Line
-	7950 7750 7950 7700
-Wire Wire Line
-	7950 7400 7950 7350
-Wire Wire Line
-	8950 7700 8950 7750
-$Comp
-L power:VCC #PWR0102
-U 1 1 6022DA27
-P 8950 8000
-F 0 "#PWR0102" H 8950 7850 50  0001 C CNN
-F 1 "VCC" H 8950 8150 50  0000 C CNN
-F 2 "" H 8950 8000 50  0000 C CNN
-F 3 "" H 8950 8000 50  0000 C CNN
-	1    8950 8000
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	8950 7400 8950 7350
-Wire Wire Line
-	8950 8000 8950 7950
-$Comp
-L Bonsai:74540 U2
-U 2 1 5A282F54
-P 8950 7050
-F 0 "U2" V 8750 7150 60  0000 C CNN
-F 1 "74540" H 9100 6900 60  0001 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-20_W7.62mm_Socket_LongPadstg" H 9100 6900 60  0001 C CNN
-F 3 "" H 9100 6900 60  0001 C CNN
-	2    8950 7050
-	0    1    1    0   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:Led_Small D17
-U 1 1 57E9A814
-P 8950 7850
-F 0 "D17" H 8950 7993 50  0000 C CNN
-F 1 "LED" H 8950 7736 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" H 8800 7750 50  0001 C CNN
-F 3 "" V 8950 7850 50  0000 C CNN
-	1    8950 7850
-	0    1    1    0   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:R-device R20
-U 1 1 57E9A030
-P 8950 7550
-F 0 "R20" V 8950 7550 50  0000 C CNN
-F 1 "330" V 8850 7550 50  0000 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 8950 9650 50  0001 C CNN
-F 3 "" H 8950 7550 50  0000 C CNN
-	1    8950 7550
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	10050 5850 10200 5850
-Wire Wire Line
-	10200 5750 10050 5750
-Wire Wire Line
-	10050 5650 10200 5650
-Wire Wire Line
-	10200 5550 10050 5550
-Text GLabel 10050 5850 0    60   Input ~ 0
-3
-Text GLabel 10050 5750 0    60   Input ~ 0
-2
-Text GLabel 10050 5650 0    60   Input ~ 0
-1
-Text GLabel 10050 5550 0    60   Input ~ 0
-0
-$Comp
-L allBonsaiSymbolLibs:2PinTerminalBlocktg-2PinTerminalBlocktg J5
-U 1 1 5ADB9B3E
-P 10400 5750
-F 0 "J5" H 10365 5740 50  0000 L CNN
-F 1 "2PinTerminalBlocktg" H 10365 5649 50  0000 L CNN
-F 2 "2PinTerminalBlocktg" H 10400 5750 50  0001 L BNN
-F 3 "None" H 10400 5750 50  0001 L BNN
-F 4 "Wurth Electronics" H 10400 5750 50  0001 L BNN "Field4"
-F 5 "None" H 10400 5750 50  0001 L BNN "Field5"
-F 6 "Unavailable" H 10400 5750 50  0001 L BNN "Field6"
-F 7 "TERM BLOCK 2POS HORIZ 5.08MM T/H" H 10400 5750 50  0001 L BNN "Field7"
-F 8 "2PinTerminalBlocktg" H 10400 5750 50  0001 L BNN "Field8"
-	1    10400 5750
-	1    0    0    -1  
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:2PinTerminalBlocktg-2PinTerminalBlocktg J4
-U 1 1 5ADB99D1
-P 10400 5550
-F 0 "J4" H 10365 5540 50  0000 L CNN
-F 1 "2PinTerminalBlocktg" H 10365 5449 50  0000 L CNN
-F 2 "2PinTerminalBlocktg" H 10400 5550 50  0001 L BNN
-F 3 "None" H 10400 5550 50  0001 L BNN
-F 4 "Wurth Electronics" H 10400 5550 50  0001 L BNN "Field4"
-F 5 "None" H 10400 5550 50  0001 L BNN "Field5"
-F 6 "Unavailable" H 10400 5550 50  0001 L BNN "Field6"
-F 7 "TERM BLOCK 2POS HORIZ 5.08MM T/H" H 10400 5550 50  0001 L BNN "Field7"
-F 8 "2PinTerminalBlocktg" H 10400 5550 50  0001 L BNN "Field8"
-	1    10400 5550
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	9450 7700 9450 7750
-Wire Wire Line
-	9450 7350 9450 7400
-$Comp
-L power:VCC #PWR0103
-U 1 1 6022DC45
-P 9450 8000
-F 0 "#PWR0103" H 9450 7850 50  0001 C CNN
-F 1 "VCC" H 9450 8150 50  0000 C CNN
-F 2 "" H 9450 8000 50  0000 C CNN
-F 3 "" H 9450 8000 50  0000 C CNN
-	1    9450 8000
-	-1   0    0    1   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:R-device R24
-U 1 1 57E99EFD
-P 9450 7550
-F 0 "R24" V 9450 7550 50  0000 C CNN
-F 1 "330" V 9350 7550 50  0000 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 9450 9650 50  0001 C CNN
-F 3 "" H 9450 7550 50  0000 C CNN
-	1    9450 7550
-	-1   0    0    1   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:Led_Small D21
-U 1 1 57E9A417
-P 9450 7850
-F 0 "D21" H 9450 7993 50  0000 C CNN
-F 1 "LED" H 9450 7736 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" H 9300 7750 50  0001 C CNN
-F 3 "" V 9450 7850 50  0000 C CNN
-	1    9450 7850
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	9450 8000 9450 7950
-$Comp
-L Bonsai:74540 U2
-U 1 1 5A28303B
-P 9450 7050
-F 0 "U2" V 9250 7150 60  0000 C CNN
-F 1 "74540" V 9400 7300 60  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-20_W7.62mm_Socket_LongPadstg" H 9600 6900 60  0001 C CNN
-F 3 "" H 9600 6900 60  0001 C CNN
-	1    9450 7050
-	0    1    1    0   
-$EndComp
-Connection ~ 8250 5900
-Wire Wire Line
-	8250 5900 8750 5900
-Wire Wire Line
-	8150 4950 8950 4950
-Connection ~ 7950 5400
-Wire Wire Line
-	7550 5500 7750 5500
-Wire Wire Line
-	7750 5400 7750 5500
-Connection ~ 7750 5500
-Connection ~ 8450 5400
-Wire Wire Line
-	8450 5000 8450 5400
-Wire Wire Line
-	7750 5500 8250 5500
-Wire Wire Line
-	8250 5400 8250 5500
-Connection ~ 8250 5500
-Wire Wire Line
-	8250 5500 8750 5500
-Connection ~ 7950 5600
-Wire Wire Line
-	7950 5400 7950 5600
-Wire Wire Line
-	7550 5700 7750 5700
-Wire Wire Line
-	7750 5600 7750 5700
-Connection ~ 7750 5700
-Wire Wire Line
-	7750 5700 8250 5700
-Wire Wire Line
-	8450 5400 8450 5600
-Wire Wire Line
-	8250 5900 8250 5800
-Wire Wire Line
-	8950 4950 8950 5400
-Wire Wire Line
-	7550 6100 7750 6100
-Wire Wire Line
-	8750 6000 8750 6100
-Connection ~ 8750 6100
-Wire Wire Line
-	8750 6100 9250 6100
-Wire Wire Line
-	9250 6000 9250 6100
-Connection ~ 9250 6100
-Wire Wire Line
-	9250 6100 9750 6100
-Wire Wire Line
-	7950 5600 7950 5800
-Wire Wire Line
-	8050 5000 8450 5000
-Wire Wire Line
-	8050 4500 8050 5000
-Wire Wire Line
-	8150 4500 8150 4950
-Wire Wire Line
-	8550 4500 8350 4500
-$Comp
-L allBonsaiSymbolLibs:R_PACK4BUSSED RP1
-U 1 1 5A5FCAF2
-P 8150 4300
-F 0 "RP1" V 8140 4022 50  0000 R CNN
-F 1 "R_PACK4BUSSED" V 8049 4022 50  0000 R CNN
-F 2 "Resistors_ThroughHole:R_Array_SIP5" H 9150 4250 60  0001 C CNN
-F 3 "" H 8150 4150 60  0000 C CNN
-	1    8150 4300
-	0    1    -1   0   
-$EndComp
-Wire Wire Line
-	7550 5900 7750 5900
-Wire Wire Line
-	8450 5800 8450 6000
-Connection ~ 8450 5800
-Connection ~ 8950 6000
-Wire Wire Line
-	7950 4500 7950 5400
-Wire Wire Line
-	8250 4500 8250 4900
-Wire Wire Line
-	8250 4900 9450 4900
-Wire Wire Line
-	9450 4900 9450 5400
-Connection ~ 9450 6000
-$Comp
-L allBonsaiSymbolLibs:74LS139-74xx U7
-U 1 1 57E9588C
-P 6700 5800
-F 0 "U7" H 6750 5800 50  0000 R CNN
-F 1 "74LS139" H 6850 5950 50  0000 R CNN
-F 2 "allBonsaiFootprintsLibs:DIP-16_W7.62mm_Socket_LongPadstg" H 6300 5800 50  0001 C CNN
-F 3 "" H 6700 5800 50  0000 C CNN
-	1    6700 5800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2250 8550 2250 9050
-Connection ~ 2250 8550
-Wire Wire Line
-	3450 8650 4150 8650
-Wire Wire Line
-	3450 8450 4150 8450
-Text Label 3600 8650 2    60   ~ 0
-d4
-Text Label 3600 8450 2    60   ~ 0
-d5
-Text Label 3600 7950 2    60   ~ 0
-d6
-Entry Wire Line
-	4250 7850 4150 7950
-Entry Wire Line
-	4250 8050 4150 8150
-Wire Wire Line
-	3450 8150 4150 8150
-Wire Wire Line
-	2250 8050 2250 8550
-Connection ~ 2250 8050
-Text Label 3600 8150 2    60   ~ 0
-d44
-Wire Wire Line
-	3450 7950 4150 7950
-Text Label 3600 7450 2    60   ~ 0
-d7
-Text Label 3600 7650 2    60   ~ 0
-d2
-Connection ~ 2250 7550
-Wire Wire Line
-	2250 7550 2250 8050
-Connection ~ 4250 9450
-Wire Wire Line
-	3450 7450 4150 7450
-Entry Wire Line
-	4150 7450 4250 7350
-Entry Wire Line
-	4150 7650 4250 7550
-Wire Wire Line
-	3450 7650 4150 7650
-$Comp
-L allBonsaiSymbolLibs:R-device R2
+L allBonsaiSymbolLibs:R-device R17
 U 1 1 582AA727
-P 950 7250
-F 0 "R2" V 950 7250 50  0000 C CNN
-F 1 "330" V 850 7250 50  0000 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1150 6450 50  0001 C CNN
-F 3 "" H 950 7250 50  0000 C CNN
-	1    950  7250
+P 5650 9700
+F 0 "R17" V 5650 9700 50  0000 C CNN
+F 1 "330" V 5550 9700 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5850 8900 50  0001 C CNN
+F 3 "" H 5650 9700 50  0000 C CNN
+	1    5650 9700
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:Led_Small D1
+L Device:LED_Small_ALT D31
 U 1 1 582AC971
-P 950 6950
-F 0 "D1" H 950 7050 50  0000 C CNN
-F 1 "LED" H 950 6836 50  0001 C CNN
-F 2 "LEDs:LED_D3.0mm" V 1100 6950 50  0001 C CNN
-F 3 "" V 950 6950 50  0000 C CNN
-	1    950  6950
+P 5650 9400
+F 0 "D31" H 5650 9500 50  0000 C CNN
+F 1 "LED" H 5650 9286 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" V 5800 9400 50  0001 C CNN
+F 3 "" V 5650 9400 50  0000 C CNN
+	1    5650 9400
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:VCC #PWR012
+L power:VCC #PWR017
 U 1 1 582B09F9
-P 950 6800
-F 0 "#PWR012" H 950 6650 50  0001 C CNN
-F 1 "VCC" H 950 6950 50  0000 C CNN
-F 2 "" H 950 6800 50  0000 C CNN
-F 3 "" H 950 6800 50  0000 C CNN
-	1    950  6800
+P 5650 9250
+F 0 "#PWR017" H 5650 9100 50  0001 C CNN
+F 1 "VCC" H 5650 9400 50  0000 C CNN
+F 2 "" H 5650 9250 50  0000 C CNN
+F 3 "" H 5650 9250 50  0000 C CNN
+	1    5650 9250
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1200 7400 950  7400
+	5650 9550 5650 9500
 Wire Wire Line
-	950  7100 950  7050
-Wire Wire Line
-	950  6850 950  6800
+	5650 9300 5650 9250
 $Comp
-L Bonsai:74540 U2
+L Bonsai:74540 U6
 U 8 1 5A2905C7
-P 1500 7400
-F 0 "U2" H 1600 7500 60  0000 C CNN
-F 1 "74540" H 1650 7250 60  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-20_W7.62mm_Socket_LongPadstg" H 1650 7250 60  0001 C CNN
-F 3 "" H 1650 7250 60  0001 C CNN
-	8    1500 7400
-	-1   0    0    1   
+P 5650 10200
+F 0 "U6" H 5750 10300 60  0000 C CNN
+F 1 "74540" H 5800 10050 60  0000 C CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_LongPads" H 5800 10050 60  0001 C CNN
+F 3 "" H 5800 10050 60  0001 C CNN
+	8    5650 10200
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	1850 7400 2250 7400
+	1800 6800 1800 6900
 Wire Wire Line
-	2250 7400 2250 7550
-Connection ~ 2250 7400
-$Comp
-L allBonsaiSymbolLibs:R-device R7
-U 1 1 57F34F54
-P 2250 7050
-F 0 "R7" V 2250 7050 50  0000 C CNN
-F 1 "1k" V 2150 7050 50  0000 C CNN
-F 2 "Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 2250 7300 50  0001 C CNN
-F 3 "" H 2250 7050 50  0000 C CNN
-	1    2250 7050
-	-1   0    0    1   
-$EndComp
+	2800 7350 2950 7350
 Wire Wire Line
-	2250 7200 2250 7400
-$Comp
-L power:VCC #PWR08
-U 1 1 57FCF846
-P 2250 6800
-F 0 "#PWR08" H 2250 6650 50  0001 C CNN
-F 1 "VCC" H 2250 6950 50  0000 C CNN
-F 2 "" H 2250 6800 50  0000 C CNN
-F 3 "" H 2250 6800 50  0000 C CNN
-	1    2250 6800
-	1    0    0    -1  
-$EndComp
+	2950 7400 2950 7350
 Wire Wire Line
-	2250 6900 2250 6800
-Wire Wire Line
-	2100 4100 2100 4200
-Wire Wire Line
-	3100 4650 3250 4650
-Wire Wire Line
-	3250 4700 3250 4650
-Connection ~ 3250 4650
-Wire Wire Line
-	3250 4650 5100 4650
-Wire Wire Line
-	5850 5700 5200 5700
-Wire Wire Line
-	5850 5550 5300 5550
-Wire Wire Line
-	5300 5550 5300 4800
-Wire Wire Line
-	4150 4400 4150 4950
-Wire Wire Line
-	4050 4400 4050 4800
-Connection ~ 4050 4800
-Wire Wire Line
-	4050 4800 4050 4950
-Wire Wire Line
-	4050 4800 5300 4800
-Connection ~ 3950 4750
-Wire Wire Line
-	3950 4750 3950 4950
-$Comp
-L Bonsai:bonsai_Led_Small_Platzhalter D23
-U 1 1 617B23FF
-P 7750 5800
-F 0 "D23" H 7850 5984 50  0001 C CNN
-F 1 "bonsai_Led_Small_Platzhalter" H 7850 5893 50  0001 C CNN
-F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7905 5800 60  0001 C CNN
-F 3 "" V 7905 5800 60  0000 C CNN
-	1    7750 5800
-	1    0    0    -1  
-$EndComp
-Connection ~ 7950 5800
-Wire Wire Line
-	7950 5800 7950 6000
-Wire Wire Line
-	7750 5800 7750 5900
-Connection ~ 7750 5900
-Wire Wire Line
-	7750 5900 8250 5900
-$Comp
-L Bonsai:bonsai_Led_Small_Platzhalter D31
-U 1 1 617FA5F3
-P 7750 6000
-F 0 "D31" H 7850 6184 50  0001 C CNN
-F 1 "bonsai_Led_Small_Platzhalter" H 7850 6093 50  0001 C CNN
-F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7905 6000 60  0001 C CNN
-F 3 "" V 7905 6000 60  0000 C CNN
-	1    7750 6000
-	1    0    0    -1  
-$EndComp
-Connection ~ 7950 6000
-Wire Wire Line
-	7950 6000 7950 6700
-$Comp
-L Bonsai:bonsai_Led_Small_Platzhalter D32
-U 1 1 617FA873
-P 8250 6000
-F 0 "D32" H 8350 6184 50  0001 C CNN
-F 1 "bonsai_Led_Small_Platzhalter" H 8350 6093 50  0001 C CNN
-F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8405 6000 60  0001 C CNN
-F 3 "" V 8405 6000 60  0000 C CNN
-	1    8250 6000
-	1    0    0    -1  
-$EndComp
-Connection ~ 8450 6000
-$Comp
-L Bonsai:bonsai_Led_Small_Platzhalter D26
-U 1 1 617FAB40
-P 8250 5600
-F 0 "D26" H 8350 5784 50  0001 C CNN
-F 1 "bonsai_Led_Small_Platzhalter" H 8350 5693 50  0001 C CNN
-F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8405 5600 60  0001 C CNN
-F 3 "" V 8405 5600 60  0000 C CNN
-	1    8250 5600
-	1    0    0    -1  
-$EndComp
-Connection ~ 8450 5600
-Wire Wire Line
-	8450 5600 8450 5800
-$Comp
-L Bonsai:bonsai_Led_Small_Platzhalter D27
-U 1 1 617FAE2F
-P 8750 5600
-F 0 "D27" H 8850 5784 50  0001 C CNN
-F 1 "bonsai_Led_Small_Platzhalter" H 8850 5693 50  0001 C CNN
-F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8905 5600 60  0001 C CNN
-F 3 "" V 8905 5600 60  0000 C CNN
-	1    8750 5600
-	1    0    0    -1  
-$EndComp
-Connection ~ 8950 5600
-Wire Wire Line
-	8950 5600 8950 5800
-$Comp
-L Bonsai:bonsai_Led_Small_Platzhalter D29
-U 1 1 617FB092
-P 8750 5800
-F 0 "D29" H 8850 5984 50  0001 C CNN
-F 1 "bonsai_Led_Small_Platzhalter" H 8850 5893 50  0001 C CNN
-F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8905 5800 60  0001 C CNN
-F 3 "" V 8905 5800 60  0000 C CNN
-	1    8750 5800
-	1    0    0    -1  
-$EndComp
-Connection ~ 8950 5800
-Wire Wire Line
-	8950 5800 8950 6000
-$Comp
-L Bonsai:bonsai_Led_Small_Platzhalter D24
-U 1 1 617FB38C
-P 8750 5400
-F 0 "D24" H 8850 5584 50  0001 C CNN
-F 1 "bonsai_Led_Small_Platzhalter" H 8850 5493 50  0001 C CNN
-F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8905 5400 60  0001 C CNN
-F 3 "" V 8905 5400 60  0000 C CNN
-	1    8750 5400
-	1    0    0    -1  
-$EndComp
-Connection ~ 8950 5400
-Wire Wire Line
-	8950 5400 8950 5600
-$Comp
-L Bonsai:bonsai_Led_Small_Platzhalter D25
-U 1 1 617FB5AA
-P 9250 5400
-F 0 "D25" H 9350 5584 50  0001 C CNN
-F 1 "bonsai_Led_Small_Platzhalter" H 9350 5493 50  0001 C CNN
-F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9405 5400 60  0001 C CNN
-F 3 "" V 9405 5400 60  0000 C CNN
-	1    9250 5400
-	1    0    0    -1  
-$EndComp
-Connection ~ 9450 5400
-Wire Wire Line
-	9450 5400 9450 5600
-$Comp
-L Bonsai:bonsai_Led_Small_Platzhalter D28
-U 1 1 617FB869
-P 9250 5600
-F 0 "D28" H 9350 5784 50  0001 C CNN
-F 1 "bonsai_Led_Small_Platzhalter" H 9350 5693 50  0001 C CNN
-F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9405 5600 60  0001 C CNN
-F 3 "" V 9405 5600 60  0000 C CNN
-	1    9250 5600
-	1    0    0    -1  
-$EndComp
-Connection ~ 9450 5600
-Wire Wire Line
-	9450 5600 9450 5800
-$Comp
-L Bonsai:bonsai_Led_Small_Platzhalter D30
-U 1 1 617FBB54
-P 9250 5800
-F 0 "D30" H 9350 5984 50  0001 C CNN
-F 1 "bonsai_Led_Small_Platzhalter" H 9350 5893 50  0001 C CNN
-F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9405 5800 60  0001 C CNN
-F 3 "" V 9405 5800 60  0000 C CNN
-	1    9250 5800
-	1    0    0    -1  
-$EndComp
-Connection ~ 9450 5800
-Wire Wire Line
-	9450 5800 9450 6000
-Wire Wire Line
-	9250 5400 9250 5500
-Connection ~ 9250 5500
-Wire Wire Line
-	9250 5500 9750 5500
-Wire Wire Line
-	9250 5600 9250 5700
-Connection ~ 9250 5700
-Wire Wire Line
-	9250 5700 9750 5700
-Wire Wire Line
-	9250 5800 9250 5900
-Connection ~ 9250 5900
-Wire Wire Line
-	9250 5900 9750 5900
-Wire Wire Line
-	8750 5800 8750 5900
-Connection ~ 8750 5900
-Wire Wire Line
-	8750 5900 9250 5900
-Wire Wire Line
-	8750 5600 8750 5700
-Connection ~ 8750 5700
-Wire Wire Line
-	8750 5700 9250 5700
-Wire Wire Line
-	8750 5400 8750 5500
-Connection ~ 8750 5500
-Wire Wire Line
-	8750 5500 9250 5500
-Wire Wire Line
-	8250 5600 8250 5700
-Connection ~ 8250 5700
-Wire Wire Line
-	8250 5700 8750 5700
-Wire Wire Line
-	8250 6000 8250 6100
-Connection ~ 8250 6100
-Wire Wire Line
-	8250 6100 8750 6100
-Wire Wire Line
-	7750 6000 7750 6100
-Connection ~ 7750 6100
-Wire Wire Line
-	7750 6100 8250 6100
+	4150 4400 4150 5550
 Wire Wire Line
 	6500 13700 6600 13700
-Wire Wire Line
-	6500 13800 6500 14100
 Wire Wire Line
 	6500 14100 6600 14100
 Connection ~ 6600 14100
@@ -2099,10 +1098,10 @@ Wire Wire Line
 Wire Wire Line
 	6600 14100 6950 14100
 $Comp
-L power:PWR_FLAG #FLG020
+L power:PWR_FLAG #FLG02
 U 1 1 5AAF51E9
 P 6950 14100
-F 0 "#FLG020" H 6950 14195 50  0001 C CNN
+F 0 "#FLG02" H 6950 14195 50  0001 C CNN
 F 1 "PWR_FLAG" H 6950 14250 50  0000 C CNN
 F 2 "" H 6950 14100 50  0000 C CNN
 F 3 "" H 6950 14100 50  0000 C CNN
@@ -2125,10 +1124,10 @@ Connection ~ 7500 14100
 Wire Wire Line
 	7500 14100 7700 14100
 $Comp
-L allBonsaiSymbolLibs:C_Small C3
+L allBonsaiSymbolLibs:C_Small C4
 U 1 1 61A32419
 P 8500 13900
-F 0 "C3" H 8592 13946 50  0000 L CNN
+F 0 "C4" H 8592 13946 50  0000 L CNN
 F 1 "100n" H 8592 13855 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 8500 13900 60  0001 C CNN
 F 3 "" H 8500 13900 60  0000 C CNN
@@ -2146,10 +1145,10 @@ Connection ~ 8500 14100
 Wire Wire Line
 	8500 14100 8900 14100
 $Comp
-L allBonsaiSymbolLibs:C_Small C4
+L allBonsaiSymbolLibs:C_Small C5
 U 1 1 61A5B770
 P 8900 13900
-F 0 "C4" H 8992 13946 50  0000 L CNN
+F 0 "C5" H 8992 13946 50  0000 L CNN
 F 1 "100n" H 8992 13855 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 8900 13900 60  0001 C CNN
 F 3 "" H 8900 13900 60  0000 C CNN
@@ -2157,10 +1156,10 @@ F 3 "" H 8900 13900 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:C_Small C5
+L allBonsaiSymbolLibs:C_Small C6
 U 1 1 61A5BA2B
 P 9300 13900
-F 0 "C5" H 9392 13946 50  0000 L CNN
+F 0 "C6" H 9392 13946 50  0000 L CNN
 F 1 "100n" H 9392 13855 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 9300 13900 60  0001 C CNN
 F 3 "" H 9300 13900 60  0000 C CNN
@@ -2168,10 +1167,10 @@ F 3 "" H 9300 13900 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:C_Small C6
+L allBonsaiSymbolLibs:C_Small C7
 U 1 1 61A5BDFB
 P 9700 13900
-F 0 "C6" H 9792 13946 50  0000 L CNN
+F 0 "C7" H 9792 13946 50  0000 L CNN
 F 1 "100n" H 9792 13855 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 9700 13900 60  0001 C CNN
 F 3 "" H 9700 13900 60  0000 C CNN
@@ -2205,10 +1204,10 @@ Wire Wire Line
 	9700 14000 9700 14100
 Connection ~ 9700 14100
 $Comp
-L allBonsaiSymbolLibs:C_Small C7
+L allBonsaiSymbolLibs:C_Small C8
 U 1 1 61ADD114
 P 10100 13900
-F 0 "C7" H 10192 13946 50  0000 L CNN
+F 0 "C8" H 10192 13946 50  0000 L CNN
 F 1 "100n" H 10192 13855 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 10100 13900 60  0001 C CNN
 F 3 "" H 10100 13900 60  0000 C CNN
@@ -2216,10 +1215,10 @@ F 3 "" H 10100 13900 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L allBonsaiSymbolLibs:C_Small C8
+L allBonsaiSymbolLibs:C_Small C9
 U 1 1 61ADD40A
 P 10500 13900
-F 0 "C8" H 10592 13946 50  0000 L CNN
+F 0 "C9" H 10592 13946 50  0000 L CNN
 F 1 "100n" H 10592 13855 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 10500 13900 60  0001 C CNN
 F 3 "" H 10500 13900 60  0000 C CNN
@@ -2245,10 +1244,10 @@ Connection ~ 10100 14100
 Wire Wire Line
 	10100 14100 10500 14100
 $Comp
-L Device:CP C9
+L Device:CP C1
 U 1 1 61B6A5D9
 P 7050 13900
-F 0 "C9" H 7168 13946 50  0000 L CNN
+F 0 "C1" H 7168 13946 50  0000 L CNN
 F 1 "CP" H 7168 13855 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P2.50mm" H 7088 13750 50  0001 C CNN
 F 3 "~" H 7050 13900 50  0001 C CNN
@@ -2266,118 +1265,1125 @@ Connection ~ 7050 14100
 Wire Wire Line
 	7050 14100 7500 14100
 $Comp
-L allBonsaiSymbolLibs:74HCT02 U4
-U 1 1 57F2C440
-P 2850 7550
-F 0 "U4" H 2850 7600 50  0000 C CNN
-F 1 "74HCT02" H 2900 7500 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 2300 7800 50  0001 C CNN
-F 3 "" H 2850 7550 50  0000 C CNN
-	1    2850 7550
-	-1   0    0    1   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:74HCT02 U4
-U 2 1 57F2C605
-P 2850 8050
-F 0 "U4" H 2850 8100 50  0000 C CNN
-F 1 "74HCT02" H 2900 8000 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 2300 8300 50  0001 C CNN
-F 3 "" H 2850 8050 50  0000 C CNN
-	2    2850 8050
-	-1   0    0    1   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:74HCT02 U4
-U 4 1 57F2C76F
-P 2850 9050
-F 0 "U4" H 2850 9100 50  0000 C CNN
-F 1 "74HCT02" H 2900 9000 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 2300 9350 50  0001 C CNN
-F 3 "" H 2850 9050 50  0000 C CNN
-	4    2850 9050
-	-1   0    0    1   
-$EndComp
-$Comp
-L allBonsaiSymbolLibs:74HCT02 U4
-U 3 1 57F2C694
-P 2850 8550
-F 0 "U4" H 2850 8600 50  0000 C CNN
-F 1 "74HCT02" H 2900 8500 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 2300 8800 50  0001 C CNN
-F 3 "" H 2850 8550 50  0000 C CNN
-	3    2850 8550
-	-1   0    0    1   
-$EndComp
-$Comp
-L Bonsai:74540 U2
+L Bonsai:74540 U6
 U 9 1 5FABDF86
-P 6700 7900
-F 0 "U2" H 6650 7950 60  0000 C CNN
-F 1 "74540" H 6700 7850 60  0000 C CNN
-F 2 "allBonsaiFootprintsLibs:DIP-20_W7.62mm_Socket_LongPadstg" H 6800 8700 60  0001 C CNN
-F 3 "" H 6850 7750 60  0001 C CNN
-	9    6700 7900
+P 5450 14050
+F 0 "U6" H 5400 14100 60  0000 C CNN
+F 1 "74540" H 5450 14000 60  0000 C CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_LongPads" H 5550 14850 60  0001 C CNN
+F 3 "" H 5600 13900 60  0001 C CNN
+	9    5450 14050
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6350 7650 6350 7750
+	5100 13800 5100 13900
 $Comp
-L power:GND #PWR0104
+L power:GND #PWR024
 U 1 1 5FB5C951
-P 6350 8300
-F 0 "#PWR0104" H 6350 8050 50  0001 C CNN
-F 1 "GND" H 6355 8127 50  0000 C CNN
-F 2 "" H 6350 8300 50  0001 C CNN
-F 3 "" H 6350 8300 50  0001 C CNN
-	1    6350 8300
+P 5100 14450
+F 0 "#PWR024" H 5100 14200 50  0001 C CNN
+F 1 "GND" H 5105 14277 50  0000 C CNN
+F 2 "" H 5100 14450 50  0001 C CNN
+F 3 "" H 5100 14450 50  0001 C CNN
+	1    5100 14450
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6900 8300 6900 8250
+	5650 14450 5650 14400
 Wire Wire Line
-	6350 7750 6350 8300
-Connection ~ 6350 7750
+	5100 13900 5100 14450
+Connection ~ 5100 13900
 Wire Wire Line
-	8450 6000 8450 6700
+	3650 8250 3650 6950
+$Comp
+L 74xx_IEEE:7402 U7
+U 4 1 5FA4B3E7
+P 2650 11400
+F 0 "U7" H 2650 11600 50  0000 C CNN
+F 1 "7402" H 2650 11200 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 2650 11400 50  0001 C CNN
+F 3 "" H 2650 11400 50  0001 C CNN
+	4    2650 11400
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx_IEEE:7402 U7
+U 3 1 5FA4A451
+P 2650 10850
+F 0 "U7" H 2650 11050 50  0000 C CNN
+F 1 "7402" H 2650 10650 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 2650 10850 50  0001 C CNN
+F 3 "" H 2650 10850 50  0001 C CNN
+	3    2650 10850
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx_IEEE:7402 U7
+U 2 1 5FA48E71
+P 2650 10300
+F 0 "U7" H 2650 10450 50  0000 C CNN
+F 1 "7402" H 2650 10100 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 2650 10300 50  0001 C CNN
+F 3 "" H 2650 10300 50  0001 C CNN
+	2    2650 10300
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx_IEEE:7402 U7
+U 1 1 5FA47363
+P 2650 9700
+F 0 "U7" H 2650 9850 50  0000 C CNN
+F 1 "7402" H 2650 9500 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 2650 9700 50  0001 C CNN
+F 3 "" H 2650 9700 50  0001 C CNN
+	1    2650 9700
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
-	8950 6000 8950 6700
+	4350 6950 4350 8250
+Entry Wire Line
+	4350 8250 4250 8350
+Entry Wire Line
+	1750 9500 1850 9600
 Wire Wire Line
-	9450 6000 9450 6700
+	2100 9600 1850 9600
 Wire Wire Line
-	3650 6500 3650 6350
+	2100 9800 1850 9800
 Wire Wire Line
-	3950 9550 3950 9800
+	2100 10200 1850 10200
 Wire Wire Line
-	4050 9550 4050 9800
+	2100 10400 1850 10400
 Wire Wire Line
-	4150 9550 4150 9800
+	2100 10750 1850 10750
 Wire Wire Line
-	4250 9550 4250 9800
+	2100 10950 1850 10950
 Wire Wire Line
-	4350 9800 4350 9550
+	2100 11300 1850 11300
 Wire Wire Line
-	4450 9800 4450 9550
+	2100 11500 1850 11500
+Entry Wire Line
+	1750 9700 1850 9800
+Entry Wire Line
+	1750 10100 1850 10200
+Entry Wire Line
+	1750 10300 1850 10400
+Entry Wire Line
+	1750 10650 1850 10750
+Entry Wire Line
+	1750 10850 1850 10950
+Entry Wire Line
+	1750 11200 1850 11300
+Entry Wire Line
+	1750 11400 1850 11500
+$Comp
+L 74xx_IEEE:7408 U8
+U 1 1 5FFF8FCE
+P 3850 10000
+F 0 "U8" H 3850 10416 50  0000 C CNN
+F 1 "7408" H 3850 10325 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 3850 10000 50  0001 C CNN
+F 3 "" H 3850 10000 50  0001 C CNN
+	1    3850 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx_IEEE:7408 U8
+U 3 1 5FFFB7C2
+P 3850 11150
+F 0 "U8" H 3850 11566 50  0000 C CNN
+F 1 "7408" H 3850 11475 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 3850 11150 50  0001 C CNN
+F 3 "" H 3850 11150 50  0001 C CNN
+	3    3850 11150
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx_IEEE:7408 U8
+U 2 1 5FFFC51C
+P 5050 10600
+F 0 "U8" H 5050 11016 50  0000 C CNN
+F 1 "7408" H 5050 10925 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 5050 10600 50  0001 C CNN
+F 3 "" H 5050 10600 50  0001 C CNN
+	2    5050 10600
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
-	4550 9800 4550 9550
+	3200 9700 3200 9900
 Wire Wire Line
-	4650 9550 4650 9800
+	3200 9900 3300 9900
+Wire Wire Line
+	3200 10300 3200 10100
+Wire Wire Line
+	3200 10100 3300 10100
+Wire Wire Line
+	3200 10850 3200 11050
+Wire Wire Line
+	3200 11050 3300 11050
+Wire Wire Line
+	3200 11400 3200 11250
+Wire Wire Line
+	3200 11250 3300 11250
+Wire Wire Line
+	4400 10000 4400 10500
+Wire Wire Line
+	4400 10500 4500 10500
+Wire Wire Line
+	4400 11150 4400 10700
+Wire Wire Line
+	4400 10700 4500 10700
+Text Notes 3000 9250 0    50   ~ 0
+Nullentdeckungslogik
+Wire Wire Line
+	5650 9900 5650 9850
+Text Notes 9350 1650 0    50   ~ 0
+ungenutzte Gatter
+$Comp
+L allBonsaiSymbolLibs:C_Small C10
+U 1 1 5FA406DA
+P 10900 13900
+F 0 "C10" H 10992 13946 50  0000 L CNN
+F 1 "100n" H 10992 13855 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm" H 10900 13900 60  0001 C CNN
+F 3 "" H 10900 13900 60  0000 C CNN
+	1    10900 13900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10500 13700 10900 13700
+Wire Wire Line
+	10900 13700 10900 13800
+Connection ~ 10500 13700
+Wire Wire Line
+	10900 14000 10900 14100
+Wire Wire Line
+	10900 14100 10500 14100
+Connection ~ 10500 14100
+Wire Wire Line
+	2950 7350 4550 7350
+Wire Wire Line
+	4550 6950 4550 7350
+Connection ~ 2950 7350
+Wire Wire Line
+	3150 4000 4550 4000
+Wire Wire Line
+	7700 6200 7700 6350
+Connection ~ 7700 6200
+Wire Wire Line
+	7700 6200 10100 6200
+Wire Wire Line
+	8200 6100 8200 6350
+Connection ~ 8200 6100
+Wire Wire Line
+	8200 6100 10100 6100
+Wire Wire Line
+	8700 6000 8700 6350
+Connection ~ 8700 6000
+Wire Wire Line
+	8700 6000 10100 6000
+Wire Wire Line
+	9200 5900 9200 6350
+Connection ~ 9200 5900
+Wire Wire Line
+	9200 5900 10100 5900
+Text Label 7700 4950 0    50   ~ 0
+v3
+Text Label 8200 4950 0    50   ~ 0
+v2
+Text Label 8700 4950 0    50   ~ 0
+v1
+Text Label 9200 4950 0    50   ~ 0
+v0
+Text Label 9300 5750 0    50   ~ 0
+h3
+Text Label 9300 5550 0    50   ~ 0
+h2
+Text Label 9300 5350 0    50   ~ 0
+h1
+Text Label 9300 5150 0    50   ~ 0
+h0
+Wire Wire Line
+	9200 5650 9200 5900
+Wire Wire Line
+	8700 5650 8700 6000
+Wire Wire Line
+	8200 5650 8200 6100
+Wire Wire Line
+	7500 5750 8000 5750
+Connection ~ 7500 5750
+Wire Wire Line
+	7500 5650 7500 5750
+Wire Wire Line
+	8000 5750 8500 5750
+Connection ~ 8000 5750
+Wire Wire Line
+	8000 5650 8000 5750
+Wire Wire Line
+	8000 5350 8500 5350
+Connection ~ 8000 5350
+Wire Wire Line
+	8000 5250 8000 5350
+Wire Wire Line
+	8500 5150 9000 5150
+Connection ~ 8500 5150
+Wire Wire Line
+	8500 5050 8500 5150
+Wire Wire Line
+	8500 5350 9000 5350
+Connection ~ 8500 5350
+Wire Wire Line
+	8500 5250 8500 5350
+Wire Wire Line
+	8500 5550 9000 5550
+Connection ~ 8500 5550
+Wire Wire Line
+	8500 5450 8500 5550
+Wire Wire Line
+	9000 5550 9500 5550
+Connection ~ 9000 5550
+Wire Wire Line
+	9000 5450 9000 5550
+Wire Wire Line
+	9000 5350 9500 5350
+Connection ~ 9000 5350
+Wire Wire Line
+	9000 5250 9000 5350
+Wire Wire Line
+	9000 5150 9500 5150
+Connection ~ 9000 5150
+Wire Wire Line
+	9000 5050 9000 5150
+Wire Wire Line
+	9200 5450 9200 5650
+Connection ~ 9200 5450
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D21
+U 1 1 617FBB54
+P 9000 5450
+F 0 "D21" H 9100 5634 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9100 5543 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9155 5450 60  0001 C CNN
+F 3 "" V 9155 5450 60  0000 C CNN
+	1    9000 5450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9200 5250 9200 5450
+Connection ~ 9200 5250
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D16
+U 1 1 617FB869
+P 9000 5250
+F 0 "D16" H 9100 5434 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9100 5343 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9155 5250 60  0001 C CNN
+F 3 "" V 9155 5250 60  0000 C CNN
+	1    9000 5250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9200 5050 9200 5250
+Connection ~ 9200 5050
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D12
+U 1 1 617FB5AA
+P 9000 5050
+F 0 "D12" H 9100 5234 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 9100 5143 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 9155 5050 60  0001 C CNN
+F 3 "" V 9155 5050 60  0000 C CNN
+	1    9000 5050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8700 5050 8700 5250
+Connection ~ 8700 5050
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D11
+U 1 1 617FB38C
+P 8500 5050
+F 0 "D11" H 8600 5234 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8600 5143 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8655 5050 60  0001 C CNN
+F 3 "" V 8655 5050 60  0000 C CNN
+	1    8500 5050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8700 5450 8700 5650
+Connection ~ 8700 5450
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D20
+U 1 1 617FB092
+P 8500 5450
+F 0 "D20" H 8600 5634 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8600 5543 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8655 5450 60  0001 C CNN
+F 3 "" V 8655 5450 60  0000 C CNN
+	1    8500 5450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8700 5250 8700 5450
+Connection ~ 8700 5250
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D15
+U 1 1 617FAE2F
+P 8500 5250
+F 0 "D15" H 8600 5434 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8600 5343 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8655 5250 60  0001 C CNN
+F 3 "" V 8655 5250 60  0000 C CNN
+	1    8500 5250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8200 5250 8200 5450
+Connection ~ 8200 5250
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D14
+U 1 1 617FAB40
+P 8000 5250
+F 0 "D14" H 8100 5434 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8100 5343 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8155 5250 60  0001 C CNN
+F 3 "" V 8155 5250 60  0000 C CNN
+	1    8000 5250
+	1    0    0    -1  
+$EndComp
+Connection ~ 8200 5650
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D23
+U 1 1 617FA873
+P 8000 5650
+F 0 "D23" H 8100 5834 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 8100 5743 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 8155 5650 60  0001 C CNN
+F 3 "" V 8155 5650 60  0000 C CNN
+	1    8000 5650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7700 5650 7700 6200
+Connection ~ 7700 5650
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D22
+U 1 1 617FA5F3
+P 7500 5650
+F 0 "D22" H 7600 5834 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7600 5743 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7655 5650 60  0001 C CNN
+F 3 "" V 7655 5650 60  0000 C CNN
+	1    7500 5650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 5550 8000 5550
+Connection ~ 7500 5550
+Wire Wire Line
+	7500 5450 7500 5550
+Wire Wire Line
+	7700 5450 7700 5650
+Connection ~ 7700 5450
+$Comp
+L Bonsai:bonsai_Led_Small_Platzhalter D18
+U 1 1 617B23FF
+P 7500 5450
+F 0 "D18" H 7600 5634 50  0001 C CNN
+F 1 "bonsai_Led_Small_Platzhalter" H 7600 5543 50  0001 C CNN
+F 2 "bonsai:LED_Diodenmatrix_Platzhalter" V 7655 5450 60  0001 C CNN
+F 3 "" V 7655 5450 60  0000 C CNN
+	1    7500 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L allBonsaiSymbolLibs:74LS139-74xx U4
+U 1 1 57E9588C
+P 6450 5450
+F 0 "U4" H 6500 5450 50  0000 R CNN
+F 1 "74LS139" H 6600 5600 50  0000 R CNN
+F 2 "Package_DIP:DIP-16_W7.62mm_Socket_LongPads" H 6050 5450 50  0001 C CNN
+F 3 "" H 6450 5450 50  0000 C CNN
+	1    6450 5450
+	1    0    0    -1  
+$EndComp
+Connection ~ 9200 5650
+Wire Wire Line
+	9200 4700 9200 5050
+Wire Wire Line
+	8000 4700 9200 4700
+Wire Wire Line
+	8000 4600 8000 4700
+Wire Wire Line
+	7700 4600 7700 5050
+Connection ~ 8700 5650
+Connection ~ 8200 5450
+Wire Wire Line
+	8200 5450 8200 5650
+Wire Wire Line
+	7300 5550 7500 5550
+$Comp
+L allBonsaiSymbolLibs:R_PACK4BUSSED RP1
+U 1 1 5A5FCAF2
+P 7900 4400
+F 0 "RP1" V 7890 4122 50  0000 R CNN
+F 1 "R_PACK4BUSSED" V 7799 4122 50  0000 R CNN
+F 2 "Resistor_THT:R_Array_SIP5" H 8900 4350 60  0001 C CNN
+F 3 "" H 7900 4250 60  0000 C CNN
+	1    7900 4400
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	8300 4600 8100 4600
+Wire Wire Line
+	7900 4600 7900 4750
+Wire Wire Line
+	7800 4600 7800 4800
+Wire Wire Line
+	7800 4800 8200 4800
+Wire Wire Line
+	7700 5250 7700 5450
+Wire Wire Line
+	9000 5750 9500 5750
+Connection ~ 9000 5750
+Wire Wire Line
+	9000 5650 9000 5750
+Wire Wire Line
+	8500 5750 9000 5750
+Connection ~ 8500 5750
+Wire Wire Line
+	8500 5650 8500 5750
+Wire Wire Line
+	7300 5750 7500 5750
+Wire Wire Line
+	8700 4750 8700 5050
+Wire Wire Line
+	8000 5550 8000 5450
+Wire Wire Line
+	8200 5050 8200 5250
+Wire Wire Line
+	7500 5350 8000 5350
+Connection ~ 7500 5350
+Wire Wire Line
+	7500 5250 7500 5350
+Wire Wire Line
+	7300 5350 7500 5350
+Wire Wire Line
+	7700 5050 7700 5250
+Connection ~ 7700 5250
+Wire Wire Line
+	8000 5150 8500 5150
+Connection ~ 8000 5150
+Wire Wire Line
+	8000 5050 8000 5150
+Wire Wire Line
+	7500 5150 8000 5150
+Wire Wire Line
+	8200 4800 8200 5050
+Connection ~ 8200 5050
+Connection ~ 7500 5150
+Wire Wire Line
+	7500 5050 7500 5150
+Wire Wire Line
+	7300 5150 7500 5150
+Connection ~ 7700 5050
+Wire Wire Line
+	7900 4750 8700 4750
+Wire Wire Line
+	8000 5550 8500 5550
+Connection ~ 8000 5550
+$Comp
+L Bonsai:74540 U6
+U 1 1 5A28303B
+P 9200 6700
+F 0 "U6" V 9000 6800 60  0000 C CNN
+F 1 "74540" V 9150 6950 60  0000 C CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_LongPads" H 9350 6550 60  0001 C CNN
+F 3 "" H 9350 6550 60  0001 C CNN
+	1    9200 6700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9200 7650 9200 7600
+$Comp
+L allBonsaiSymbolLibs:Led_Small D29
+U 1 1 57E9A417
+P 9200 7500
+F 0 "D29" H 9200 7643 50  0000 C CNN
+F 1 "LED" H 9200 7386 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 9050 7400 50  0001 C CNN
+F 3 "" V 9200 7500 50  0000 C CNN
+	1    9200 7500
+	0    1    1    0   
+$EndComp
+$Comp
+L allBonsaiSymbolLibs:R-device R15
+U 1 1 57E99EFD
+P 9200 7200
+F 0 "R15" V 9200 7200 50  0000 C CNN
+F 1 "330" V 9100 7200 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 9200 9300 50  0001 C CNN
+F 3 "" H 9200 7200 50  0000 C CNN
+	1    9200 7200
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:VCC #PWR015
+U 1 1 6022DC45
+P 9200 7650
+F 0 "#PWR015" H 9200 7500 50  0001 C CNN
+F 1 "VCC" H 9200 7800 50  0000 C CNN
+F 2 "" H 9200 7650 50  0000 C CNN
+F 3 "" H 9200 7650 50  0000 C CNN
+	1    9200 7650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9200 7000 9200 7050
+Wire Wire Line
+	9200 7350 9200 7400
+$Comp
+L allBonsaiSymbolLibs:R-device R14
+U 1 1 57E9A030
+P 8700 7200
+F 0 "R14" V 8700 7200 50  0000 C CNN
+F 1 "330" V 8600 7200 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 8700 9300 50  0001 C CNN
+F 3 "" H 8700 7200 50  0000 C CNN
+	1    8700 7200
+	-1   0    0    1   
+$EndComp
+$Comp
+L allBonsaiSymbolLibs:Led_Small D28
+U 1 1 57E9A814
+P 8700 7500
+F 0 "D28" H 8700 7643 50  0000 C CNN
+F 1 "LED" H 8700 7386 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 8550 7400 50  0001 C CNN
+F 3 "" V 8700 7500 50  0000 C CNN
+	1    8700 7500
+	0    1    1    0   
+$EndComp
+$Comp
+L Bonsai:74540 U6
+U 2 1 5A282F54
+P 8700 6700
+F 0 "U6" V 8500 6800 60  0000 C CNN
+F 1 "74540" H 8850 6550 60  0001 C CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_LongPads" H 8850 6550 60  0001 C CNN
+F 3 "" H 8850 6550 60  0001 C CNN
+	2    8700 6700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	8700 7650 8700 7600
+Wire Wire Line
+	8700 7050 8700 7000
+$Comp
+L power:VCC #PWR014
+U 1 1 6022DA27
+P 8700 7650
+F 0 "#PWR014" H 8700 7500 50  0001 C CNN
+F 1 "VCC" H 8700 7800 50  0000 C CNN
+F 2 "" H 8700 7650 50  0000 C CNN
+F 3 "" H 8700 7650 50  0000 C CNN
+	1    8700 7650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8700 7350 8700 7400
+Wire Wire Line
+	7700 7050 7700 7000
+Wire Wire Line
+	7700 7400 7700 7350
+Wire Wire Line
+	8200 7400 8200 7350
+$Comp
+L power:VCC #PWR013
+U 1 1 6022D6E1
+P 8200 7650
+F 0 "#PWR013" H 8200 7500 50  0001 C CNN
+F 1 "VCC" H 8200 7800 50  0000 C CNN
+F 2 "" H 8200 7650 50  0000 C CNN
+F 3 "" H 8200 7650 50  0000 C CNN
+	1    8200 7650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8200 7050 8200 7000
+$Comp
+L Bonsai:74540 U6
+U 3 1 5A282E5F
+P 8200 6700
+F 0 "U6" V 8000 6800 60  0000 C CNN
+F 1 "74540" H 8350 6550 60  0001 C CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_LongPads" H 8350 6550 60  0001 C CNN
+F 3 "" H 8350 6550 60  0001 C CNN
+	3    8200 6700
+	0    1    1    0   
+$EndComp
+$Comp
+L power:VCC #PWR012
+U 1 1 5AF5D5F2
+P 7700 7650
+F 0 "#PWR012" H 7700 7500 50  0001 C CNN
+F 1 "VCC" H 7700 7800 50  0000 C CNN
+F 2 "" H 7700 7650 50  0000 C CNN
+F 3 "" H 7700 7650 50  0000 C CNN
+	1    7700 7650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8200 7650 8200 7600
+Wire Wire Line
+	7700 7650 7700 7600
+$Comp
+L Bonsai:74540 U6
+U 4 1 5A282C7C
+P 7700 6700
+F 0 "U6" V 7500 6800 60  0000 C CNN
+F 1 "74540" H 7850 6550 60  0001 C CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_LongPads" H 7800 7500 60  0001 C CNN
+F 3 "" H 7850 6550 60  0001 C CNN
+	4    7700 6700
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR09
+U 1 1 580EBD54
+P 5550 5750
+F 0 "#PWR09" H 5550 5500 50  0001 C CNN
+F 1 "GND" H 5550 5600 50  0000 C CNN
+F 2 "" H 5550 5750 50  0000 C CNN
+F 3 "" H 5550 5750 50  0000 C CNN
+	1    5550 5750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Small_ALT D24
+U 1 1 580EAE00
+P 8600 5650
+F 0 "D24" V 8600 5450 50  0001 L CNN
+F 1 "Led_Small" V 8600 6500 50  0001 L CNN
+F 2 "bonsai:LED_Diodenmatrix" H 9700 5650 50  0001 C CNN
+F 3 "" V 8600 5650 50  0000 C CNN
+	1    8600 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Small_ALT D25
+U 1 1 580EAD43
+P 9100 5650
+F 0 "D25" V 9100 5750 50  0001 L CNN
+F 1 "Led_Small" V 9000 6350 50  0001 L CNN
+F 2 "bonsai:LED_Diodenmatrix" H 10200 5650 50  0001 C CNN
+F 3 "" V 9100 5650 50  0000 C CNN
+	1    9100 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Small_ALT D19
+U 1 1 580EAC8E
+P 8100 5450
+F 0 "D19" V 8100 5250 50  0001 L CNN
+F 1 "Led_Small" V 8100 6500 50  0001 L CNN
+F 2 "bonsai:LED_Diodenmatrix" H 9450 5450 50  0001 C CNN
+F 3 "" V 8100 5450 50  0000 C CNN
+	1    8100 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Small_ALT D13
+U 1 1 580EABEB
+P 7600 5250
+F 0 "D13" V 7600 5050 50  0001 L CNN
+F 1 "Led_Small" V 7650 6500 50  0001 L CNN
+F 2 "bonsai:LED_Diodenmatrix" H 9200 5250 50  0001 C CNN
+F 3 "" V 7600 5250 50  0000 C CNN
+	1    7600 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Small_ALT D9
+U 1 1 580EAB66
+P 7600 5050
+F 0 "D9" V 7600 4850 50  0001 L CNN
+F 1 "Led_Small" V 7450 6400 50  0001 L CNN
+F 2 "bonsai:LED_Diodenmatrix" V 7600 3800 50  0001 C CNN
+F 3 "" V 7600 5050 50  0000 C CNN
+	1    7600 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Small_ALT D10
+U 1 1 580EAA2D
+P 8100 5050
+F 0 "D10" V 8100 5150 50  0001 L CNN
+F 1 "Led_Small" V 8050 6250 50  0001 L CNN
+F 2 "bonsai:LED_Diodenmatrix" V 8150 6600 50  0001 C CNN
+F 3 "" V 8100 5050 50  0000 C CNN
+	1    8100 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR07
+U 1 1 57FC686E
+P 8300 4600
+F 0 "#PWR07" H 8300 4450 50  0001 C CNN
+F 1 "VCC" H 8300 4750 50  0000 C CNN
+F 2 "" H 8300 4600 50  0000 C CNN
+F 3 "" H 8300 4600 50  0000 C CNN
+	1    8300 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L allBonsaiSymbolLibs:Led_Small D26
+U 1 1 57E9A927
+P 7700 7500
+F 0 "D26" H 7700 7650 50  0000 C CNN
+F 1 "LED" H 7700 7386 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 7550 7400 50  0001 C CNN
+F 3 "" V 7700 7500 50  0000 C CNN
+	1    7700 7500
+	0    1    1    0   
+$EndComp
+$Comp
+L allBonsaiSymbolLibs:Led_Small D27
+U 1 1 57E9A89E
+P 8200 7500
+F 0 "D27" H 8200 7643 50  0000 C CNN
+F 1 "LED" H 8200 7386 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 8050 7400 50  0001 C CNN
+F 3 "" V 8200 7500 50  0000 C CNN
+	1    8200 7500
+	0    1    1    0   
+$EndComp
+$Comp
+L allBonsaiSymbolLibs:R-device R12
+U 1 1 57E9A129
+P 7700 7200
+F 0 "R12" V 7700 7200 50  0000 C CNN
+F 1 "330" V 7600 7200 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7700 9300 50  0001 C CNN
+F 3 "" H 7700 7200 50  0000 C CNN
+	1    7700 7200
+	-1   0    0    1   
+$EndComp
+$Comp
+L allBonsaiSymbolLibs:R-device R13
+U 1 1 57E9A0AC
+P 8200 7200
+F 0 "R13" V 8200 7200 50  0000 C CNN
+F 1 "330" V 8100 7200 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 8200 9300 50  0001 C CNN
+F 3 "" H 8200 7200 50  0000 C CNN
+	1    8200 7200
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5600 5700 5550 5700
+Wire Wire Line
+	5550 5700 5550 5750
+Wire Wire Line
+	5650 10600 5650 10550
+Wire Wire Line
+	5600 10600 5650 10600
+Connection ~ 5650 10600
+$Comp
+L 74xx_IEEE:7400 U9
+U 1 1 5FF4C3E3
+P 7450 11700
+F 0 "U9" H 7450 12166 50  0000 C CNN
+F 1 "7400" H 7450 12075 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 7450 11700 50  0001 C CNN
+F 3 "" H 7450 11700 50  0001 C CNN
+	1    7450 11700
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx_IEEE:7400 U9
+U 2 1 5FF6CD43
+P 5850 11800
+F 0 "U9" H 5850 12266 50  0000 C CNN
+F 1 "7400" H 5850 12175 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 5850 11800 50  0001 C CNN
+F 3 "" H 5850 11800 50  0001 C CNN
+	2    5850 11800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6350 11800 6950 11800
+Wire Wire Line
+	7950 11700 8550 11700
+Wire Wire Line
+	5350 11700 5350 11800
+Wire Wire Line
+	5200 11800 5350 11800
+Wire Wire Line
+	5200 11450 5200 11400
+Connection ~ 5350 11800
+Wire Wire Line
+	5350 11800 5350 11900
+Wire Wire Line
+	9650 11800 9950 11800
+Wire Wire Line
+	6650 10600 6650 11600
+Wire Wire Line
+	6650 11600 6950 11600
+Wire Wire Line
+	5650 10600 6650 10600
+Text Label 5900 10600 0    50   ~ 0
+is0
+Text Notes 1350 2400 0    50   ~ 0
+Adressbus
+$Comp
+L Connector_Generic:Conn_02x10_Odd_Even J1
+U 1 1 5FA4D952
+P 2350 2600
+F 0 "J1" H 2400 3217 50  0000 C CNN
+F 1 "Conn_02x10_Odd_Even" H 2400 3126 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical" H 2350 2600 50  0001 C CNN
+F 3 "~" H 2350 2600 50  0001 C CNN
+	1    2350 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx_IEEE:7408 U8
+U 4 1 5FAE8681
+P 9100 11800
+F 0 "U8" H 9100 12216 50  0000 C CNN
+F 1 "7408" H 9100 12125 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 9100 11800 50  0001 C CNN
+F 3 "" H 9100 11800 50  0001 C CNN
+	4    9100 11800
+	1    0    0    1   
+$EndComp
+Text Label 6400 11800 0    50   ~ 0
+incPCz
+Text Label 7950 11700 0    50   ~ 0
+~is0_&_incPCz
+Wire Wire Line
+	8550 12650 8550 11900
+$Comp
+L Connector_Generic:Conn_01x03 J6
+U 1 1 5FC323D8
+P 1600 14600
+F 0 "J6" H 1518 14275 50  0000 C CNN
+F 1 "Conn_01x03" H 1518 14366 50  0000 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" H 1600 14600 50  0001 C CNN
+F 3 "~" H 1600 14600 50  0001 C CNN
+	1    1600 14600
+	-1   0    0    1   
+$EndComp
+Text GLabel 2000 14700 2    60   Input ~ 0
+upPC
+Text GLabel 2000 14500 2    60   Input ~ 0
+incPC
+Text GLabel 2000 14600 2    60   Input ~ 0
+incPCz
+Wire Wire Line
+	2000 14700 1800 14700
+Wire Wire Line
+	1800 14500 2000 14500
+Wire Wire Line
+	1800 14600 2000 14600
+Wire Wire Line
+	1250 4000 1250 3900
+Connection ~ 1250 4000
+Wire Wire Line
+	1250 4000 1300 4000
+Wire Wire Line
+	1250 3600 1250 3550
+$Comp
+L Connector_Generic:Conn_01x02 J2
+U 1 1 5FD023A3
+P 800 5900
+F 0 "J2" H 718 5575 50  0000 C CNN
+F 1 "Conn_01x02" H 718 5666 50  0000 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 800 5900 50  0001 C CNN
+F 3 "~" H 800 5900 50  0001 C CNN
+	1    800  5900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J3
+U 1 1 5FD5252B
+P 10300 6000
+F 0 "J3" H 10380 5992 50  0000 L CNN
+F 1 "Conn_01x04" H 10380 5901 50  0000 L CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical" H 10300 6000 50  0001 C CNN
+F 3 "~" H 10300 6000 50  0001 C CNN
+	1    10300 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J5
+U 1 1 5FD6DB7B
+P 6300 13800
+F 0 "J5" H 6300 13450 50  0000 C CNN
+F 1 "Conn_01x02" H 6350 13550 50  0000 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 6300 13800 50  0001 C CNN
+F 3 "~" H 6300 13800 50  0001 C CNN
+	1    6300 13800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6500 13800 6500 14100
+Text Label 1900 9600 0    50   ~ 0
+DB0
+Text Label 1900 9800 0    50   ~ 0
+DB1
+Text Label 1900 10200 0    50   ~ 0
+DB2
+Text Label 1900 10400 0    50   ~ 0
+DB3
+Text Label 1900 10750 0    50   ~ 0
+DB4
+Text Label 1900 10950 0    50   ~ 0
+DB5
+Text Label 1900 11300 0    50   ~ 0
+DB6
+Text Label 1900 11500 0    50   ~ 0
+DB7
+Wire Wire Line
+	3950 4400 3950 5550
+Wire Wire Line
+	4050 4400 4050 5550
+Wire Wire Line
+	4250 5550 4250 5350
+Wire Wire Line
+	4250 5350 5600 5350
+Wire Wire Line
+	4350 5550 4350 5200
+Wire Wire Line
+	4350 5200 5600 5200
+Wire Wire Line
+	1450 12850 1400 12850
+Connection ~ 1450 12850
+Wire Wire Line
+	1450 12950 1450 12850
+Wire Wire Line
+	1400 12350 1550 12350
+Wire Wire Line
+	1400 12850 1400 12350
+Wire Wire Line
+	2600 12350 2600 12850
+Wire Wire Line
+	2450 12350 2600 12350
+$Comp
+L Connector_Generic:Conn_02x10_Odd_Even J4
+U 1 1 5FF0031E
+P 2050 12550
+F 0 "J4" V 2100 12900 50  0000 C CNN
+F 1 "Conn_02x10_Odd_Even" H 2150 13750 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical" H 2050 12550 50  0001 C CNN
+F 3 "~" H 2050 12550 50  0001 C CNN
+	1    2050 12550
+	0    1    1    0   
+$EndComp
+Text Notes 1000 12550 0    50   ~ 0
+Datenbus
+Entry Wire Line
+	1950 12000 1850 12100
+Wire Wire Line
+	1850 12100 1850 12350
+Wire Wire Line
+	2350 12100 2350 12350
+Wire Wire Line
+	2250 12350 2250 12100
+Wire Wire Line
+	2150 12350 2150 12100
+Wire Wire Line
+	2050 12350 2050 12100
+Wire Wire Line
+	1950 12100 1950 12350
+Wire Wire Line
+	1750 12100 1750 12350
+Wire Wire Line
+	1650 12100 1650 12350
+$Comp
+L power:GND #PWR020
+U 1 1 5A68F060
+P 1450 12950
+F 0 "#PWR020" H 1450 12700 50  0001 C CNN
+F 1 "GND" V 1455 12822 50  0000 R CNN
+F 2 "" H 1450 12950 50  0001 C CNN
+F 3 "" H 1450 12950 50  0001 C CNN
+	1    1450 12950
+	1    0    0    -1  
+$EndComp
+Text Label 1650 12300 1    60   ~ 0
+DB0
+Entry Wire Line
+	1850 12000 1750 12100
+Entry Wire Line
+	2350 12100 2450 12000
+Text Label 2350 12300 1    60   ~ 0
+DB7
+Text Label 2250 12300 1    60   ~ 0
+DB6
+Text Label 2150 12300 1    60   ~ 0
+DB5
+Text Label 2050 12300 1    60   ~ 0
+DB4
+Text Label 1950 12300 1    60   ~ 0
+DB3
+Text Label 1850 12300 1    60   ~ 0
+DB2
+Text Label 1750 12300 1    60   ~ 0
+DB1
+Entry Wire Line
+	1750 12000 1650 12100
+Entry Wire Line
+	2050 12000 1950 12100
+Entry Wire Line
+	2150 12000 2050 12100
+Entry Wire Line
+	2250 12000 2150 12100
+Entry Wire Line
+	2350 12000 2250 12100
+Wire Wire Line
+	1450 12850 1550 12850
+Wire Wire Line
+	2450 12850 2600 12850
+Wire Wire Line
+	2450 12850 2350 12850
+Connection ~ 2450 12850
+Connection ~ 1550 12850
+Connection ~ 1650 12850
+Wire Wire Line
+	1650 12850 1550 12850
+Connection ~ 1750 12850
+Wire Wire Line
+	1750 12850 1650 12850
+Connection ~ 1850 12850
+Wire Wire Line
+	1850 12850 1750 12850
+Connection ~ 1950 12850
+Wire Wire Line
+	1950 12850 1850 12850
+Connection ~ 2050 12850
+Wire Wire Line
+	2050 12850 1950 12850
+Connection ~ 2150 12850
+Wire Wire Line
+	2150 12850 2050 12850
+Connection ~ 2250 12850
+Wire Wire Line
+	2250 12850 2150 12850
+Connection ~ 2350 12850
+Wire Wire Line
+	2350 12850 2250 12850
 Wire Bus Line
-	4050 9450 4250 9450
+	1750 12000 2450 12000
 Wire Bus Line
-	3550 6600 4250 6600
+	1850 1850 1850 2900
 Wire Bus Line
-	4250 9450 4750 9450
+	1750 8350 1750 12000
 Wire Bus Line
-	2350 650  2350 1850
+	1750 8350 4250 8350
+Wire Bus Line
+	1850 1850 4250 1850
 Wire Bus Line
 	3650 4300 6700 4300
-Wire Bus Line
-	4250 6600 4250 9450
-Wire Bus Line
-	2350 1850 4350 1850
-Text Notes 4700 9700 0    50   ~ 0
-0
-Text Notes 3800 9700 0    50   ~ 0
-7
 $EndSCHEMATC

@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# bonsai_Led_Small_Platzhalter-Bonsai
+#
+DEF bonsai_Led_Small_Platzhalter-Bonsai D 0 10 N N 1 F N
+F0 "D" -5 70 50 H V L CNN
+F1 "bonsai_Led_Small_Platzhalter-Bonsai" -175 -100 50 H V L CNN
+F2 "" 155 0 60 V V C CNN
+F3 "" 155 0 60 V V C CNN
+$FPLIST
+ CP*
+ SM*
+$ENDFPLIST
+DRAW
+P 2 0 1 4 80 20 80 -20 N
+P 4 0 1 4 80 0 120 20 120 -20 80 0 N
+X A 1 200 0 80 L 40 40 1 1 P
+X K 2 0 0 80 R 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
