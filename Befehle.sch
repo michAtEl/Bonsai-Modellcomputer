@@ -278,7 +278,7 @@ F 3 "" H 1250 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 1200 4000 0    60   Input ~ 0
-enableR
+~writeIR
 $Comp
 L power:GND #PWR05
 U 1 1 57FC33C9
@@ -360,61 +360,59 @@ F 3 "" H 5200 11400 50  0000 C CNN
 	1    5200 11400
 	1    0    0    -1  
 $EndComp
-Text GLabel 1600 7350 0    60   Input ~ 0
-loadIR
 $Comp
 L allBonsaiSymbolLibs:R-device R11
 U 1 1 582B55B4
-P 1800 7050
-F 0 "R11" V 1700 7050 50  0000 C CNN
-F 1 "4,7k" V 1800 7050 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 1450 7250 50  0001 C CNN
-F 3 "" H 1800 7050 50  0000 C CNN
-	1    1800 7050
+P 1350 7050
+F 0 "R11" V 1250 7050 50  0000 C CNN
+F 1 "4,7k" V 1350 7050 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 1000 7250 50  0001 C CNN
+F 3 "" H 1350 7050 50  0000 C CNN
+	1    1350 7050
 	1    0    0    1   
 $EndComp
 $Comp
 L power:VCC #PWR010
 U 1 1 582B5718
-P 1800 6800
-F 0 "#PWR010" H 1800 6650 50  0001 C CNN
-F 1 "VCC" H 1800 6950 50  0000 C CNN
-F 2 "" H 1800 6800 50  0000 C CNN
-F 3 "" H 1800 6800 50  0000 C CNN
-	1    1800 6800
+P 1350 6800
+F 0 "#PWR010" H 1350 6650 50  0001 C CNN
+F 1 "VCC" H 1350 6950 50  0000 C CNN
+F 2 "" H 1350 6800 50  0000 C CNN
+F 3 "" H 1350 6800 50  0000 C CNN
+	1    1350 6800
 	1    0    0    -1  
 $EndComp
 $Comp
 L allBonsaiSymbolLibs:R-device R16
 U 1 1 582B6652
-P 2950 7550
-F 0 "R16" V 2950 7550 50  0000 C CNN
-F 1 "330" V 2850 7550 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 3300 7300 50  0001 C CNN
-F 3 "" H 2950 7550 50  0000 C CNN
-	1    2950 7550
+P 2250 7550
+F 0 "R16" V 2250 7550 50  0000 C CNN
+F 1 "330" V 2150 7550 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 2600 7300 50  0001 C CNN
+F 3 "" H 2250 7550 50  0000 C CNN
+	1    2250 7550
 	-1   0    0    1   
 $EndComp
 $Comp
 L Device:LED_Small_ALT D30
 U 1 1 582B68A1
-P 2950 7850
-F 0 "D30" H 2950 7993 50  0000 C CNN
-F 1 "LED" H 2950 7736 50  0001 C CNN
-F 2 "LED_THT:LED_D3.0mm" H 2950 7700 50  0001 C CNN
-F 3 "" V 2950 7850 50  0000 C CNN
-	1    2950 7850
+P 2250 7850
+F 0 "D30" H 2250 7993 50  0000 C CNN
+F 1 "LED" H 2250 7736 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 2250 7700 50  0001 C CNN
+F 3 "" V 2250 7850 50  0000 C CNN
+	1    2250 7850
 	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR016
 U 1 1 582B6B6B
-P 2950 8000
-F 0 "#PWR016" H 2950 7750 50  0001 C CNN
-F 1 "GND" H 2950 7850 50  0000 C CNN
-F 2 "" H 2950 8000 50  0000 C CNN
-F 3 "" H 2950 8000 50  0000 C CNN
-	1    2950 8000
+P 2250 8000
+F 0 "#PWR016" H 2250 7750 50  0001 C CNN
+F 1 "GND" H 2250 7850 50  0000 C CNN
+F 2 "" H 2250 8000 50  0000 C CNN
+F 3 "" H 2250 8000 50  0000 C CNN
+	1    2250 8000
 	1    0    0    -1  
 $EndComp
 Text Label 6800 3550 3    60   ~ 0
@@ -452,10 +450,6 @@ Entry Wire Line
 Entry Wire Line
 	4250 4300 4150 4400
 Entry Wire Line
-	4150 4300 4050 4400
-Entry Wire Line
-	4050 4300 3950 4400
-Entry Wire Line
 	3950 4300 3850 4400
 Entry Wire Line
 	3850 4300 3750 4400
@@ -487,14 +481,10 @@ Text Label 3750 3550 3    60   ~ 0
 a1
 Text Label 3950 3550 3    60   ~ 0
 a3
-Text Label 4050 5400 3    60   ~ 0
-a4
 Text Label 3850 5400 3    60   ~ 0
-a2
-Text Label 3950 5400 3    60   ~ 0
+a4
+Text Label 4250 5400 3    60   ~ 0
 a3
-Text Label 3750 5400 3    60   ~ 0
-a1
 Text Label 3650 5400 3    60   ~ 0
 a0
 Entry Wire Line
@@ -511,20 +501,16 @@ Entry Wire Line
 	3750 8250 3650 8350
 Entry Wire Line
 	3650 8250 3550 8350
-Text Label 4350 7050 1    60   ~ 0
+Text Label 4050 7050 1    60   ~ 0
 DB7
-Text Label 4250 7050 1    60   ~ 0
+Text Label 3950 7050 1    60   ~ 0
 DB6
 Text Label 4150 7050 1    60   ~ 0
 DB5
-Text Label 4050 7050 1    60   ~ 0
-DB4
-Text Label 3950 7050 1    60   ~ 0
-DB3
 Text Label 3850 7050 1    60   ~ 0
-DB2
-Text Label 3750 7050 1    60   ~ 0
-DB1
+DB4
+Text Label 4250 7050 1    60   ~ 0
+DB3
 Text Label 4250 2100 1    60   ~ 0
 AB6
 Text Label 4150 2100 1    60   ~ 0
@@ -588,12 +574,12 @@ $EndComp
 $Comp
 L Bonsai:74540 U6
 U 7 1 5A287D96
-P 2500 7350
-F 0 "U6" H 2600 7450 60  0000 C CNN
-F 1 "74540" H 2650 7200 60  0000 C CNN
-F 2 "Package_DIP:DIP-20_W7.62mm_LongPads" H 2650 7200 60  0001 C CNN
-F 3 "" H 2650 7200 60  0001 C CNN
-	7    2500 7350
+P 1800 7350
+F 0 "U6" H 1900 7450 60  0000 C CNN
+F 1 "74540" H 1950 7200 60  0000 C CNN
+F 2 "Package_DIP:DIP-20_W7.62mm_LongPads" H 1950 7200 60  0001 C CNN
+F 3 "" H 1950 7200 60  0001 C CNN
+	7    1800 7350
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -673,10 +659,8 @@ F 3 "" H 8100 13900 60  0000 C CNN
 	1    8100 13900
 	1    0    0    -1  
 $EndComp
-Text GLabel 1100 5800 2    60   Input ~ 0
-enableR
-Text GLabel 1100 5900 2    60   Input ~ 0
-loadIR
+Text GLabel 2050 14600 2    60   Input ~ 0
+~readIR
 Wire Wire Line
 	1200 4000 1250 4000
 Wire Wire Line
@@ -712,10 +696,10 @@ Wire Wire Line
 	5200 11800 5200 11750
 Connection ~ 5200 11800
 Wire Wire Line
-	1600 7350 1800 7350
+	1150 7350 1350 7350
 Wire Wire Line
-	1800 7350 1800 7200
-Connection ~ 1800 7350
+	1350 7350 1350 7200
+Connection ~ 1350 7350
 Wire Wire Line
 	6800 3550 6800 4200
 Wire Wire Line
@@ -745,9 +729,9 @@ Wire Wire Line
 Wire Wire Line
 	4250 6950 4250 8250
 Wire Wire Line
-	2950 7700 2950 7750
+	2250 7700 2250 7750
 Wire Wire Line
-	2950 7950 2950 8000
+	2250 7950 2250 8000
 Wire Wire Line
 	6100 1650 6200 1650
 Connection ~ 6200 1650
@@ -779,9 +763,9 @@ Wire Wire Line
 	7700 14100 7700 14000
 Connection ~ 7700 14100
 Wire Wire Line
-	1100 5800 1000 5800
+	2050 14400 2000 14400
 Wire Wire Line
-	1000 5900 1100 5900
+	1800 14600 2050 14600
 $Comp
 L power:GND #PWR011
 U 1 1 5AD7B494
@@ -884,9 +868,7 @@ Wire Wire Line
 	8100 13700 8500 13700
 Wire Wire Line
 	8100 14100 8500 14100
-Text Label 4350 5400 3    60   ~ 0
-b1
-Text Label 4250 5400 3    60   ~ 0
+Text Label 3950 5400 3    60   ~ 0
 b0
 Text Label 4150 5400 3    60   ~ 0
 a5
@@ -932,7 +914,7 @@ Wire Wire Line
 	4300 3550 4350 3550
 Connection ~ 6100 1650
 Wire Wire Line
-	1800 7350 2150 7350
+	1350 7350 1450 7350
 Wire Wire Line
 	2650 3200 2400 3200
 Connection ~ 2400 3200
@@ -1080,11 +1062,11 @@ F 3 "" H 5800 10050 60  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	1800 6800 1800 6900
+	1350 6800 1350 6900
 Wire Wire Line
-	2800 7350 2950 7350
+	2100 7350 2250 7350
 Wire Wire Line
-	2950 7400 2950 7350
+	2250 7400 2250 7350
 Wire Wire Line
 	4150 4400 4150 5550
 Wire Wire Line
@@ -1376,7 +1358,7 @@ Entry Wire Line
 Entry Wire Line
 	1750 11400 1850 11500
 $Comp
-L 74xx_IEEE:7408 U8
+L Bonsai:7408 U8
 U 1 1 5FFF8FCE
 P 3850 10000
 F 0 "U8" H 3850 10416 50  0000 C CNN
@@ -1387,7 +1369,7 @@ F 3 "" H 3850 10000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx_IEEE:7408 U8
+L Bonsai:7408 U8
 U 3 1 5FFFB7C2
 P 3850 11150
 F 0 "U8" H 3850 11566 50  0000 C CNN
@@ -1398,7 +1380,7 @@ F 3 "" H 3850 11150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx_IEEE:7408 U8
+L Bonsai:7408 U8
 U 2 1 5FFFC51C
 P 5050 10600
 F 0 "U8" H 5050 11016 50  0000 C CNN
@@ -1460,10 +1442,10 @@ Wire Wire Line
 	10900 14100 10500 14100
 Connection ~ 10500 14100
 Wire Wire Line
-	2950 7350 4550 7350
+	2250 7350 4550 7350
 Wire Wire Line
 	4550 6950 4550 7350
-Connection ~ 2950 7350
+Connection ~ 2250 7350
 Wire Wire Line
 	3150 4000 4550 4000
 Wire Wire Line
@@ -2164,29 +2146,14 @@ Text Label 7950 11700 0    50   ~ 0
 ~is0_&_incPCz
 Wire Wire Line
 	8550 12650 8550 11900
-$Comp
-L Connector_Generic:Conn_01x03 J6
-U 1 1 5FC323D8
-P 1600 14600
-F 0 "J6" H 1518 14275 50  0000 C CNN
-F 1 "Conn_01x03" H 1518 14366 50  0000 C CNN
-F 2 "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" H 1600 14600 50  0001 C CNN
-F 3 "~" H 1600 14600 50  0001 C CNN
-	1    1600 14600
-	-1   0    0    1   
-$EndComp
-Text GLabel 2000 14700 2    60   Input ~ 0
-upPC
-Text GLabel 2000 14500 2    60   Input ~ 0
-incPC
-Text GLabel 2000 14600 2    60   Input ~ 0
-incPCz
+Text GLabel 2000 15550 2    60   Input ~ 0
+~upPC
+Text GLabel 2050 14200 2    60   Input ~ 0
+~incPC
+Text GLabel 2050 14000 2    60   Input ~ 0
+~incPCz
 Wire Wire Line
-	2000 14700 1800 14700
-Wire Wire Line
-	1800 14500 2000 14500
-Wire Wire Line
-	1800 14600 2000 14600
+	2000 15550 1800 15550
 Wire Wire Line
 	1250 4000 1250 3900
 Connection ~ 1250 4000
@@ -2197,12 +2164,12 @@ Wire Wire Line
 $Comp
 L Connector_Generic:Conn_01x02 J2
 U 1 1 5FD023A3
-P 800 5900
-F 0 "J2" H 718 5575 50  0000 C CNN
-F 1 "Conn_01x02" H 718 5666 50  0000 C CNN
-F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 800 5900 50  0001 C CNN
-F 3 "~" H 800 5900 50  0001 C CNN
-	1    800  5900
+P 1600 15550
+F 0 "J2" H 1518 15225 50  0000 C CNN
+F 1 "Conn_01x02" H 1518 15316 50  0000 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 1600 15550 50  0001 C CNN
+F 3 "~" H 1600 15550 50  0001 C CNN
+	1    1600 15550
 	-1   0    0    1   
 $EndComp
 $Comp
@@ -2245,18 +2212,6 @@ Text Label 1900 11300 0    50   ~ 0
 DB6
 Text Label 1900 11500 0    50   ~ 0
 DB7
-Wire Wire Line
-	3950 4400 3950 5550
-Wire Wire Line
-	4050 4400 4050 5550
-Wire Wire Line
-	4250 5550 4250 5350
-Wire Wire Line
-	4250 5350 5600 5350
-Wire Wire Line
-	4350 5550 4350 5200
-Wire Wire Line
-	4350 5200 5600 5200
 Wire Wire Line
 	1450 12850 1400 12850
 Connection ~ 1450 12850
@@ -2374,16 +2329,79 @@ Wire Wire Line
 Connection ~ 2350 12850
 Wire Wire Line
 	2350 12850 2250 12850
+Text Notes 4750 6300 0    50   ~ 0
+Befehlsregister\n(Instruction Register IR)
+$Comp
+L Connector_Generic:Conn_01x04 J6
+U 1 1 5FA7535B
+P 1600 14500
+F 0 "J6" H 1680 14492 50  0000 L CNN
+F 1 "Conn_01x04" H 1680 14401 50  0000 L CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical" H 1600 14500 50  0001 C CNN
+F 3 "~" H 1600 14500 50  0001 C CNN
+	1    1600 14500
+	-1   0    0    1   
+$EndComp
+Text GLabel 2050 14400 2    60   Input ~ 0
+~writeIR
+Wire Wire Line
+	1800 14500 2000 14500
+Wire Wire Line
+	2000 14500 2000 14400
+Wire Wire Line
+	1800 14400 1950 14400
+Wire Wire Line
+	1950 14400 1950 14200
+Wire Wire Line
+	1950 14200 2050 14200
+Wire Wire Line
+	1800 14300 1900 14300
+Wire Wire Line
+	1900 14300 1900 14000
+Wire Wire Line
+	1900 14000 2050 14000
+Text Notes 1900 13850 0    50   ~ 0
+Steuersignale\nvom Steuerwerk
+Text Notes 1500 15100 0    50   ~ 0
+Signal für den PC
+Text GLabel 1150 7350 0    60   Input ~ 0
+~readIR
+Text Label 3750 5400 3    60   ~ 0
+a2
+Text Label 4350 7050 1    60   ~ 0
+DB1
+Text Label 3750 7050 1    60   ~ 0
+DB2
+Text Label 4050 5400 3    60   ~ 0
+b1
+Text Label 4350 5400 3    60   ~ 0
+a1
+Wire Wire Line
+	4350 5550 4350 4400
+Wire Wire Line
+	4250 5550 4250 4400
+Entry Wire Line
+	4350 4400 4450 4300
+Entry Wire Line
+	4250 4400 4350 4300
+Wire Wire Line
+	3950 5350 3950 5550
+Wire Wire Line
+	5600 5350 3950 5350
+Wire Wire Line
+	4050 5550 4050 5200
+Wire Wire Line
+	4050 5200 5600 5200
 Wire Bus Line
 	1750 12000 2450 12000
 Wire Bus Line
-	1850 1850 1850 2900
-Wire Bus Line
 	1750 8350 1750 12000
 Wire Bus Line
-	1750 8350 4250 8350
+	1850 1850 1850 2900
 Wire Bus Line
 	1850 1850 4250 1850
 Wire Bus Line
-	3650 4300 6700 4300
+	1750 8350 4250 8350
+Wire Bus Line
+	3750 4300 6700 4300
 $EndSCHEMATC
