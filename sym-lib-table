@@ -2,4 +2,5 @@
   (lib (name allBonsaiSymbolLibs)(type Legacy)(uri ${KIPRJMOD}/allBonsaiSymbolLibs.lib)(options "")(descr ""))
   (lib (name Bonsai)(type Legacy)(uri ${KIPRJMOD}/Bonsai.lib)(options "")(descr ""))
   (lib (name Steuerwerk-rescue)(type Legacy)(uri ${KIPRJMOD}/Steuerwerk-rescue.lib)(options "")(descr ""))
+  (lib (name Befehle-rescue)(type Legacy)(uri ${KIPRJMOD}/Befehle-rescue.lib)(options "")(descr ""))
 )
