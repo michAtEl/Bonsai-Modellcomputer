@@ -1,4 +1,4 @@
-19315920546881686
+19319133767263358
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83761,6 +83761,20 @@ LED Round  Rectangular size 3.3x2.4mm^2 diameter 1.8mm 2 pins
 0
 2
 2
+bonsai
+SW-DIGITAST
+
+
+0
+6
+2
+bonsai
+Switch_Digitast
+Switch_Digitast
+ITT Digitast
+0
+6
+5
 tg_foodprint
 C_Disc_D10.0mm_W2.5mm_P5.00mm
 C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=10*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
