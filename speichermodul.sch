@@ -816,9 +816,9 @@ Text Label 12400 3650 0    60   Italic 0
 A6
 Text Label 12400 3550 0    60   Italic 0
 A7
-Connection ~ 2150 6750
+Connection ~ 2150 6800
 Wire Wire Line
-	2150 6000 2150 6750
+	2150 6000 2150 6800
 Wire Wire Line
 	3600 6000 2150 6000
 Wire Wire Line
@@ -828,24 +828,24 @@ Wire Wire Line
 Wire Wire Line
 	3750 5550 3250 5550
 Wire Wire Line
-	3750 6750 3250 6750
+	3750 6800 3250 6800
 Wire Wire Line
-	2250 6650 2250 6750
-Connection ~ 2250 6750
+	2250 6700 2250 6800
+Connection ~ 2250 6800
 Wire Wire Line
-	3750 6550 3600 6550
+	3750 6600 3600 6600
 Wire Wire Line
-	3600 6550 3600 6350
+	3600 6600 3600 6350
 Wire Wire Line
 	2050 4200 2050 4500
 Wire Wire Line
 	3600 6350 2050 6350
 Wire Wire Line
-	2150 7250 2150 6750
+	2150 7250 2150 6800
 Wire Wire Line
 	1100 5700 1100 5750
 Wire Wire Line
-	5000 6650 4850 6650
+	5000 6700 4850 6700
 Wire Wire Line
 	5000 5650 4850 5650
 Wire Wire Line
@@ -874,7 +874,7 @@ Wire Wire Line
 Wire Wire Line
 	7500 6150 6350 6150
 Wire Wire Line
-	6350 6600 6100 6550
+	6350 6600 6100 6600
 Connection ~ 7500 6450
 Wire Wire Line
 	8700 6550 9000 6550
@@ -1091,9 +1091,9 @@ Wire Wire Line
 Wire Wire Line
 	14850 2450 14800 2450
 Wire Wire Line
-	2150 6750 2250 6750
+	2150 6800 2250 6800
 Wire Wire Line
-	5000 6150 5000 6450
+	5000 6150 5000 6500
 Wire Wire Line
 	7500 6450 7500 6500
 Wire Wire Line
@@ -1129,7 +1129,7 @@ Wire Wire Line
 Wire Wire Line
 	2050 4800 2050 5050
 Wire Wire Line
-	2250 6750 2250 6850
+	2250 6800 2250 6900
 Wire Wire Line
 	1800 7250 1800 7150
 Wire Wire Line
@@ -1475,7 +1475,7 @@ U 1 1 5B2AD0AE
 P 2100 3150
 F 0 "D36" V 2001 3228 50  0000 L CNN
 F 1 "D" V 2092 3228 50  0000 L CNN
-F 2 "Diodes_ThroughHole:D_DO-41_SOD81_P10.16mm_Horizontal" V 2191 3228 60  0001 L CNN
+F 2 "Diode_THT:D_A-405_P10.16mm_Horizontal" V 2191 3228 60  0001 L CNN
 F 3 "" H 2100 3150 60  0000 C CNN
 	1    2100 3150
 	0    1    1    0   
@@ -1483,11 +1483,11 @@ $EndComp
 Text GLabel 7500 9450 3    50   Output ~ 0
 EN
 Text GLabel 7500 5350 0    50   Output ~ 0
-RD
+writeMem
 Text GLabel 1100 6200 3    50   Output ~ 0
 AUTO
-Text GLabel 7850 7100 0    50   Output ~ 0
-WR
+Text GLabel 7950 7100 0    50   Output ~ 0
+readMem
 Wire Wire Line
 	2250 5450 2250 5550
 Wire Wire Line
@@ -1857,42 +1857,42 @@ Wire Wire Line
 Wire Wire Line
 	2050 5050 1900 5050
 Connection ~ 2050 5550
-Text GLabel 1300 2000 2    50   Input ~ 0
+Text GLabel 1800 2150 2    50   Input ~ 0
 EN
 Wire Wire Line
-	1300 2000 1150 2000
+	1800 2150 1650 2150
 Wire Wire Line
-	1300 1900 1150 1900
-Text GLabel 1350 2200 2    50   Input ~ 0
-RD
-Text GLabel 1300 2300 2    50   Input ~ 0
+	1850 1850 1650 1850
+Text GLabel 1850 1950 2    50   Input ~ 0
+writeMem
+Text GLabel 1800 2250 2    50   Input ~ 0
 AUTO
-Text GLabel 1300 1900 2    50   Input ~ 0
-WR
+Text GLabel 1850 1850 2    50   Input ~ 0
+readMem
 Wire Wire Line
-	1350 2200 1150 2200
+	1850 1950 1650 1950
 Wire Wire Line
-	1300 2300 1150 2300
+	1800 2250 1650 2250
 $Comp
 L Connector_Generic:Conn_01x02 J2
 U 1 1 6007B890
-P 950 2200
-F 0 "J2" H 1030 2192 50  0000 L CNN
-F 1 "Conn_01x02" H 1030 2101 50  0000 L CNN
-F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 950 2200 50  0001 C CNN
-F 3 "~" H 950 2200 50  0001 C CNN
-	1    950  2200
+P 1450 2150
+F 0 "J2" H 1530 2142 50  0000 L CNN
+F 1 "Conn_01x02" H 1530 2051 50  0000 L CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 1450 2150 50  0001 C CNN
+F 3 "~" H 1450 2150 50  0001 C CNN
+	1    1450 2150
 	-1   0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J1
 U 1 1 6007BB67
-P 950 1900
-F 0 "J1" H 1030 1892 50  0000 L CNN
-F 1 "Conn_01x02" H 1030 1801 50  0000 L CNN
-F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 950 1900 50  0001 C CNN
-F 3 "~" H 950 1900 50  0001 C CNN
-	1    950  1900
+P 1450 1850
+F 0 "J1" H 1530 1842 50  0000 L CNN
+F 1 "Conn_01x02" H 1530 1751 50  0000 L CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 1450 1850 50  0001 C CNN
+F 3 "~" H 1450 1850 50  0001 C CNN
+	1    1450 1850
 	-1   0    0    -1  
 $EndComp
 $Comp
@@ -1900,7 +1900,7 @@ L Bonsai:Digitast SW1
 U 1 1 6074DE90
 P 1400 4950
 F 0 "SW1" H 1400 5286 50  0000 C CNN
-F 1 "Digitast" H 1400 5195 50  0000 C CNN
+F 1 "Digitast rot" H 1400 5195 50  0000 C CNN
 F 2 "bonsai:Switch_Digitast" H 1400 5202 60  0001 C CNN
 F 3 "" H 1400 4950 60  0000 C CNN
 	1    1400 4950
@@ -1911,7 +1911,7 @@ L Bonsai:Digitast SW2
 U 1 1 60673914
 P 1100 7150
 F 0 "SW2" H 1100 7486 50  0000 C CNN
-F 1 "Digitast" H 1100 7395 50  0000 C CNN
+F 1 "Digitast grün" H 1100 7395 50  0000 C CNN
 F 2 "bonsai:Switch_Digitast" H 1100 6919 60  0001 C CNN
 F 3 "" H 1100 7150 60  0000 C CNN
 	1    1100 7150
@@ -1939,12 +1939,12 @@ $EndComp
 $Comp
 L Bonsai:7400 U1
 U 4 1 60A695B7
-P 2750 6750
-F 0 "U1" H 2750 6900 50  0000 C CNN
-F 1 "74HC00" H 2750 6600 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 2750 6750 50  0001 C CNN
-F 3 "" H 2750 6750 50  0001 C CNN
-	4    2750 6750
+P 2750 6800
+F 0 "U1" H 2750 6950 50  0000 C CNN
+F 1 "74HC00" H 2750 6650 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 2750 6800 50  0001 C CNN
+F 3 "" H 2750 6800 50  0001 C CNN
+	4    2750 6800
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -2029,23 +2029,23 @@ $EndComp
 $Comp
 L Bonsai:7408 U2
 U 2 1 60BC8E49
-P 4300 6650
-F 0 "U2" H 4300 6500 50  0000 C CNN
-F 1 "74HC08" H 4300 6800 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 4300 6650 50  0001 C CNN
-F 3 "" H 4300 6650 50  0001 C CNN
-	2    4300 6650
+P 4300 6700
+F 0 "U2" H 4300 6550 50  0000 C CNN
+F 1 "74HC08" H 4300 6850 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 4300 6700 50  0001 C CNN
+F 3 "" H 4300 6700 50  0001 C CNN
+	2    4300 6700
 	1    0    0    1   
 $EndComp
 $Comp
 L Bonsai:7408 U2
 U 3 1 60BE6C52
-P 5550 6550
-F 0 "U2" H 5550 6400 50  0000 C CNN
-F 1 "74HC08" H 5550 6700 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 5550 6550 50  0001 C CNN
-F 3 "" H 5550 6550 50  0001 C CNN
-	3    5550 6550
+P 5550 6600
+F 0 "U2" H 5550 6450 50  0000 C CNN
+F 1 "74HC08" H 5550 6750 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" H 5550 6600 50  0001 C CNN
+F 3 "" H 5550 6600 50  0001 C CNN
+	3    5550 6600
 	1    0    0    1   
 $EndComp
 $Comp
@@ -2306,16 +2306,6 @@ Wire Wire Line
 	1800 2950 1550 2950
 Wire Wire Line
 	1800 3300 1800 3350
-Wire Bus Line
-	10500 3900 10500 6150
-Wire Bus Line
-	11750 3650 11750 4350
-Wire Bus Line
-	10650 4700 10650 5850
-Wire Bus Line
-	12150 1850 12150 4350
-Wire Bus Line
-	12450 5350 12450 9100
 Connection ~ 1800 3350
 Wire Wire Line
 	1800 3350 2100 3350
@@ -2330,4 +2320,16 @@ F 3 "" H 7550 8900 50  0001 C CNN
 	6    7500 8900
 	0    1    1    0   
 $EndComp
+NoConn ~ 1900 4850
+NoConn ~ 1600 7050
+Wire Bus Line
+	10500 3900 10500 6150
+Wire Bus Line
+	11750 3650 11750 4350
+Wire Bus Line
+	10650 4700 10650 5850
+Wire Bus Line
+	12150 1850 12150 4350
+Wire Bus Line
+	12450 5350 12450 9100
 $EndSCHEMATC
