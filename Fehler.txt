@@ -1,0 +1,4 @@
+Steuerwerk:
+- Beschriftung enAkku falsch? writeAkku steht da?
+- Transistor Beinchen vertauscht?
+
