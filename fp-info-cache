@@ -1,1779 +1,2626 @@
+600421841251253
+Capacitor_THT
+CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=10*4.5mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 15mm  length 10mm diameter 4.5mm Electrolytic Capacitor
 0
-Battery
-BatteryHolder_Bulgin_BX0036_1xC
-Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
-Bulgin BX0036
-0
-2
-2
-Battery
-BatteryHolder_ComfortableElectronic_CH273-2450_1x2450
-Comfortable Electronic CR2450 battery holder, http://www.comf.com.tw/ProductDetail.asp?no=148
-Comfortable Electronic CR2450
-0
-2
-2
-Battery
-BatteryHolder_Eagle_12BH611-GR
-https://eu.mouser.com/datasheet/2/209/EPD-200766-1274481.pdf
-9V Battery Holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_103_1x20mm
-http://www.keyelco.com/product-pdf.cfm?p=719
-Keystone type 103 battery holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_104_1x23mm
-http://www.keyelco.com/product-pdf.cfm?p=744
-Keystone type 104 battery holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_105_1x2430
-http://www.keyelco.com/product-pdf.cfm?p=745
-Keystone type 105 battery holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_106_1x20mm
-http://www.keyelco.com/product-pdf.cfm?p=720
-Keystone type 106 battery holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_107_1x23mm
-http://www.keyelco.com/product-pdf.cfm?p=746
-Keystone type 107 battery holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_500
-Keystone #500, CR1220 battery holder, http://www.keyelco.com/product-pdf.cfm?p=710
-CR1220 battery holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_1042_1x18650
-Battery holder for 18650 cylindrical cells http://www.keyelco.com/product.cfm/product_id/918
-18650 Keystone 1042 Li-ion
-0
-2
-2
-Battery
-BatteryHolder_Keystone_1058_1x2032
-http://www.keyelco.com/product-pdf.cfm?p=14028
-Keystone type 1058 coin cell retainer
-0
-2
-2
-Battery
-BatteryHolder_Keystone_1060_1x2032
-http://www.keyelco.com/product-pdf.cfm?p=726
-CR2032 BR2032 BatteryHolder Battery
-0
-2
-2
-Battery
-BatteryHolder_Keystone_2460_1xAA
-https://www.keyelco.com/product-pdf.cfm?p=1025
-AA battery cell holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_2462_2xAA
-2xAA cell battery holder, Keystone P/N 2462, https://www.keyelco.com/product-pdf.cfm?p=1027
-AA battery cell holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_2466_1xAAA
-1xAAA Battery Holder, Keystone, Plastic Case, http://www.keyelco.com/product-pdf.cfm?p=1031
-AAA battery holder Keystone
-0
-2
-2
-Battery
-BatteryHolder_Keystone_2468_2xAAA
-2xAAA cell battery holder, Keystone P/N 2468, http://www.keyelco.com/product-pdf.cfm?p=1033
-AAA battery cell holder
-0
-2
-2
-Battery
-BatteryHolder_Keystone_2479_3xAAA
-Keystone Battery Holder, 2479, Battery Type 3xAAA (Script generated with StandardBox.py) (Keystone Battery Holder, 2479, Battery Type 3xAAA)
-Keystone Battery Holder 2479 Battery Type 3xAAA
-0
-2
-2
-Battery
-BatteryHolder_Keystone_2993
-http://www.keyelco.com/product-pdf.cfm?p=776
-Keystone type 2993 negative battery contact
-0
-1
-1
-Battery
-BatteryHolder_Keystone_2998_1x6.8mm
-www.keyelco.com/product-pdf.cfm?p=763
-Keystone type 2998 battery holder
-0
-3
-2
-Battery
-BatteryHolder_Keystone_3000_1x12mm
-http://www.keyelco.com/product-pdf.cfm?p=777
-Keystone type 3000 coin cell retainer
-0
-3
-2
-Battery
-BatteryHolder_Keystone_3001_1x12mm
-http://www.keyelco.com/product-pdf.cfm?p=778
-Keystone type 3001 coin cell retainer
-0
-3
-2
-Battery
-BatteryHolder_Keystone_3002_1x2032
-https://www.tme.eu/it/Document/a823211ec201a9e209042d155fe22d2b/KEYS2996.pdf
-BR2016 CR2016 DL2016 BR2020 CL2020 BR2025 CR2025 DL2025 DR2032 CR2032 DL2032
-0
-3
-2
-Battery
-BatteryHolder_Keystone_3008_1x2450
-http://www.keyelco.com/product-pdf.cfm?p=786
-Keystone type 3008 coin cell retainer
-0
-3
-2
-Battery
-BatteryHolder_Keystone_3009_1x2450
-http://www.keyelco.com/product-pdf.cfm?p=787
-Keystone type 3009 coin cell retainer
-0
-3
-2
-Battery
-BatteryHolder_Keystone_3034_1x20mm
-Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
-Keystone type 3034 coin cell retainer
-0
-3
-2
-Battery
-BatteryHolder_LINX_BAT-HLD-012-SMT
-SMT battery holder for CR1216/1220/1225, https://linxtechnologies.com/wp/wp-content/uploads/bat-hld-012-smt.pdf
-battery holder coin cell cr1216 cr1220 cr1225
-0
-3
-2
-Battery
-BatteryHolder_MPD_BA9VPC_1xPP3
-1xPP3 (9V) battery holder, Memory Protection Devices P/N BA9VPC, http://www.memoryprotectiondevices.com/datasheets/BA9VPC-datasheet.pdf
-PP3 Battery Holder BA9VPC 9V
-0
-2
-2
-Battery
-BatteryHolder_MPD_BC2AAPC_2xAA
-2xAA cell battery holder, Memory Protection Devices P/N BC2AAPC, http://www.memoryprotectiondevices.com/datasheets/BC2AAPC-datasheet.pdf
-AA battery cell holder
-0
-2
-2
-Battery
-BatteryHolder_MPD_BC12AAPC_2xAA
-2xAA cell battery holder, Memory Protection Devices P/N BC12AAPC, http://www.memoryprotectiondevices.com/datasheets/BC12AAPC-datasheet.pdf
-AA battery cell holder
-0
-2
-2
-Battery
-BatteryHolder_MPD_BC2003_1x2032
-http://www.memoryprotectiondevices.com/datasheets/BC-2003-datasheet.pdf
-BC2003 CR2032 2032 Battery Holder
-0
-3
-2
-Battery
-BatteryHolder_MPD_BH-18650-PC2
-18650 Battery Holder (http://www.memoryprotectiondevices.com/datasheets/BK-18650-PC2-datasheet.pdf)
-18650 Battery Holder
-0
-2
-2
-Battery
-BatteryHolder_Seiko_MS621F
-Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg
-Seiko MS621F
-0
-2
-2
-Battery
-BatteryHolder_TruPower_BH-331P_3xAA
-Keystone Battery Holder BH-331P Battery Type 3xAA (Script generated with StandardBox.py) (Keystone Battery Holder BH-331P Battery Type 3xAA)
-Battery Holder BH-331P Battery Type 3xAA
-0
-2
-2
-Battery
-Battery_CR1225
-CR1225 battery
-battery CR1225 coin cell
-0
-0
-0
-Battery
-Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles
-Panasonic CR-1025/VSK battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
-battery CR-1025 coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR1220-VCN_Vertical_CircularHoles
-Panasonic CR-1220/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
-battery CR-1220 coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR1632-V1AN_Vertical_CircularHoles
-Panasonic CR-1632-V1AN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
-battery CR-1632 coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles
-Panasonic CR-2025/V1AK battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
-battery CR-2025 coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR2032-VS1N_Vertical_CircularHoles
-Panasonic CR-2032/VS1N battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
-battery CR-2032 coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles
-Panasonic CR-2354/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
-battery CR-2354/VCN coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR2450-VAN_Vertical_CircularHoles
-Panasonic CR-2450/VAN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
-battery CR-2450 coin cell
-0
-2
-2
-Battery
-Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles
-Panasonic CR-2477/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
-battery CR-2477 coin cell vertical
-0
-2
-2
-Battery
-Battery_Panasonic_CR3032-VCN_Vertical_CircularHoles
-Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
-battery CR-3032 coin cell vertical
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.00u_PCB
-Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.00u PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.00u_Plate
-Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.00u plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.25u_PCB
-Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.25u PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.25u_Plate
-Cherry MX keyswitch, 1.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.25u plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.50u_PCB
-Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.50u PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.50u_Plate
-Cherry MX keyswitch, 1.50u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.50u plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.75u_PCB
-Cherry MX keyswitch, 1.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.75u PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_1.75u_Plate
-Cherry MX keyswitch, 1.75u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.75u plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.00u_PCB
-Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.00u PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.00u_Plate
-Cherry MX keyswitch, 2.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.00u plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.00u_Vertical_PCB
-Cherry MX keyswitch, 2.00u, vertical, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.00u vertical PCB
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.00u_Vertical_Plate
-Cherry MX keyswitch, 2.00u, vertical, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.00u vertical plate
-0
-2
-2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.25u_PCB
-Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.25u PCB
-0
 2
 2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.25u_Plate
-Cherry MX keyswitch, 2.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.25u plate
+Capacitor_THT
+CP_Axial_L10.0mm_D6.0mm_P15.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=10*6mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 15mm  length 10mm diameter 6mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.75u_PCB
-Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.75u PCB
+Capacitor_THT
+CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=18mm, , length*diameter=11*5mm^2, Electrolytic Capacitor
+CP Axial series Axial Horizontal pin pitch 18mm  length 11mm diameter 5mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Cherry_MX_2.75u_Plate
-Cherry MX keyswitch, 2.75u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 2.75u plate
+Capacitor_THT
+CP_Axial_L11.0mm_D6.0mm_P18.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=18mm, , length*diameter=11*6mm^2, Electrolytic Capacitor
+CP Axial series Axial Horizontal pin pitch 18mm  length 11mm diameter 6mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Cherry_MX_6.25u_PCB
-Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 6.25u PCB
+Capacitor_THT
+CP_Axial_L11.0mm_D8.0mm_P15.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=11*8mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 15mm  length 11mm diameter 8mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Cherry_MX_6.25u_Plate
-Cherry MX keyswitch, 6.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 6.25u plate
+Capacitor_THT
+CP_Axial_L18.0mm_D6.5mm_P25.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=18*6.5mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 25mm  length 18mm diameter 6.5mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Cherry_MX_ISOEnter_PCB
-Cherry MX keyswitch, ISO Enter, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch ISO enter PCB
+Capacitor_THT
+CP_Axial_L18.0mm_D8.0mm_P25.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=18*8mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 25mm  length 18mm diameter 8mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Cherry_MX_ISOEnter_Plate
-Cherry MX keyswitch, ISO Enter, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch ISO enter plate
+Capacitor_THT
+CP_Axial_L18.0mm_D10.0mm_P25.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=18*10mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 25mm  length 18mm diameter 10mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Matias_1.00u
-Matias/ALPS keyswitch, 1.00u, http://matias.ca/switches/
-Matias ALPS keyswitch 1.00u
+Capacitor_THT
+CP_Axial_L20.0mm_D10.0mm_P26.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=26mm, , length*diameter=20*10mm^2, Electrolytic Capacitor, , http://www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf
+CP Axial series Axial Horizontal pin pitch 26mm  length 20mm diameter 10mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Matias_1.25u
-Matias/ALPS keyswitch, 1.25u, http://matias.ca/switches/
-Matias ALPS keyswitch 1.25u
+Capacitor_THT
+CP_Axial_L20.0mm_D13.0mm_P26.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=26mm, , length*diameter=20*13mm^2, Electrolytic Capacitor, , http://www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf
+CP Axial series Axial Horizontal pin pitch 26mm  length 20mm diameter 13mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Matias_1.50u
-Matias/ALPS keyswitch, 1.50u, http://matias.ca/switches/
-Matias ALPS keyswitch 1.50u
+Capacitor_THT
+CP_Axial_L21.0mm_D8.0mm_P28.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=28mm, , length*diameter=21*8mm^2, Electrolytic Capacitor
+CP Axial series Axial Horizontal pin pitch 28mm  length 21mm diameter 8mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Matias_1.75u
-Matias/ALPS keyswitch, 1.75u, http://matias.ca/switches/
-Matias ALPS keyswitch 1.75u
+Capacitor_THT
+CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=30mm, , length*diameter=25*10mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 30mm  length 25mm diameter 10mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Matias_2.00u
-Matias/ALPS keyswitch, 2.00u, http://matias.ca/switches/
-Matias ALPS keyswitch 2.00u
+Capacitor_THT
+CP_Axial_L26.5mm_D20.0mm_P33.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=33mm, , length*diameter=26.5*20mm^2, Electrolytic Capacitor, , http://www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf
+CP Axial series Axial Horizontal pin pitch 33mm  length 26.5mm diameter 20mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Matias_2.25u
-Matias/ALPS keyswitch, 2.25u, http://matias.ca/switches/
-Matias ALPS keyswitch 2.25u
+Capacitor_THT
+CP_Axial_L29.0mm_D10.0mm_P35.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=35mm, , length*diameter=29*10mm^2, Electrolytic Capacitor, , http://www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf
+CP Axial series Axial Horizontal pin pitch 35mm  length 29mm diameter 10mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Matias_2.75u
-Matias/ALPS keyswitch, 2.75u, http://matias.ca/switches/
-Matias ALPS keyswitch 2.75u
+Capacitor_THT
+CP_Axial_L29.0mm_D13.0mm_P35.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=35mm, , length*diameter=29*13mm^2, Electrolytic Capacitor, , http://www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf
+CP Axial series Axial Horizontal pin pitch 35mm  length 29mm diameter 13mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Matias_6.25u
-Matias/ALPS keyswitch, 6.25u, http://matias.ca/switches/
-Matias ALPS keyswitch 6.25u
+Capacitor_THT
+CP_Axial_L29.0mm_D16.0mm_P35.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=35mm, , length*diameter=29*16mm^2, Electrolytic Capacitor, , http://www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf
+CP Axial series Axial Horizontal pin pitch 35mm  length 29mm diameter 16mm Electrolytic Capacitor
 0
 2
 2
-Button_Switch_Keyboard
-SW_Matias_ISOEnter
-Matias/ALPS keyswitch, ISO Enter, http://matias.ca/switches/
-Matias ALPS keyswitch ISO enter
+Capacitor_THT
+CP_Axial_L29.0mm_D20.0mm_P35.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=35mm, , length*diameter=29*20mm^2, Electrolytic Capacitor, , http://www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf
+CP Axial series Axial Horizontal pin pitch 35mm  length 29mm diameter 20mm Electrolytic Capacitor
 0
 2
 2
-Buzzer_Beeper
-Buzzer_12x9.5RM7.6
-Generic Buzzer, D12mm height 9.5mm with RM7.6mm
-buzzer
+Capacitor_THT
+CP_Axial_L30.0mm_D10.0mm_P35.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=35mm, , length*diameter=30*10mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 35mm  length 30mm diameter 10mm Electrolytic Capacitor
 0
 2
 2
-Buzzer_Beeper
-Buzzer_15x7.5RM7.6
-Generic Buzzer, D15mm height 7.5mm with RM7.6mm
-buzzer
+Capacitor_THT
+CP_Axial_L30.0mm_D12.5mm_P35.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=35mm, , length*diameter=30*12.5mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 35mm  length 30mm diameter 12.5mm Electrolytic Capacitor
 0
 2
 2
-Buzzer_Beeper
-Buzzer_CUI_CPT-9019S-SMT
-https://www.cui.com/product/resource/cpt-9019s-smt.pdf
-buzzer piezo
+Capacitor_THT
+CP_Axial_L30.0mm_D15.0mm_P35.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=35mm, , length*diameter=30*15mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 35mm  length 30mm diameter 15mm Electrolytic Capacitor
 0
 2
 2
-Buzzer_Beeper
-Buzzer_D14mm_H7mm_P10mm
-Generic Buzzer, D14mm height 7mm with pitch 10mm
-buzzer
+Capacitor_THT
+CP_Axial_L30.0mm_D18.0mm_P35.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=35mm, , length*diameter=30*18mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 35mm  length 30mm diameter 18mm Electrolytic Capacitor
 0
 2
 2
-Buzzer_Beeper
-Buzzer_Mallory_AST1109MLTRQ
-Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
-buzzer piezo
+Capacitor_THT
+CP_Axial_L34.5mm_D20.0mm_P41.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=41mm, , length*diameter=34.5*20mm^2, Electrolytic Capacitor, , http://www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf
+CP Axial series Axial Horizontal pin pitch 41mm  length 34.5mm diameter 20mm Electrolytic Capacitor
 0
 2
 2
-Buzzer_Beeper
-Buzzer_Murata_PKMCS0909E4000-R1
-Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
-Murata Buzzer Beeper
+Capacitor_THT
+CP_Axial_L37.0mm_D13.0mm_P43.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=43mm, , length*diameter=37*13mm^2, Electrolytic Capacitor, , http://www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf
+CP Axial series Axial Horizontal pin pitch 43mm  length 37mm diameter 13mm Electrolytic Capacitor
 0
 2
 2
-Buzzer_Beeper
-Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm
-Buzzer, D12.2mm height 6.5mm, https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf
-buzzer
+Capacitor_THT
+CP_Axial_L37.0mm_D16.0mm_P43.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=43mm, , length*diameter=37*16mm^2, Electrolytic Capacitor, , http://www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf
+CP Axial series Axial Horizontal pin pitch 43mm  length 37mm diameter 16mm Electrolytic Capacitor
 0
 2
 2
-Buzzer_Beeper
-MagneticBuzzer_CUI_CMT-8504-100-SMT
-magnetic transducer buzzer, 5V, SPL of 100 dB at 10 cm, https://www.cuidevices.com/product/resource/pdf/cmt-8504-100-smt-tr.pdf
-CMT 8504
+Capacitor_THT
+CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=43mm, , length*diameter=37*20mm^2, Electrolytic Capacitor, , http://www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf
+CP Axial series Axial Horizontal pin pitch 43mm  length 37mm diameter 20mm Electrolytic Capacitor
 0
-4
-4
-Buzzer_Beeper
-MagneticBuzzer_CUI_CST-931RP-A
-CST-931RP-A, http://www.cui.com/product/resource/cst-931rp-a.pdf
-CST-931RP-A
-0
-2
-2
-Buzzer_Beeper
-MagneticBuzzer_Kingstate_KCG0601
-Buzzer, Elektromagnetic Beeper, Summer,
-Kingstate KCG0601 
-0
-2
-2
-Buzzer_Beeper
-MagneticBuzzer_Kobitone_254-EMB84Q-RO
-MagneticBuzzer Kobitone 254-EMB84Q-RO https://www.mouser.es/datasheet/2/209/KT-400385-1171904.pdf
-MagneticBuzzer Kobitone 254-EMB84Q-RO
-0
-3
-3
-Buzzer_Beeper
-MagneticBuzzer_PUI_AT-0927-TT-6-R
-Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf
-Buzzer Magnetic 9mm AT-0927-TT-6-R
-0
-2
-2
-Buzzer_Beeper
-MagneticBuzzer_ProSignal_ABI-009-RC
-Buzzer, Elektromagnetic Beeper, Summer, 6V-DC,
-Pro Signal ABI-009-RC 
-0
-2
-2
-Buzzer_Beeper
-MagneticBuzzer_ProSignal_ABI-010-RC
-Buzzer, Elektromagnetic Beeper, Summer, 12V-DC,
-Pro Signal ABI-010-RC 
-0
-2
-2
-Buzzer_Beeper
-MagneticBuzzer_ProSignal_ABT-410-RC
-Buzzer, Elektromagnetic Beeper, Summer, 1,5V-DC,
-Pro Signal ABT-410-RC 
-0
-2
-2
-Buzzer_Beeper
-MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R
-Buzzer, Elektromagnetic Beeper, Summer, 3-28V-DC, https://www.kynix.com/uploadfiles/pdf/AI-4228-TWT-R.pdf
-Projects Unlimited AI-4228-TWT-R 
-0
-2
-2
-Buzzer_Beeper
-MagneticBuzzer_StarMicronics_HMB-06_HMB-12
-Buzzer, Elektromagnetic Beeper, Summer,
-Star Micronics HMB-06 HMB-12
-0
-2
-2
-Buzzer_Beeper
-PUIAudio_SMT_0825_S_4_R
-SMD 8540, http://www.puiaudio.com/product-detail.aspx?partnumber=SMT-0825-S-4-R
-SMD 8540
-0
-4
-4
-Buzzer_Beeper
-Speaker_CUI_CMR-1206S-67
-Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
-speaker CUI
-0
-2
-2
-Calibration_Scale
-Gauge_10mm_Type1_CopperTop
-Gauge, Massstab, 10mm, CopperTop, Type 1,
-Gauge Massstab 10mm CopperTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type1_SilkScreenTop
-Gauge, Massstab, 10mm, SilkScreenTop, Type 1,
-Gauge Massstab 10mm SilkScreenTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type2_CopperTop
-Gauge, Massstab, 10mm, CopperTop, Type 2,
-Gauge Massstab 10mm CopperTop Type 2
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type2_SilkScreenTop
-Gauge, Massstab, 10mm, SilkScreenTop, Type 2,
-Gauge Massstab 10mm SilkScreenTop Type 2
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type3_CopperTop
-Gauge, Massstab, 10mm, CopperTop, Type 3,
-Gauge Massstab 10mm CopperTop Type 3
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type3_SilkScreenTop
-Gauge, Massstab, 10mm, SilkScreenTop, Type 3,
-Gauge Massstab 10mm SilkScreenTop Type 3
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type4_CopperTop
-Gauge, Massstab, 10mm, CopperTop, Type 4,
-Gauge Massstab 10mm CopperTop Type 4
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type4_SilkScreenTop
-Gauge, Massstab, 10mm, SilkScreenTop, Type 4,
-Gauge Massstab 10mm SilkScreenTop Type 4
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type5_CopperTop
-Gauge, Massstab, 10mm, CopperTop, Type 5,
-Gauge Massstab 10mm CopperTop Type 5
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type5_SilkScreenTop
-Gauge, Massstab, 10mm, SilkScreenTop, Type 5,
-Gauge Massstab 10mm SilkScreenTop Type 5
-0
-0
-0
-Calibration_Scale
-Gauge_50mm_Type1_CopperTop
-Gauge, Massstab, 50mm, CopperTop, Type 1,
-Gauge Massstab 50mm CopperTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_50mm_Type1_SilkScreenTop
-Gauge, Massstab, 50mm, SilkScreenTop, Type 1,
-Gauge Massstab 50mm SilkScreenTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_50mm_Type2_CopperTop
-Gauge, Massstab, 50mm, CopperTop, Type 2,
-Gauge Massstab 50mm CopperTop Type 2
-0
-0
-0
-Calibration_Scale
-Gauge_50mm_Type2_SilkScreenTop
-Gauge, Massstab, 50mm, SilkScreenTop, Type 2,
-Gauge Massstab 50mm SilkScreenTop Type 2
-0
-0
-0
-Calibration_Scale
-Gauge_100mm_Grid_Type1_CopperTop
-Gauge, Massstab, 100mm, Gitter, Grid, CopperTop, Type 1,
-Gauge Massstab 100mm Gitter Grid CopperTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_100mm_Type1_CopperTop
-Gauge, Massstab, 100mm, CopperTop, Type 1,
-Gauge Massstab 100mm CopperTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_100mm_Type1_SilkScreenTop
-Gauge, Massstab, 100mm, SilkScreenTop, Type 1,
-Gauge Massstab 100mm SilkScreenTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_100mm_Type2_CopperTop
-Gauge, Massstab, 100mm, CopperTop, Type 2,
-Gauge Massstab 100mm  CopperTop Type 2
-0
-0
-0
-Calibration_Scale
-Gauge_100mm_Type2_SilkScreenTop
-Gauge, Massstab, 100mm, SilkScreenTop, Type 2,
-Gauge Massstab 100mm SilkScreenTop Type 2
-0
-0
-0
-Capacitor_Tantalum_SMD
-CP_EIA-1608-08_AVX-J
-Tantalum Capacitor SMD AVX-J (1608-08 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-1608-08_AVX-J_Pad1.25x1.05mm_HandSolder
-Tantalum Capacitor SMD AVX-J (1608-08 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-1608-10_AVX-L
-Tantalum Capacitor SMD AVX-L (1608-10 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-1608-10_AVX-L_Pad1.25x1.05mm_HandSolder
-Tantalum Capacitor SMD AVX-L (1608-10 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-2012-12_Kemet-R
-Tantalum Capacitor SMD Kemet-R (2012-12 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-2012-12_Kemet-R_Pad1.30x1.05mm_HandSolder
-Tantalum Capacitor SMD Kemet-R (2012-12 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-2012-15_AVX-P
-Tantalum Capacitor SMD AVX-P (2012-15 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-2012-15_AVX-P_Pad1.30x1.05mm_HandSolder
-Tantalum Capacitor SMD AVX-P (2012-15 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-3216-10_Kemet-I
-Tantalum Capacitor SMD Kemet-I (3216-10 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder
-Tantalum Capacitor SMD Kemet-I (3216-10 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-3216-12_Kemet-S
-Tantalum Capacitor SMD Kemet-S (3216-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-3216-12_Kemet-S_Pad1.58x1.35mm_HandSolder
-Tantalum Capacitor SMD Kemet-S (3216-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-3216-18_Kemet-A
-Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder
-Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-3528-12_Kemet-T
-Tantalum Capacitor SMD Kemet-T (3528-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder
-Tantalum Capacitor SMD Kemet-T (3528-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Capacitor_Tantalum_SMD
-CP_EIA-3528-15_AVX-H
-Tantalum Capacitor SMD AVX-H (3528-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-3528-15_AVX-H_Pad1.50x2.35mm_HandSolder
-Tantalum Capacitor SMD AVX-H (3528-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L38.0mm_D18.0mm_P44.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=44mm, , length*diameter=38*18mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 44mm  length 38mm diameter 18mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-3528-21_Kemet-B
-Tantalum Capacitor SMD Kemet-B (3528-21 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L38.0mm_D21.0mm_P44.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=44mm, , length*diameter=38*21mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 44mm  length 38mm diameter 21mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder
-Tantalum Capacitor SMD Kemet-B (3528-21 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L40.0mm_D16.0mm_P48.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=48mm, , length*diameter=40*16mm^2, Electrolytic Capacitor
+CP Axial series Axial Horizontal pin pitch 48mm  length 40mm diameter 16mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-6032-15_Kemet-U
-Tantalum Capacitor SMD Kemet-U (6032-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L42.0mm_D23.0mm_P45.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=45mm, , length*diameter=42*23.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 45mm  length 42mm diameter 23.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder
-Tantalum Capacitor SMD Kemet-U (6032-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L42.0mm_D26.0mm_P45.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=45mm, , length*diameter=42*26mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 45mm  length 42mm diameter 26mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-6032-20_AVX-F
-Tantalum Capacitor SMD AVX-F (6032-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L42.0mm_D29.0mm_P45.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=45mm, , length*diameter=42*29.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 45mm  length 42mm diameter 29.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-6032-20_AVX-F_Pad2.25x2.35mm_HandSolder
-Tantalum Capacitor SMD AVX-F (6032-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L42.0mm_D32.0mm_P45.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=45mm, , length*diameter=42*32.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 45mm  length 42mm diameter 32.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-6032-28_Kemet-C
-Tantalum Capacitor SMD Kemet-C (6032-28 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L42.0mm_D35.0mm_P45.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=45mm, , length*diameter=42*35.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 45mm  length 42mm diameter 35.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-6032-28_Kemet-C_Pad2.25x2.35mm_HandSolder
-Tantalum Capacitor SMD Kemet-C (6032-28 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L42.5mm_D20.0mm_P49.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=49mm, , length*diameter=42.5*20mm^2, Electrolytic Capacitor
+CP Axial series Axial Horizontal pin pitch 49mm  length 42.5mm diameter 20mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7132-20_AVX-U
-Tantalum Capacitor SMD AVX-U (7132-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L46.0mm_D20.0mm_P52.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=52mm, , length*diameter=46*20mm^2, Electrolytic Capacitor
+CP Axial series Axial Horizontal pin pitch 52mm  length 46mm diameter 20mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7132-20_AVX-U_Pad2.72x3.50mm_HandSolder
-Tantalum Capacitor SMD AVX-U (7132-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L55.0mm_D23.0mm_P60.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=60mm, , length*diameter=55*23.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 60mm  length 55mm diameter 23.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7132-28_AVX-C
-Tantalum Capacitor SMD AVX-C (7132-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L55.0mm_D26.0mm_P60.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=60mm, , length*diameter=55*26mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 60mm  length 55mm diameter 26mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder
-Tantalum Capacitor SMD AVX-C (7132-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L55.0mm_D29.0mm_P60.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=60mm, , length*diameter=55*29.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 60mm  length 55mm diameter 29.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7260-15_AVX-R
-Tantalum Capacitor SMD AVX-R (7260-15 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L55.0mm_D32.0mm_P60.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=60mm, , length*diameter=55*32.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 60mm  length 55mm diameter 32.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7260-15_AVX-R_Pad2.68x6.30mm_HandSolder
-Tantalum Capacitor SMD AVX-R (7260-15 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L55.0mm_D35.0mm_P60.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=60mm, , length*diameter=55*35.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 60mm  length 55mm diameter 35.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7260-20_AVX-M
-Tantalum Capacitor SMD AVX-M (7260-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L67.0mm_D23.0mm_P75.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=75mm, , length*diameter=67*23.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 75mm  length 67mm diameter 23.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7260-20_AVX-M_Pad2.68x6.30mm_HandSolder
-Tantalum Capacitor SMD AVX-M (7260-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L67.0mm_D26.0mm_P75.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=75mm, , length*diameter=67*26mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 75mm  length 67mm diameter 26mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7260-28_AVX-M
-Tantalum Capacitor SMD AVX-M (7260-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L67.0mm_D29.0mm_P75.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=75mm, , length*diameter=67*29.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 75mm  length 67mm diameter 29.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7260-28_AVX-M_Pad2.68x6.30mm_HandSolder
-Tantalum Capacitor SMD AVX-M (7260-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L67.0mm_D32.0mm_P75.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=75mm, , length*diameter=67*32.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 75mm  length 67mm diameter 32.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7260-38_AVX-R
-Tantalum Capacitor SMD AVX-R (7260-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L67.0mm_D35.0mm_P75.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=75mm, , length*diameter=67*35.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 75mm  length 67mm diameter 35.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7260-38_AVX-R_Pad2.68x6.30mm_HandSolder
-Tantalum Capacitor SMD AVX-R (7260-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L80.0mm_D23.0mm_P85.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=85mm, , length*diameter=80*23.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 85mm  length 80mm diameter 23.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7343-15_Kemet-W
-Tantalum Capacitor SMD Kemet-W (7343-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L80.0mm_D26.0mm_P85.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=85mm, , length*diameter=80*26mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 85mm  length 80mm diameter 26mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder
-Tantalum Capacitor SMD Kemet-W (7343-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L80.0mm_D29.0mm_P85.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=85mm, , length*diameter=80*29.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 85mm  length 80mm diameter 29.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7343-20_Kemet-V
-Tantalum Capacitor SMD Kemet-V (7343-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L80.0mm_D32.0mm_P85.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=85mm, , length*diameter=80*32.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 85mm  length 80mm diameter 32.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7343-20_Kemet-V_Pad2.25x2.55mm_HandSolder
-Tantalum Capacitor SMD Kemet-V (7343-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L80.0mm_D35.0mm_P85.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=85mm, , length*diameter=80*35.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 85mm  length 80mm diameter 35.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7343-30_AVX-N
-Tantalum Capacitor SMD AVX-N (7343-30 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=100mm, , length*diameter=93*23.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 100mm  length 93mm diameter 23.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7343-30_AVX-N_Pad2.25x2.55mm_HandSolder
-Tantalum Capacitor SMD AVX-N (7343-30 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L93.0mm_D26.0mm_P100.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=100mm, , length*diameter=93*26mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 100mm  length 93mm diameter 26mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7343-31_Kemet-D
-Tantalum Capacitor SMD Kemet-D (7343-31 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L93.0mm_D29.0mm_P100.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=100mm, , length*diameter=93*29.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 100mm  length 93mm diameter 29.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder
-Tantalum Capacitor SMD Kemet-D (7343-31 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L93.0mm_D32.0mm_P100.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=100mm, , length*diameter=93*32.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 100mm  length 93mm diameter 32.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7343-40_Kemet-Y
-Tantalum Capacitor SMD Kemet-Y (7343-40 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Axial_L93.0mm_D35.0mm_P100.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=100mm, , length*diameter=93*35.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+CP Axial series Axial Horizontal pin pitch 100mm  length 93mm diameter 35.0mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7343-40_Kemet-Y_Pad2.25x2.55mm_HandSolder
-Tantalum Capacitor SMD Kemet-Y (7343-40 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Radial_D4.0mm_P1.50mm
+CP, Radial series, Radial, pin pitch=1.50mm, , diameter=4mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 1.50mm  diameter 4mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7343-43_Kemet-X
-Tantalum Capacitor SMD Kemet-X (7343-43 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Radial_D4.0mm_P2.00mm
+CP, Radial series, Radial, pin pitch=2.00mm, , diameter=4mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.00mm  diameter 4mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7343-43_Kemet-X_Pad2.25x2.55mm_HandSolder
-Tantalum Capacitor SMD Kemet-X (7343-43 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Radial_D5.0mm_P2.00mm
+CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7360-38_Kemet-E
-Tantalum Capacitor SMD Kemet-E (7360-38 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Radial_D5.0mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7360-38_Kemet-E_Pad2.25x4.25mm_HandSolder
-Tantalum Capacitor SMD Kemet-E (7360-38 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Radial_D6.3mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7361-38_AVX-V
-Tantalum Capacitor SMD AVX-V (7361-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Radial_D7.5mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=7.5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 7.5mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7361-38_AVX-V_Pad2.18x3.30mm_HandSolder
-Tantalum Capacitor SMD AVX-V (7361-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Radial_D8.0mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=8mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 8mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7361-438_AVX-U
-Tantalum Capacitor SMD AVX-U (7361-438 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Radial_D8.0mm_P3.50mm
+CP, Radial series, Radial, pin pitch=3.50mm, , diameter=8mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 3.50mm  diameter 8mm Electrolytic Capacitor
 0
 2
 2
-Capacitor_Tantalum_SMD
-CP_EIA-7361-438_AVX-U_Pad2.18x3.30mm_HandSolder
-Tantalum Capacitor SMD AVX-U (7361-438 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
-capacitor tantalum
+Capacitor_THT
+CP_Radial_D8.0mm_P3.80mm
+CP, Radial series, Radial, pin pitch=3.80mm, , diameter=8mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 3.80mm  diameter 8mm Electrolytic Capacitor
 0
 2
 2
-Connector
-Banana_Jack_1Pin
-Single banana socket, footprint - 6mm drill
-banana socket
+Capacitor_THT
+CP_Radial_D8.0mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, , diameter=8mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm  diameter 8mm Electrolytic Capacitor
 0
-1
-1
-Connector
-Banana_Jack_2Pin
-Dual banana socket, footprint - 2 x 6mm drills
-banana socket
-0
 2
 2
-Connector
-Banana_Jack_3Pin
-Triple banana socket, footprint - 3 x 6mm drills
-banana socket
-0
-3
-3
-Connector
-CUI_PD-30
-3 pin connector, PD-30, http://www.cui.com/product/resource/pd-30.pdf
-connector 3-pin PD-30 power DIN
-0
-4
-4
-Connector
-CalTest_CT3151
-Right-angle standard banana jack, http://www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf
-banana jack horizontal
-0
-4
-1
-Connector
-Connector_SFP_and_Cage
-https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2227302&DocType=Customer+Drawing&DocLang=English
-SFP+ SFP
-0
-40
-21
-Connector
-DTF13-12Px
-http://www.te.com/usa-en/product-DTF13-12PA-G003.html
-DEUTSCH DT header 12 pin 
-0
-12
-12
-Connector
-FanPinHeader_1x03_P2.54mm_Vertical
-3-pin CPU fan Through hole pin header, see http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf
-pin header 3-pin CPU fan
-0
-3
-3
-Connector
-FanPinHeader_1x04_P2.54mm_Vertical
-4-pin CPU fan Through hole pin header, e.g. for Wieson part number 2366C888-007 Molex 47053-1000, Foxconn HF27040-M1, Tyco 1470947-1 or equivalent, see http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf
-pin header 4-pin CPU fan
-0
-4
-4
-Connector
-GB042-34S-H10
-http://www.lsmtron.com/pdf/Connector&Antenna_catalog.PDF
-34pin SMD connector 
-0
-34
-34
-Connector
-IHI_B6A-PCB-45_Vertical
-https://lugsdirect.com/PDF_Webprint/B6A-PCB-45-XX(-X).pdf
-connector IHI B6A-PCB-45
-0
-49
-1
-Connector
-JWT_A3963_1x02_P3.96mm_Vertical
-JWT A3963, 3.96mm pitch Pin head connector (http://www.jwt.com.tw/pro_pdf/A3963.pdf)
-connector JWT A3963 pinhead
+Capacitor_THT
+CP_Radial_D10.0mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=10mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 10mm Electrolytic Capacitor
 0
 2
 2
-Connector
-NS-Tech_Grove_1x04_P2mm_Vertical
-https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf
-Grove-1x04
-0
-4
-4
-Connector
-SpringContact_Harwin_S1941-46R
-7.25mm SMT Multi-directional Spring Contact (T+R), https://cdn.harwin.com/pdfs/S1941R.pdf
-spring contact emi emc shield
-0
-1
-1
-Connector
-Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical
-Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC.pdf
-tag connect programming header pogo pins
-0
-6
-6
-Connector
-Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical
-Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
-tag connect programming header pogo pins
-0
-6
-6
-Connector
-Tag-Connect_TC2050-IDC-FP_2x05_P1.27mm_Vertical
-Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2050-IDC-430%20Datasheet.pdf
-tag connect programming header pogo pins
-0
-10
-10
-Connector
-Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical
-Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2050-IDC-NL%20Datasheet.pdf
-tag connect programming header pogo pins
-0
-10
-10
-Connector
-Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip
-Tag-Connect programming header with bottom courtyard for TC2050-NL Clip board ; https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-CLIP_Datasheet_25.pdf
-tag connect programming header pogo pins
-0
-10
-10
-Connector
-Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical
-Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2070-IDC%20Datasheet.pdf
-tag connect programming header pogo pins
-0
-14
-14
-Connector_AMASS
-AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal
-Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf
-RC Connector XT30
-0
-5
-3
-Connector_AMASS
-AMASS_MR30PW-M_1x03_P3.50mm_Horizontal
-Connector XT30 Horizontal PCB Male, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf
-RC Connector XT30
-0
-5
-3
-Connector_AMASS
-AMASS_XT30PW-F_1x02_P2.50mm_Horizontal
-Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf
-RC Connector XT30
+Capacitor_THT
+CP_Radial_D10.0mm_P2.50mm_P5.00mm
+CP, Radial series, Radial, pin pitch=2.50mm 5.00mm, , diameter=10mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm 5.00mm  diameter 10mm Electrolytic Capacitor
 0
 4
 2
-Connector_AMASS
-AMASS_XT30PW-M_1x02_P2.50mm_Horizontal
-Connector XT30 Horizontal PCB Male, https://www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf
-RC Connector XT30
+Capacitor_THT
+CP_Radial_D10.0mm_P3.50mm
+CP, Radial series, Radial, pin pitch=3.50mm, , diameter=10mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 3.50mm  diameter 10mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D10.0mm_P3.80mm
+CP, Radial series, Radial, pin pitch=3.80mm, , diameter=10mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 3.80mm  diameter 10mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D10.0mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D10.0mm_P5.00mm_P7.50mm
+CP, Radial series, Radial, pin pitch=5.00mm 7.50mm, , diameter=10mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm 7.50mm  diameter 10mm Electrolytic Capacitor
 0
 4
 2
-Connector_AMASS
-AMASS_XT30U-F_1x02_P5.0mm_Vertical
-Connector XT30 Vertical Cable Female, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
-RC Connector XT30
+Capacitor_THT
+CP_Radial_D10.0mm_P7.50mm
+CP, Radial series, Radial, pin pitch=7.50mm, , diameter=10mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 7.50mm  diameter 10mm Electrolytic Capacitor
 0
 2
 2
-Connector_AMASS
-AMASS_XT30U-M_1x02_P5.0mm_Vertical
-Connector XT30 Vertical Cable Male, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
-RC Connector XT30
+Capacitor_THT
+CP_Radial_D12.5mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=12.5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 12.5mm Electrolytic Capacitor
 0
 2
 2
-Connector_AMASS
-AMASS_XT30UPB-F_1x02_P5.0mm_Vertical
-Connector XT30 Vertical PCB Female, https://www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf
-RC Connector XT30
+Capacitor_THT
+CP_Radial_D12.5mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, , diameter=12.5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm  diameter 12.5mm Electrolytic Capacitor
 0
 2
 2
-Connector_AMASS
-AMASS_XT30UPB-M_1x02_P5.0mm_Vertical
-Connector XT30 Vertical PCB Male, https://www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf
-RC Connector XT30
+Capacitor_THT
+CP_Radial_D12.5mm_P7.50mm
+CP, Radial series, Radial, pin pitch=7.50mm, , diameter=12.5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 7.50mm  diameter 12.5mm Electrolytic Capacitor
 0
 2
 2
-Connector_AMASS
-AMASS_XT60-F_1x02_P7.20mm_Vertical
-AMASS female XT60, through hole, vertical, https://www.tme.eu/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf
-XT60 female vertical
+Capacitor_THT
+CP_Radial_D13.0mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=13mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 13mm Electrolytic Capacitor
 0
 2
 2
-Connector_AMASS
-AMASS_XT60-M_1x02_P7.20mm_Vertical
-AMASS female XT60, through hole, vertical, https://www.tme.eu/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf
-XT60 female vertical
+Capacitor_THT
+CP_Radial_D13.0mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, , diameter=13mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm  diameter 13mm Electrolytic Capacitor
 0
 2
 2
-Connector_Amphenol
-Amphenol_M8S-03PMMR-SF8001
-M8 Male connector for panel, 90° PCB mount (https://www.amphenolltw.com/2012download/2D%20PDF/03_M%20Series%20Sensor%20Connectors/M8S-XXPMMR-SF8001.pdf)
-three-pin M8
+Capacitor_THT
+CP_Radial_D13.0mm_P7.50mm
+CP, Radial series, Radial, pin pitch=7.50mm, , diameter=13mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 7.50mm  diameter 13mm Electrolytic Capacitor
 0
-5
+2
+2
+Capacitor_THT
+CP_Radial_D14.0mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, , diameter=14mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm  diameter 14mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D14.0mm_P7.50mm
+CP, Radial series, Radial, pin pitch=7.50mm, , diameter=14mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 7.50mm  diameter 14mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D16.0mm_P7.50mm
+CP, Radial series, Radial, pin pitch=7.50mm, , diameter=16mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 7.50mm  diameter 16mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D17.0mm_P7.50mm
+CP, Radial series, Radial, pin pitch=7.50mm, , diameter=17mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 7.50mm  diameter 17mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D18.0mm_P7.50mm
+CP, Radial series, Radial, pin pitch=7.50mm, , diameter=18mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 7.50mm  diameter 18mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=22mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 22mm Electrolytic Capacitor
+0
+3
+2
+Capacitor_THT
+CP_Radial_D22.0mm_P10.00mm_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=22mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 22mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=24mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 24mm Electrolytic Capacitor
+0
+3
+2
+Capacitor_THT
+CP_Radial_D24.0mm_P10.00mm_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=24mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 24mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D25.0mm_P10.00mm_3pin_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=25mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 25mm Electrolytic Capacitor
+0
+3
+2
+Capacitor_THT
+CP_Radial_D25.0mm_P10.00mm_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=25mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 25mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D26.0mm_P10.00mm_3pin_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=26mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 26mm Electrolytic Capacitor
+0
+3
+2
+Capacitor_THT
+CP_Radial_D26.0mm_P10.00mm_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=26mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 26mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D30.0mm_P10.00mm_3pin_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=30mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 30mm Electrolytic Capacitor
+0
+3
+2
+Capacitor_THT
+CP_Radial_D30.0mm_P10.00mm_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=30mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 30mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D35.0mm_P10.00mm_3pin_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=35mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 35mm Electrolytic Capacitor
+0
+3
+2
+Capacitor_THT
+CP_Radial_D35.0mm_P10.00mm_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=35mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 35mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_D40.0mm_P10.00mm_3pin_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=40mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 40mm Electrolytic Capacitor
+0
+3
+2
+Capacitor_THT
+CP_Radial_D40.0mm_P10.00mm_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=40mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 40mm Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D4.5mm_P2.50mm
+CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=4.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 4.5mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D4.5mm_P5.00mm
+CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=4.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 4.5mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D5.0mm_P2.50mm
+CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=5.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 5.0mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D5.0mm_P5.00mm
+CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=5.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 5.0mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D5.5mm_P2.50mm
+CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=5.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 5.5mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D5.5mm_P5.00mm
+CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=5.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 5.5mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D6.0mm_P2.50mm
+CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=6.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 6.0mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D6.0mm_P5.00mm
+CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=6.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 6.0mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D7.0mm_P2.50mm
+CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=7.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 7.0mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D7.0mm_P5.00mm
+CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=7.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 7.0mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D8.0mm_P2.50mm
+CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=8.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 8.0mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D8.0mm_P5.00mm
+CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=8.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 8.0mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D9.0mm_P2.50mm
+CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=9.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 9.0mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D9.0mm_P5.00mm
+CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=9.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 9.0mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D10.5mm_P2.50mm
+CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=10.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 10.5mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+CP_Radial_Tantal_D10.5mm_P5.00mm
+CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=10.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 10.5mm Tantal Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=7.5mm, , length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+C Axial series Axial Horizontal pin pitch 7.5mm  length 3.8mm diameter 2.6mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=10mm, , length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+C Axial series Axial Horizontal pin pitch 10mm  length 3.8mm diameter 2.6mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=12.5mm, , length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+C Axial series Axial Horizontal pin pitch 12.5mm  length 3.8mm diameter 2.6mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L3.8mm_D2.6mm_P15.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+C Axial series Axial Horizontal pin pitch 15mm  length 3.8mm diameter 2.6mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=7.5mm, , length*diameter=5.1*3.1mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+C Axial series Axial Horizontal pin pitch 7.5mm  length 5.1mm diameter 3.1mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L5.1mm_D3.1mm_P10.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=10mm, , length*diameter=5.1*3.1mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+C Axial series Axial Horizontal pin pitch 10mm  length 5.1mm diameter 3.1mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L5.1mm_D3.1mm_P12.50mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=12.5mm, , length*diameter=5.1*3.1mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+C Axial series Axial Horizontal pin pitch 12.5mm  length 5.1mm diameter 3.1mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L5.1mm_D3.1mm_P15.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=5.1*3.1mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+C Axial series Axial Horizontal pin pitch 15mm  length 5.1mm diameter 3.1mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L12.0mm_D6.5mm_P15.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=12*6.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 15mm  length 12mm diameter 6.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L12.0mm_D6.5mm_P20.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=20mm, , length*diameter=12*6.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 20mm  length 12mm diameter 6.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L12.0mm_D7.5mm_P15.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=12*7.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 15mm  length 12mm diameter 7.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L12.0mm_D7.5mm_P20.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=20mm, , length*diameter=12*7.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 20mm  length 12mm diameter 7.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L12.0mm_D8.5mm_P15.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=12*8.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 15mm  length 12mm diameter 8.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L12.0mm_D8.5mm_P20.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=20mm, , length*diameter=12*8.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 20mm  length 12mm diameter 8.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L12.0mm_D9.5mm_P15.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=12*9.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 15mm  length 12mm diameter 9.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L12.0mm_D9.5mm_P20.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=20mm, , length*diameter=12*9.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 20mm  length 12mm diameter 9.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=12*10.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 15mm  length 12mm diameter 10.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L12.0mm_D10.5mm_P20.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=20mm, , length*diameter=12*10.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 20mm  length 12mm diameter 10.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L17.0mm_D6.5mm_P20.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=20mm, , length*diameter=17*6.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 20mm  length 17mm diameter 6.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L17.0mm_D6.5mm_P25.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=17*6.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 25mm  length 17mm diameter 6.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L17.0mm_D7.0mm_P20.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=20mm, , length*diameter=17*7.0mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 20mm  length 17mm diameter 7.0mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L17.0mm_D7.0mm_P25.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=17*7.0mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 25mm  length 17mm diameter 7.0mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L19.0mm_D7.5mm_P25.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=19*7.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 25mm  length 19mm diameter 7.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=19*8.0mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 25mm  length 19mm diameter 8.0mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L19.0mm_D9.0mm_P25.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=19*9mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 25mm  length 19mm diameter 9mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L19.0mm_D9.5mm_P25.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=19*9.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 25mm  length 19mm diameter 9.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L22.0mm_D9.5mm_P27.50mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=27.5mm, , length*diameter=22*9.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 27.5mm  length 22mm diameter 9.5mm
+0
+2
+2
+Capacitor_THT
+C_Axial_L22.0mm_D10.5mm_P27.50mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=27.5mm, , length*diameter=22*10.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 27.5mm  length 22mm diameter 10.5mm
+0
+2
+2
+Capacitor_THT
+C_Disc_D3.0mm_W1.6mm_P2.50mm
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D3.0mm_W2.0mm_P2.50mm
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3*2mm^2, Capacitor
+C Disc series Radial pin pitch 2.50mm  diameter 3mm width 2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D3.4mm_W2.1mm_P2.50mm
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.4*2.1mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 2.50mm  diameter 3.4mm width 2.1mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D3.8mm_W2.6mm_P2.50mm
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.8*2.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 2.50mm  diameter 3.8mm width 2.6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D4.3mm_W1.9mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.3*1.9mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 4.3mm width 1.9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D4.7mm_W2.5mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.7*2.5mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 4.7mm width 2.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D5.0mm_W2.5mm_P2.50mm
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
+C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D5.0mm_W2.5mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 5mm width 2.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D5.1mm_W3.2mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5.1*3.2mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 5.1mm width 3.2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D6.0mm_W2.5mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D6.0mm_W4.4mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*4.4mm^2, Capacitor
+C Disc series Radial pin pitch 5.00mm  diameter 6mm width 4.4mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D7.0mm_W2.5mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 7mm width 2.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D7.5mm_W2.5mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7.5*2.5mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 7.5mm width 2.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D7.5mm_W4.4mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7.5*4.4mm^2, Capacitor
+C Disc series Radial pin pitch 5.00mm  diameter 7.5mm width 4.4mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D7.5mm_W5.0mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7.5*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 7.5mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D7.5mm_W5.0mm_P7.50mm
+C, Disc series, Radial, pin pitch=7.50mm, , diameter*width=7.5*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 7.50mm  diameter 7.5mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D7.5mm_W5.0mm_P10.00mm
+C, Disc series, Radial, pin pitch=10.00mm, , diameter*width=7.5*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 10.00mm  diameter 7.5mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D8.0mm_W2.5mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=8*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 8mm width 2.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D8.0mm_W5.0mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=8*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 8mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D8.0mm_W5.0mm_P7.50mm
+C, Disc series, Radial, pin pitch=7.50mm, , diameter*width=8*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 7.50mm  diameter 8mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D8.0mm_W5.0mm_P10.00mm
+C, Disc series, Radial, pin pitch=10.00mm, , diameter*width=8*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 10.00mm  diameter 8mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D9.0mm_W2.5mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=9*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 9mm width 2.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D9.0mm_W5.0mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=9*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 9mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D9.0mm_W5.0mm_P7.50mm
+C, Disc series, Radial, pin pitch=7.50mm, , diameter*width=9*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 7.50mm  diameter 9mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D9.0mm_W5.0mm_P10.00mm
+C, Disc series, Radial, pin pitch=10.00mm, , diameter*width=9*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 10.00mm  diameter 9mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D10.0mm_W2.5mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=10*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 10mm width 2.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D10.5mm_W5.0mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=10.5*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 10.5mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D10.5mm_W5.0mm_P7.50mm
+C, Disc series, Radial, pin pitch=7.50mm, , diameter*width=10.5*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 7.50mm  diameter 10.5mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D10.5mm_W5.0mm_P10.00mm
+C, Disc series, Radial, pin pitch=10.00mm, , diameter*width=10.5*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 10.00mm  diameter 10.5mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D11.0mm_W5.0mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=11*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 11mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D11.0mm_W5.0mm_P7.50mm
+C, Disc series, Radial, pin pitch=7.50mm, , diameter*width=11*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 7.50mm  diameter 11mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D11.0mm_W5.0mm_P10.00mm
+C, Disc series, Radial, pin pitch=10.00mm, , diameter*width=11*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 10.00mm  diameter 11mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D12.0mm_W4.4mm_P7.75mm
+C, Disc series, Radial, pin pitch=7.75mm, , diameter*width=12*4.4mm^2, Capacitor
+C Disc series Radial pin pitch 7.75mm  diameter 12mm width 4.4mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D12.5mm_W5.0mm_P7.50mm
+C, Disc series, Radial, pin pitch=7.50mm, , diameter*width=12.5*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 7.50mm  diameter 12.5mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D12.5mm_W5.0mm_P10.00mm
+C, Disc series, Radial, pin pitch=10.00mm, , diameter*width=12.5*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 10.00mm  diameter 12.5mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D14.5mm_W5.0mm_P7.50mm
+C, Disc series, Radial, pin pitch=7.50mm, , diameter*width=14.5*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 7.50mm  diameter 14.5mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D14.5mm_W5.0mm_P10.00mm
+C, Disc series, Radial, pin pitch=10.00mm, , diameter*width=14.5*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 10.00mm  diameter 14.5mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D16.0mm_W5.0mm_P7.50mm
+C, Disc series, Radial, pin pitch=7.50mm, , diameter*width=16.0*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 7.50mm  diameter 16.0mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Disc_D16.0mm_W5.0mm_P10.00mm
+C, Disc series, Radial, pin pitch=10.00mm, , diameter*width=16.0*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
+C Disc series Radial pin pitch 10.00mm  diameter 16.0mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D4.0mm_H5.0mm_P1.50mm
+C, Radial series, Radial, pin pitch=1.50mm, diameter=4mm, height=5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 1.50mm diameter 4mm height 5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D4.0mm_H7.0mm_P1.50mm
+C, Radial series, Radial, pin pitch=1.50mm, diameter=4mm, height=7mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 1.50mm diameter 4mm height 7mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D5.0mm_H5.0mm_P2.00mm
+C, Radial series, Radial, pin pitch=2.00mm, diameter=5mm, height=5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.00mm diameter 5mm height 5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D5.0mm_H7.0mm_P2.00mm
+C, Radial series, Radial, pin pitch=2.00mm, diameter=5mm, height=7mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.00mm diameter 5mm height 7mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D5.0mm_H11.0mm_P2.00mm
+C, Radial series, Radial, pin pitch=2.00mm, diameter=5mm, height=11mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.00mm diameter 5mm height 11mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D6.3mm_H5.0mm_P2.50mm
+C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D6.3mm_H7.0mm_P2.50mm
+C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=7mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 7mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D6.3mm_H11.0mm_P2.50mm
+C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=11mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 11mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D8.0mm_H7.0mm_P3.50mm
+C, Radial series, Radial, pin pitch=3.50mm, diameter=8mm, height=7mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 3.50mm diameter 8mm height 7mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D8.0mm_H11.5mm_P3.50mm
+C, Radial series, Radial, pin pitch=3.50mm, diameter=8mm, height=11.5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 3.50mm diameter 8mm height 11.5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D10.0mm_H12.5mm_P5.00mm
+C, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=12.5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 5.00mm diameter 10mm height 12.5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D10.0mm_H16.0mm_P5.00mm
+C, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=16mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 5.00mm diameter 10mm height 16mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D10.0mm_H20.0mm_P5.00mm
+C, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=20mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 5.00mm diameter 10mm height 20mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D12.5mm_H20.0mm_P5.00mm
+C, Radial series, Radial, pin pitch=5.00mm, diameter=12.5mm, height=20mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 5.00mm diameter 12.5mm height 20mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D12.5mm_H25.0mm_P5.00mm
+C, Radial series, Radial, pin pitch=5.00mm, diameter=12.5mm, height=25mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 5.00mm diameter 12.5mm height 25mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D16.0mm_H25.0mm_P7.50mm
+C, Radial series, Radial, pin pitch=7.50mm, diameter=16mm, height=25mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 7.50mm diameter 16mm height 25mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D16.0mm_H31.5mm_P7.50mm
+C, Radial series, Radial, pin pitch=7.50mm, diameter=16mm, height=31.5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 7.50mm diameter 16mm height 31.5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D18.0mm_H35.5mm_P7.50mm
+C, Radial series, Radial, pin pitch=7.50mm, diameter=18mm, height=35.5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 7.50mm diameter 18mm height 35.5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L4.0mm_W2.5mm_P2.50mm
+C, Rect series, Radial, pin pitch=2.50mm, , length*width=4*2.5mm^2, Capacitor
+C Rect series Radial pin pitch 2.50mm  length 4mm width 2.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02
+C, Rect series, Radial, pin pitch=2.50mm, , length*width=4.6*2mm^2, Capacitor, http://www.wima.de/DE/WIMA_MKS_02.pdf
+C Rect series Radial pin pitch 2.50mm  length 4.6mm width 2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L4.6mm_W3.0mm_P2.50mm_MKS02_FKP02
+C, Rect series, Radial, pin pitch=2.50mm, , length*width=4.6*3.0mm^2, Capacitor, http://www.wima.de/DE/WIMA_MKS_02.pdf
+C Rect series Radial pin pitch 2.50mm  length 4.6mm width 3.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L4.6mm_W3.8mm_P2.50mm_MKS02_FKP02
+C, Rect series, Radial, pin pitch=2.50mm, , length*width=4.6*3.8mm^2, Capacitor, http://www.wima.de/DE/WIMA_MKS_02.pdf
+C Rect series Radial pin pitch 2.50mm  length 4.6mm width 3.8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L4.6mm_W4.6mm_P2.50mm_MKS02_FKP02
+C, Rect series, Radial, pin pitch=2.50mm, , length*width=4.6*4.6mm^2, Capacitor, http://www.wima.de/DE/WIMA_MKS_02.pdf
+C Rect series Radial pin pitch 2.50mm  length 4.6mm width 4.6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L4.6mm_W5.5mm_P2.50mm_MKS02_FKP02
+C, Rect series, Radial, pin pitch=2.50mm, , length*width=4.6*5.5mm^2, Capacitor, http://www.wima.de/DE/WIMA_MKS_02.pdf
+C Rect series Radial pin pitch 2.50mm  length 4.6mm width 5.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L7.0mm_W2.0mm_P5.00mm
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7*2mm^2, Capacitor
+C Rect series Radial pin pitch 5.00mm  length 7mm width 2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L7.0mm_W2.5mm_P5.00mm
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7*2.5mm^2, Capacitor
+C Rect series Radial pin pitch 5.00mm  length 7mm width 2.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm
+C, Rect series, Radial, pin pitch=2.50mm 5.00mm, , length*width=7*3.5mm^2, Capacitor
+C Rect series Radial pin pitch 2.50mm 5.00mm  length 7mm width 3.5mm Capacitor
+0
 4
-Connector_BarrelJack
-BarrelJack_CLIFF_FC681465S_SMT_Horizontal
-Surface-mount DC Barrel Jack, https://www.cliffuk.co.uk/products/dcconnectors/FC681465S.pdf
-Power Jack SMT
-0
-4
-3
-Connector_BarrelJack
-BarrelJack_CUI_PJ-036AH-SMT_Horizontal
-Surface-mount DC Barrel Jack, http://www.cui.com/product/resource/pj-036ah-smt.pdf
-Power Jack SMT
-0
-3
-3
-Connector_BarrelJack
-BarrelJack_CUI_PJ-063AH_Horizontal
-Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf
-barrel jack cui dc power
-0
-4
-3
-Connector_BarrelJack
-BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles
-Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf
-barrel jack cui dc power
-0
-4
-3
-Connector_BarrelJack
-BarrelJack_CUI_PJ-102AH_Horizontal
-Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf
-Power Jack
-0
-3
-3
-Connector_BarrelJack
-BarrelJack_Horizontal
-DC Barrel Jack
-Power Jack
-0
-3
-3
-Connector_BarrelJack
-BarrelJack_Wuerth_6941xx301002
-Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf
-connector barrel jack
-0
-3
-3
-Connector_Card
-CF-Card_3M_N7E50-7516PK-20-WF
-Compact Flash Card connector (https://multimedia.3m.com/mws/media/22365O/3mtm-cf-card-header-compactflashtm-type-i-sm-ts0662.pdf)
-connector cf
-0
-54
-50
-Connector_Card
-SD_Kyocera_145638009211859+
-SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
-sd card smt
-0
-13
-13
-Connector_Card
-SD_Kyocera_145638009511859+
-SD Card Connector, Normal Type, Outer Tail, Spring Eject Type (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
-sd card smt
-0
-13
-13
-Connector_Card
-SD_Kyocera_145638109211859+
-SD Card Connector, Reverse Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
-sd card smt
-0
-13
-13
-Connector_Card
-SD_Kyocera_145638109511859+
-SD Card Connector, Reverse Type, Outer Tail, Spring Eject Type (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
-sd card smt
-0
-13
-13
-Connector_Card
-SD_TE_2041021
-SD card connector, top mount, SMT (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2041021%7FB%7Fpdf%7FEnglish%7FENG_CD_2041021_B_C_2041021_B.pdf%7F2041021-4)
-sd card
-0
-15
-12
-Connector_Card
-microSD_HC_Hirose_DM3AT-SF-PEJM5
-Micro SD, SMD, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3AT-SF-PEJM5/category/Drawing%20(2D)/doc_file_id/44099/?file_category_id=6&item_id=06090031000&is_series=)
-Micro SD
-0
-14
-11
-Connector_Card
-microSD_HC_Hirose_DM3BT-DSF-PEJS
-Micro SD, SMD, reverse on-board, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3BT-DSF-PEJS/category/Drawing%20(2D)/doc_file_id/44097/?file_category_id=6&item_id=06090029900&is_series=)
-Micro SD
-0
-16
-11
-Connector_Card
-microSD_HC_Hirose_DM3D-SF
-Micro SD, SMD, right-angle, push-pull (https://media.digikey.com/PDF/Data%20Sheets/Hirose%20PDFs/DM3D-SF.pdf)
-Micro SD
-0
-14
-11
-Connector_Card
-microSD_HC_Molex_104031-0811
-1.10mm Pitch microSD Memory Card Connector, Surface Mount, Push-Pull Type, 1.42mm Height, with Detect Switch (https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf)
-microSD SD molex
-0
-14
-11
-Connector_Card
-microSD_HC_Wuerth_693072010801
-http://katalog.we-online.de/em/datasheet/693072010801.pdf
-Micro SD Wuerth Wurth Würth
-0
-12
-9
-Connector_Card
-microSIM_JAE_SF53S006VCBR2000
-https://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ115712.pdf
-microSIM GSM Card
-0
-14
-7
-Connector_Coaxial
-BNC_Amphenol_031-6575_Horizontal
-dual independently isolated BNC plug (https://www.amphenolrf.com/downloads/dl/file/id/2980/product/644/031_6575_customer_drawing.pdf)
-Dual BNC Amphenol Horizontal
-0
-6
-4
-Connector_Coaxial
-BNC_Amphenol_B6252HB-NPP3G-50_Horizontal
-http://www.farnell.com/datasheets/612848.pdf
-BNC Amphenol Horizontal
-0
-4
 2
-Connector_Coaxial
-BNC_PanelMountable_Vertical
-Panel-mountable BNC connector mounted through PCB, vertical
-BNC connector
+Capacitor_THT
+C_Rect_L7.0mm_W3.5mm_P5.00mm
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7*3.5mm^2, Capacitor
+C Rect series Radial pin pitch 5.00mm  length 7mm width 3.5mm Capacitor
 0
 2
 2
-Connector_Coaxial
-BNC_TEConnectivity_1478204_Vertical
-BNC female PCB mount 4 pin straight chassis connector http://www.te.com/usa-en/product-1-1478204-0.html
-BNC female PCB mount 4 pin straight chassis connector 
+Capacitor_THT
+C_Rect_L7.0mm_W4.5mm_P5.00mm
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7*4.5mm^2, Capacitor
+C Rect series Radial pin pitch 5.00mm  length 7mm width 4.5mm Capacitor
 0
-5
 2
-Connector_Coaxial
-BNC_Win_364A2x95_Horizontal
-Dual front isolated BNC plug (https://www.winconn.com/wp-content/uploads/364A2595.pdf)
-Dual BNC Horizontal Isolated
-0
-6
-3
-Connector_Coaxial
-CoaxialSwitch_Hirose_MS-156C3_Horizontal
-Subminiature Coaxial Switch 1.35mm High, DC to 11GHz
-Switch Coaxial RF
-0
-12
-3
-Connector_Coaxial
-MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB
-Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf
-Molex MMCX Horizontal Coaxial
-0
-3
 2
-Connector_Coaxial
-MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB
-Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf
-Molex MMCX Horizontal Coaxial
+Capacitor_THT
+C_Rect_L7.0mm_W6.0mm_P5.00mm
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7*6mm^2, Capacitor
+C Rect series Radial pin pitch 5.00mm  length 7mm width 6mm Capacitor
 0
-3
 2
-Connector_Coaxial
-MMCX_Molex_73415-0961_Horizontal_1.6mm-PCB
-Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf
-Molex MMCX Horizontal Coaxial
+2
+Capacitor_THT
+C_Rect_L7.0mm_W6.5mm_P5.00mm
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7*6.5mm^2, Capacitor
+C Rect series Radial pin pitch 5.00mm  length 7mm width 6.5mm Capacitor
 0
-3
 2
-Connector_Coaxial
-MMCX_Molex_73415-1471_Vertical
-http://www.molex.com/pdm_docs/sd/734151471_sd.pdf
-Molex MMCX Coaxial Connector 50 ohms Female Jack Vertical THT
+2
+Capacitor_THT
+C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*2.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
+C Rect series Radial pin pitch 5.00mm  length 7.2mm width 2.5mm Capacitor
 0
-5
 2
-Connector_Coaxial
-SMA_Amphenol_901-144_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/7023/product/3103/901_144_customer_drawing.pdf
-SMA THT Female Jack Vertical
+2
+Capacitor_THT
+C_Rect_L7.2mm_W3.0mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*3.0mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
+C Rect series Radial pin pitch 5.00mm  length 7.2mm width 3.0mm Capacitor
 0
-5
 2
-Connector_Coaxial
-SMA_Amphenol_132134-10_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/4007/product/2974/132134_10_customer_drawing.pdf
-SMA SMD Female Jack Vertical
+2
+Capacitor_THT
+C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*3.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
+C Rect series Radial pin pitch 5.00mm  length 7.2mm width 3.5mm Capacitor
 0
-3
 2
-Connector_Coaxial
-SMA_Amphenol_132134-11_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/3406/product/2975/132134_11_customer_drawing.pdf
-SMA THT Female Jack Vertical ExtendedLegs
+2
+Capacitor_THT
+C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*4.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
+C Rect series Radial pin pitch 5.00mm  length 7.2mm width 4.5mm Capacitor
 0
-5
 2
-Connector_Coaxial
-SMA_Amphenol_132134-14_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/1793/product/2976/132134_14_customer_drawing.pdf
-SMA THT Female Jack Vertical ExtendedLegs
+2
+Capacitor_THT
+C_Rect_L7.2mm_W5.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*5.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
+C Rect series Radial pin pitch 5.00mm  length 7.2mm width 5.5mm Capacitor
 0
-5
 2
-Connector_Coaxial
-SMA_Amphenol_132134-16_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/1141/product/2978/132134_16_customer_drawing.pdf
-SMA THT Female Jack Vertical ExtendedLegs
+2
+Capacitor_THT
+C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*7.2mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
+C Rect series Radial pin pitch 5.00mm  length 7.2mm width 7.2mm Capacitor
 0
-5
 2
-Connector_Coaxial
-SMA_Amphenol_132134_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/2187/product/2843/132134_customer_drawing.pdf
-SMA THT Female Jack Vertical ExtendedLegs
+2
+Capacitor_THT
+C_Rect_L7.2mm_W8.5mm_P5.00mm_FKP2_FKP2_MKS2_MKP2
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*8.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
+C Rect series Radial pin pitch 5.00mm  length 7.2mm width 8.5mm Capacitor
 0
-5
 2
-Connector_Coaxial
-SMA_Amphenol_132203-12_Horizontal
-https://www.amphenolrf.com/media/downloads/1769/132203-12.pdf
-SMA THT Female Jack Horizontal
+2
+Capacitor_THT
+C_Rect_L7.2mm_W11.0mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*11mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
+C Rect series Radial pin pitch 5.00mm  length 7.2mm width 11mm Capacitor
 0
-5
 2
-Connector_Coaxial
-SMA_Amphenol_132289_EdgeMount
-http://www.amphenolrf.com/132289.html
-SMA
+2
+Capacitor_THT
+C_Rect_L7.5mm_W6.5mm_P5.00mm
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.5*6.5mm^2, Capacitor
+C Rect series Radial pin pitch 5.00mm  length 7.5mm width 6.5mm Capacitor
 0
-5
 2
-Connector_Coaxial
-SMA_Amphenol_132291-12_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/1688/product/3020/132291_12_customer_drawing.pdf
-SMA THT Female Jack Vertical Bulkhead
+2
+Capacitor_THT
+C_Rect_L9.0mm_W2.5mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*2.5mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 2.5mm Capacitor
 0
-5
 2
-Connector_Coaxial
-SMA_Amphenol_132291_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/3222/product/2918/132291_customer_drawing.pdf
-SMA THT Female Jack Vertical Bulkhead
+2
+Capacitor_THT
+C_Rect_L9.0mm_W2.6mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*2.6mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 2.6mm Capacitor
 0
-5
 2
-Connector_Coaxial
-SMA_Molex_73251-1153_EdgeMount_Horizontal
-Molex SMA RF Connectors, Edge Mount, (http://www.molex.com/pdm_docs/sd/732511150_sd.pdf)
-sma edge
+2
+Capacitor_THT
+C_Rect_L9.0mm_W2.7mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*2.7mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 2.7mm Capacitor
 0
-11
 2
-Connector_Coaxial
-SMA_Molex_73251-2120_EdgeMount_Horizontal
-Molex SMA RF Connector, Edge Mount, (http://www.molex.com/pdm_docs/sd/732512120_sd.pdf)
-sma edge
+2
+Capacitor_THT
+C_Rect_L9.0mm_W3.2mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*3.2mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 3.2mm Capacitor
 0
-11
 2
-Connector_Coaxial
-SMA_Molex_73251-2200_Horizontal
-https://www.molex.com/webdocs/datasheets/pdf/en-us/0732512200_RF_COAX_CONNECTORS.pdf
-SMA THT Female Jack Horizontal
+2
+Capacitor_THT
+C_Rect_L9.0mm_W3.3mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*3.3mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 3.3mm Capacitor
 0
-5
 2
-Connector_Coaxial
-SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount
-Connector SMA, 0Hz to 20GHz, 50Ohm, Edge Mount (http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf)
-SMA Straight Samtec Edge Mount
+2
+Capacitor_THT
+C_Rect_L9.0mm_W3.4mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*3.4mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 3.4mm Capacitor
 0
-5
 2
-Connector_Coaxial
-SMA_Wurth_60312002114503_Vertical
-https://www.we-online.de/katalog/datasheet/60312002114503.pdf
-SMA THT Female Jack Vertical ExtendedLegs
+2
+Capacitor_THT
+C_Rect_L9.0mm_W3.6mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*3.6mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 3.6mm Capacitor
 0
-5
 2
-Connector_Coaxial
-SMB_Jack_Vertical
-SMB pcb mounting jack
-SMB Jack  Striaght
+2
+Capacitor_THT
+C_Rect_L9.0mm_W3.8mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*3.8mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 3.8mm Capacitor
 0
-5
 2
-Connector_Coaxial
-U.FL_Hirose_U.FL-R-SMT-1_Vertical
-Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/
-Hirose U.FL Coaxial
+2
+Capacitor_THT
+C_Rect_L9.0mm_W3.9mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*3.9mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 3.9mm Capacitor
 0
-3
 2
-Connector_Coaxial
-U.FL_Molex_MCRF_73412-0110_Vertical
-Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.com/pdm_docs/sd/734120110_sd.pdf)
-mcrf hirose ufl u.fl microcoaxial
+2
+Capacitor_THT
+C_Rect_L9.0mm_W4.0mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*4.0mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 4.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L9.0mm_W4.2mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*4.2mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 4.2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L9.0mm_W4.9mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*4.9mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 4.9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L9.0mm_W5.1mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*5.1mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 5.1mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L9.0mm_W5.7mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*5.7mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 5.7mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L9.0mm_W6.4mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*6.4mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 6.4mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L9.0mm_W6.7mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*6.7mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 6.7mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L9.0mm_W7.7mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*7.7mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 7.7mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L9.0mm_W8.5mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*8.5mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 8.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L9.0mm_W9.5mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*9.5mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 9.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L9.0mm_W9.8mm_P7.50mm_MKT
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*9.8mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 7.50mm  length 9mm width 9.8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L10.0mm_W2.5mm_P7.50mm_MKS4
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=10*2.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 7.50mm  length 10mm width 2.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L10.0mm_W3.0mm_P7.50mm_FKS3_FKP3
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=10*3mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf
+C Rect series Radial pin pitch 7.50mm  length 10mm width 3mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L10.0mm_W3.0mm_P7.50mm_MKS4
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=10*3.0mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 7.50mm  length 10mm width 3.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L10.0mm_W4.0mm_P7.50mm_FKS3_FKP3
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=10*4mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf
+C Rect series Radial pin pitch 7.50mm  length 10mm width 4mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L10.0mm_W4.0mm_P7.50mm_MKS4
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=10*4.0mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 7.50mm  length 10mm width 4.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm
+C, Rect series, Radial, pin pitch=5.00mm 7.50mm, , length*width=10*5mm^2, Capacitor
+C Rect series Radial pin pitch 5.00mm 7.50mm  length 10mm width 5mm Capacitor
 0
 4
 2
-Connector_HDMI
-HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal
-HDMI Contact Technology Type A http://www.contactswitch.com/en/download.aspx?id=1449
-HDMI Contact Technology Type A
-0
-23
-20
-Connector_HDMI
-HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle
-HDMI, Type A, Kycon KDMIX-SL1-NS-WS-B15, Vertical Right Angle, http://www.kycon.com/Pub_Eng_Draw/KDMIX-SL1-NS-WS-B15.pdf
-hdmi type a
-0
-23
-20
-Connector_HDMI
-HDMI_Micro-D_Molex_46765-0x01
-HDMI, Micro, Type D, SMD, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)
-hdmi micro type d right angle smd
-0
-23
-20
-Connector_HDMI
-HDMI_Micro-D_Molex_46765-1x01
-HDMI, Micro, Type D, THT, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)
-hdmi micro type d right angle tht
-0
-23
-20
-Connector_HDMI
-HDMI_Micro-D_Molex_46765-2x0x
-HDMI, Micro, Type D, THT/SMD hybrid, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)
-hdmi micro type d right angle tht smd hybrid 
-0
-23
-20
-bonsai
-EuroBoard160mmX100mm_holes_keepout
-Outline, Eurocard, 100x160mm, with holes 3,5mm,
-Outline, Eurocard, 100x160mm, with holes 3,5mm,
-0
-0
-0
-bonsai
-LED_Diodenmatrix
-LED, Round,  Rectangular size 3.3x2.4mm^2 diameter 1.8mm, 2 pins
-LED Round  Rectangular size 3.3x2.4mm^2 diameter 1.8mm 2 pins
+Capacitor_THT
+C_Rect_L10.3mm_W4.5mm_P7.50mm_MKS4
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=10.3*4.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 7.50mm  length 10.3mm width 4.5mm Capacitor
 0
 2
 2
-bonsai
-LED_Diodenmatrix_Platzhalter
-LED, Round,  Rectangular size 3.3x2.4mm^2 diameter 1.8mm, 2 pins
-LED Round  Rectangular size 3.3x2.4mm^2 diameter 1.8mm 2 pins
+Capacitor_THT
+C_Rect_L10.3mm_W5.0mm_P7.50mm_MKS4
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=10.3*5mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 7.50mm  length 10.3mm width 5mm Capacitor
 0
 2
 2
-bonsai
-SW-DIGITAST
-
-
+Capacitor_THT
+C_Rect_L10.3mm_W5.7mm_P7.50mm_MKS4
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=10.3*5.7mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 7.50mm  length 10.3mm width 5.7mm Capacitor
 0
-6
 2
-bonsai
-Switch_Digitast
-Switch_Digitast
-ITT Digitast
+2
+Capacitor_THT
+C_Rect_L10.3mm_W7.2mm_P7.50mm_MKS4
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=10.3*7.2mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 7.50mm  length 10.3mm width 7.2mm Capacitor
 0
-6
-5
+2
+2
+Capacitor_THT
+C_Rect_L11.0mm_W2.8mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.0*2.8mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.0mm width 2.8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.0mm_W3.4mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.0*3.4mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.0mm width 3.4mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.0mm_W3.5mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.0*3.5mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.0mm width 3.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.0mm_W4.2mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.0*4.2mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.0mm width 4.2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.0mm_W4.3mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.0*4.3mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.0mm width 4.3mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.0mm_W5.1mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.0*5.1mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.0mm width 5.1mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.0mm_W5.3mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.0*5.3mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.0mm width 5.3mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.0mm_W6.3mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.0*6.3mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.0mm width 6.3mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.0mm_W6.4mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.0*6.4mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.0mm width 6.4mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.0mm_W7.3mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.0*7.3mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.0mm width 7.3mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.0mm_W8.8mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.0*8.8mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.0mm width 8.8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*2mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*2.6mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 2.6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W2.8mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*2.8mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 2.8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W3.2mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*3.2mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 3.2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W3.5mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*3.5mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 3.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W3.6mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*3.6mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 3.6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*4.0mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 4.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W4.3mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*4.3mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 4.3mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W4.5mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*4.5mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 4.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W5.0mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*5mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W5.1mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*5.1mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 5.1mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W5.2mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*5.2mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 5.2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W5.6mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*5.6mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 5.6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W6.4mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*6.4mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 6.4mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W6.6mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*6.6mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 6.6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W6.9mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*6.9mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 6.9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W7.3mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*7.3mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 7.3mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W7.5mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*7.5mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 7.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W7.8mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*7.8mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 7.8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W8.0mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*8.0mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 8.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W8.8mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*8.8mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 8.8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W9.5mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*9.5mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 9.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L11.5mm_W9.8mm_P10.00mm_MKT
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*9.8mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 10.00mm  length 11.5mm width 9.8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=13*3mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 10.00mm  length 13mm width 3mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L13.0mm_W4.0mm_P10.00mm_FKS3_FKP3_MKS4
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=13*4mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 10.00mm  length 13mm width 4mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L13.0mm_W5.0mm_P10.00mm_FKS3_FKP3_MKS4
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=13*5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 10.00mm  length 13mm width 5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L13.0mm_W6.0mm_P10.00mm_FKS3_FKP3_MKS4
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=13*6mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 10.00mm  length 13mm width 6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L13.0mm_W6.5mm_P7.50mm_P10.00mm
+C, Rect series, Radial, pin pitch=7.50mm 10.00mm, , length*width=13*6.5mm^2, Capacitor
+C Rect series Radial pin pitch 7.50mm 10.00mm  length 13mm width 6.5mm Capacitor
+0
+4
+2
+Capacitor_THT
+C_Rect_L13.0mm_W8.0mm_P10.00mm_FKS3_FKP3_MKS4
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=13*8mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 10.00mm  length 13mm width 8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L13.5mm_W4.0mm_P10.00mm_FKS3_FKP3_MKS4
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=13.5*4mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 10.00mm  length 13.5mm width 4mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L13.5mm_W5.0mm_P10.00mm_FKS3_FKP3_MKS4
+C, Rect series, Radial, pin pitch=10.00mm, , length*width=13.5*5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 10.00mm  length 13.5mm width 5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W4.7mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*4.7mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 4.7mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W4.9mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*4.9mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 4.9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W5.0mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*5mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W6.0mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*6mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W7.0mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*7mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 7mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W7.3mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*7.3mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 7.3mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W8.7mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*8.7mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 8.7mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W8.9mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*8.9mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 8.9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W9.0mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*9mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W9.2mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*9.2mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 9.2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W10.7mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*10.7mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 10.7mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W10.9mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*10.9mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 10.9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W11.2mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*11.2mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 11.2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W11.8mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*11.8mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 11.8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W13.5mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*13.5mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 13.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W13.7mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*13.7mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 13.7mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L16.5mm_W13.9mm_P15.00mm_MKT
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*13.9mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 13.9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L18.0mm_W5.0mm_P15.00mm_FKS3_FKP3
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=18*5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf
+C Rect series Radial pin pitch 15.00mm  length 18mm width 5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=18*6mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf
+C Rect series Radial pin pitch 15.00mm  length 18mm width 6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L18.0mm_W7.0mm_P15.00mm_FKS3_FKP3
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=18*7mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf
+C Rect series Radial pin pitch 15.00mm  length 18mm width 7mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=18*8mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf
+C Rect series Radial pin pitch 15.00mm  length 18mm width 8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L18.0mm_W9.0mm_P15.00mm_FKS3_FKP3
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=18*9mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf
+C Rect series Radial pin pitch 15.00mm  length 18mm width 9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L18.0mm_W11.0mm_P15.00mm_FKS3_FKP3
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=18*11mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf
+C Rect series Radial pin pitch 15.00mm  length 18mm width 11mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L19.0mm_W5.0mm_P15.00mm_MKS4
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=19*5mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 15.00mm  length 19mm width 5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L19.0mm_W6.0mm_P15.00mm_MKS4
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=19*6mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 15.00mm  length 19mm width 6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L19.0mm_W7.0mm_P15.00mm_MKS4
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=19*7mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 15.00mm  length 19mm width 7mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L19.0mm_W8.0mm_P15.00mm_MKS4
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=19*8mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 15.00mm  length 19mm width 8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L19.0mm_W9.0mm_P15.00mm_MKS4
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=19*9mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 15.00mm  length 19mm width 9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L19.0mm_W11.0mm_P15.00mm_MKS4
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=19*11mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 15.00mm  length 19mm width 11mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L24.0mm_W7.0mm_P22.50mm_MKT
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=24*7mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 22.50mm  length 24mm width 7mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L24.0mm_W8.3mm_P22.50mm_MKT
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=24*8.3mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 22.50mm  length 24mm width 8.3mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L24.0mm_W8.6mm_P22.50mm_MKT
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=24*8.6mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 22.50mm  length 24mm width 8.6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L24.0mm_W10.1mm_P22.50mm_MKT
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=24*10.1mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 22.50mm  length 24mm width 10.1mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L24.0mm_W10.3mm_P22.50mm_MKT
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=24*10.3mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 22.50mm  length 24mm width 10.3mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L24.0mm_W10.9mm_P22.50mm_MKT
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=24*10.9mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 22.50mm  length 24mm width 10.9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L24.0mm_W12.2mm_P22.50mm_MKT
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=24*12.2mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 22.50mm  length 24mm width 12.2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L24.0mm_W12.6mm_P22.50mm_MKT
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=24*12.6mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 22.50mm  length 24mm width 12.6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L24.0mm_W12.8mm_P22.50mm_MKT
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=24*12.8mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 22.50mm  length 24mm width 12.8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L26.5mm_W5.0mm_P22.50mm_MKS4
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=26.5*5mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 22.50mm  length 26.5mm width 5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L26.5mm_W6.0mm_P22.50mm_MKS4
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=26.5*6mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 22.50mm  length 26.5mm width 6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L26.5mm_W7.0mm_P22.50mm_MKS4
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=26.5*7mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 22.50mm  length 26.5mm width 7mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L26.5mm_W8.5mm_P22.50mm_MKS4
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=26.5*8.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 22.50mm  length 26.5mm width 8.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L26.5mm_W10.5mm_P22.50mm_MKS4
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=26.5*10.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 22.50mm  length 26.5mm width 10.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L26.5mm_W11.5mm_P22.50mm_MKS4
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=26.5*11.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 22.50mm  length 26.5mm width 11.5mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L27.0mm_W9.0mm_P22.00mm
+C, Rect series, Radial, pin pitch=22.00mm, , length*width=27*9mm^2, Capacitor
+C Rect series Radial pin pitch 22.00mm  length 27mm width 9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L27.0mm_W9.0mm_P23.00mm
+C, Rect series, Radial, pin pitch=23.00mm, , length*width=27*9mm^2, Capacitor
+C Rect series Radial pin pitch 23.00mm  length 27mm width 9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L27.0mm_W11.0mm_P22.00mm
+C, Rect series, Radial, pin pitch=22.00mm, , length*width=27*11mm^2, Capacitor
+C Rect series Radial pin pitch 22.00mm  length 27mm width 11mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L28.0mm_W8.0mm_P22.50mm_MKS4
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=28*8mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 22.50mm  length 28mm width 8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L28.0mm_W10.0mm_P22.50mm_MKS4
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=28*10mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 22.50mm  length 28mm width 10mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L28.0mm_W12.0mm_P22.50mm_MKS4
+C, Rect series, Radial, pin pitch=22.50mm, , length*width=28*12mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 22.50mm  length 28mm width 12mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L29.0mm_W7.6mm_P27.50mm_MKT
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=29*7.6mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 27.50mm  length 29mm width 7.6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L29.0mm_W7.8mm_P27.50mm_MKT
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=29*7.8mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 27.50mm  length 29mm width 7.8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L29.0mm_W7.9mm_P27.50mm_MKT
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=29*7.9mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 27.50mm  length 29mm width 7.9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L29.0mm_W9.1mm_P27.50mm_MKT
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=29*9.1mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 27.50mm  length 29mm width 9.1mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L29.0mm_W9.6mm_P27.50mm_MKT
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=29*9.6mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 27.50mm  length 29mm width 9.6mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L29.0mm_W11.0mm_P27.50mm_MKT
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=29*11mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 27.50mm  length 29mm width 11mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L29.0mm_W11.9mm_P27.50mm_MKT
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=29*11.9mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 27.50mm  length 29mm width 11.9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L29.0mm_W12.2mm_P27.50mm_MKT
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=29*12.2mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 27.50mm  length 29mm width 12.2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L29.0mm_W13.0mm_P27.50mm_MKT
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=29*13mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 27.50mm  length 29mm width 13mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L29.0mm_W13.8mm_P27.50mm_MKT
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=29*13.8mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 27.50mm  length 29mm width 13.8mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L29.0mm_W14.2mm_P27.50mm_MKT
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=29*14.2mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 27.50mm  length 29mm width 14.2mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L29.0mm_W16.0mm_P27.50mm_MKT
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=29*16mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 27.50mm  length 29mm width 16mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L31.5mm_W9.0mm_P27.50mm_MKS4
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=31.5*9mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 27.50mm  length 31.5mm width 9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L31.5mm_W11.0mm_P27.50mm_MKS4
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=31.5*11mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 27.50mm  length 31.5mm width 11mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L31.5mm_W13.0mm_P27.50mm_MKS4
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=31.5*13mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 27.50mm  length 31.5mm width 13mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L31.5mm_W15.0mm_P27.50mm_MKS4
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=31.5*15mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 27.50mm  length 31.5mm width 15mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L31.5mm_W17.0mm_P27.50mm_MKS4
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=31.5*17mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 27.50mm  length 31.5mm width 17mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L31.5mm_W20.0mm_P27.50mm_MKS4
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=31.5*20mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 27.50mm  length 31.5mm width 20mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L32.0mm_W15.0mm_P27.00mm
+C, Rect series, Radial, pin pitch=27.00mm, , length*width=32*15mm^2, Capacitor
+C Rect series Radial pin pitch 27.00mm  length 32mm width 15mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L33.0mm_W13.0mm_P27.50mm_MKS4
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=33*13mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 27.50mm  length 33mm width 13mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L33.0mm_W15.0mm_P27.50mm_MKS4
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=33*15mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 27.50mm  length 33mm width 15mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L33.0mm_W20.0mm_P27.50mm_MKS4
+C, Rect series, Radial, pin pitch=27.50mm, , length*width=33*20mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 27.50mm  length 33mm width 20mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L41.5mm_W9.0mm_P37.50mm_MKS4
+C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*9mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 37.50mm  length 41.5mm width 9mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L41.5mm_W11.0mm_P37.50mm_MKS4
+C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*11mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 37.50mm  length 41.5mm width 11mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L41.5mm_W13.0mm_P37.50mm_MKS4
+C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*13mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 37.50mm  length 41.5mm width 13mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L41.5mm_W15.0mm_P37.50mm_MKS4
+C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*15mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 37.50mm  length 41.5mm width 15mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L41.5mm_W17.0mm_P37.50mm_MKS4
+C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*17mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 37.50mm  length 41.5mm width 17mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L41.5mm_W19.0mm_P37.50mm_MKS4
+C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*19mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 37.50mm  length 41.5mm width 19mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L41.5mm_W20.0mm_P37.50mm_MKS4
+C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*20mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 37.50mm  length 41.5mm width 20mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L41.5mm_W24.0mm_P37.50mm_MKS4
+C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*24mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 37.50mm  length 41.5mm width 24mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L41.5mm_W31.0mm_P37.50mm_MKS4
+C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*31mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 37.50mm  length 41.5mm width 31mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L41.5mm_W35.0mm_P37.50mm_MKS4
+C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*35mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 37.50mm  length 41.5mm width 35mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Rect_L41.5mm_W40.0mm_P37.50mm_MKS4
+C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*40mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 37.50mm  length 41.5mm width 40mm Capacitor
+0
+2
+2
