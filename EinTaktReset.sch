@@ -157,13 +157,13 @@ F 3 "" H 10050 9450 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 Text GLabel 10750 3550 2    60   Input ~ 0
-en-ln1
+~en-ln1
 $Comp
 L allBonsaiSymbolLibs:74xx_74HCT541_PWR U3
 U 1 1 57E935F2
 P 7150 2200
 F 0 "U3" V 7000 1950 50  0000 C CNN
-F 1 "74HCT541_PWR" V 7350 2150 50  0000 C CNN
+F 1 "74HC541" V 7350 2150 50  0000 C CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" H 7150 2200 50  0001 C CNN
 F 3 "" H 7150 2200 50  0000 C CNN
 	1    7150 2200
@@ -228,17 +228,6 @@ F 2 "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical" H 9400 100 50  
 F 3 "" H 9400 100 50  0000 C CNN
 	1    9400 1300
 	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_02x10_Odd_Even P1
-U 1 1 5A2833E0
-P 5350 1300
-F 0 "P1" H 5350 1850 50  0000 C CNN
-F 1 "CONN_02X10" V 5350 1300 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical" H 5350 100 50  0001 C CNN
-F 3 "" H 5350 100 50  0000 C CNN
-	1    5350 1300
-	-1   0    0    -1  
 $EndComp
 $Comp
 L allBonsaiSymbolLibs:power_GND #PWR015
@@ -383,96 +372,53 @@ F 3 "" H 10100 12300 50  0000 C CNN
 	1    10100 12300
 	-1   0    0    1   
 $EndComp
-Text Label 6650 1450 1    60   ~ 0
-a0
-Text Label 6750 1450 1    60   ~ 0
-a1
-Text Label 6850 1450 1    60   ~ 0
-a2
-Text Label 6950 1450 1    60   ~ 0
-a3
-Text Label 7050 1450 1    60   ~ 0
-a4
-Text Label 7150 1450 1    60   ~ 0
-a5
-Text Label 7250 1450 1    60   ~ 0
-a6
 Text Label 7350 1450 1    60   ~ 0
+a0
+Text Label 7250 1450 1    60   ~ 0
+a1
+Text Label 7150 1450 1    60   ~ 0
+a2
+Text Label 7050 1450 1    60   ~ 0
+a3
+Text Label 6950 1450 1    60   ~ 0
+a4
+Text Label 6850 1450 1    60   ~ 0
+a5
+Text Label 6750 1450 1    60   ~ 0
+a6
+Text Label 6650 1450 1    60   ~ 0
 a7
 Entry Wire Line
-	5700 1000 5800 1100
+	8750 900  8850 1000
 Entry Wire Line
-	5700 1100 5800 1200
+	8750 1000 8850 1100
 Entry Wire Line
-	5700 1200 5800 1300
+	8750 1100 8850 1200
 Entry Wire Line
-	5700 1300 5800 1400
+	8750 1200 8850 1300
 Entry Wire Line
-	5700 1400 5800 1500
+	8750 1300 8850 1400
 Entry Wire Line
-	5700 1500 5800 1600
+	8750 1400 8850 1500
 Entry Wire Line
-	5700 1600 5800 1700
+	8750 1500 8850 1600
 Entry Wire Line
-	5700 1700 5800 1800
-Text Label 5650 1000 2    60   ~ 0
+	8750 1600 8850 1700
+Text Label 9000 1700 0    60   ~ 0
 a0
-Text Label 5650 1100 2    60   ~ 0
+Text Label 9000 1600 0    60   ~ 0
 a1
-Text Label 5650 1200 2    60   ~ 0
+Text Label 9000 1500 0    60   ~ 0
 a2
-Text Label 5650 1300 2    60   ~ 0
+Text Label 9000 1400 0    60   ~ 0
 a3
-Text Label 5650 1400 2    60   ~ 0
+Text Label 9000 1300 0    60   ~ 0
 a4
-Text Label 5650 1500 2    60   ~ 0
+Text Label 9000 1200 0    60   ~ 0
 a5
-Text Label 5650 1600 2    60   ~ 0
+Text Label 9000 1100 0    60   ~ 0
 a6
-Text Label 5650 1700 2    60   ~ 0
-a7
-$Comp
-L allBonsaiSymbolLibs:power_GND #PWR030
-U 1 1 5A384C6C
-P 5300 1950
-F 0 "#PWR030" H 5300 1700 50  0001 C CNN
-F 1 "GND" H 5300 1800 50  0000 C CNN
-F 2 "" H 5300 1950 50  0001 C CNN
-F 3 "" H 5300 1950 50  0001 C CNN
-	1    5300 1950
-	1    0    0    -1  
-$EndComp
-Entry Wire Line
-	8950 900  9050 1000
-Entry Wire Line
-	8950 1000 9050 1100
-Entry Wire Line
-	8950 1100 9050 1200
-Entry Wire Line
-	8950 1200 9050 1300
-Entry Wire Line
-	8950 1300 9050 1400
-Entry Wire Line
-	8950 1400 9050 1500
-Entry Wire Line
-	8950 1500 9050 1600
-Entry Wire Line
-	8950 1600 9050 1700
-Text Label 9100 1000 0    60   ~ 0
-a0
-Text Label 9100 1100 0    60   ~ 0
-a1
-Text Label 9100 1200 0    60   ~ 0
-a2
-Text Label 9100 1300 0    60   ~ 0
-a3
-Text Label 9100 1400 0    60   ~ 0
-a4
-Text Label 9100 1500 0    60   ~ 0
-a5
-Text Label 9100 1600 0    60   ~ 0
-a6
-Text Label 9100 1700 0    60   ~ 0
+Text Label 9000 1000 0    60   ~ 0
 a7
 $Comp
 L allBonsaiSymbolLibs:power_GND #PWR031
@@ -486,23 +432,23 @@ F 3 "" H 9400 1950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 10750 2850 2    60   Input ~ 0
-en-ln2
+~en-ln2
 Text GLabel 10450 13350 2    60   Input ~ 0
 clrPC
 Text GLabel 10450 13600 2    60   Input ~ 0
 clrAkku
 Text GLabel 10450 13100 2    60   Input ~ 0
-loadIR
+~loadIR
 Text GLabel 10450 12850 2    60   Input ~ 0
-enAkku
+~enAkku
 Text GLabel 10450 12600 2    60   Input ~ 0
-clrMPC
+~clrMPC
 Text GLabel 10450 11600 2    60   Input ~ 0
 enDEC
 Text GLabel 10450 11250 2    60   Input ~ 0
 enSTW
 Text GLabel 10450 10850 2    60   Input ~ 0
-auto
+~auto
 Text GLabel 10450 10050 2    60   Input ~ 0
 CLK
 $Comp
@@ -516,28 +462,24 @@ F 3 "" H 5600 3200 60  0000 C CNN
 	1    5600 3150
 	-1   0    0    -1  
 $EndComp
-Text GLabel 10150 7700 0    60   Input ~ 0
+Text GLabel 10150 8200 0    60   Input ~ 0
 clrPC
-Text GLabel 10150 8050 0    60   Input ~ 0
+Text GLabel 10150 8550 0    60   Input ~ 0
 clrAkku
-Text GLabel 10150 7350 0    60   Input ~ 0
-loadIR
-Text GLabel 10150 7250 0    60   Input ~ 0
-enAkku
-Text GLabel 10150 7150 0    60   Input ~ 0
-clrMPC
-Text GLabel 10150 6350 0    60   Input ~ 0
+Text GLabel 10050 7700 0    60   Input ~ 0
+~loadIR
+Text GLabel 10050 7500 0    60   Input ~ 0
+~enAkku
+Text GLabel 10050 7300 0    60   Input ~ 0
+~clrMPC
+Text GLabel 10150 6100 0    60   Input ~ 0
 enDEC
-Text GLabel 10150 6450 0    60   Input ~ 0
+Text GLabel 10150 6200 0    60   Input ~ 0
 enSTW
-Text GLabel 10150 6900 0    60   Input ~ 0
-auto
-Text GLabel 10150 6250 0    60   Input ~ 0
+Text GLabel 10150 6000 0    60   Input ~ 0
 CLK
-Text GLabel 10150 6800 0    60   Input ~ 0
-en-ln2
-Text GLabel 10150 6700 0    60   Input ~ 0
-en-ln1
+Text GLabel 10050 6550 0    60   Input ~ 0
+~en-ln1
 $Comp
 L allBonsaiSymbolLibs:power_GND #PWR034
 U 1 1 5A6CD1C3
@@ -641,61 +583,33 @@ Wire Wire Line
 Connection ~ 9700 12850
 Connection ~ 10100 13100
 Wire Wire Line
-	5550 1000 5700 1000
+	9200 900  9100 900 
 Wire Wire Line
-	5550 1100 5700 1100
+	9200 1000 8850 1000
 Wire Wire Line
-	5550 1200 5700 1200
+	9200 1100 8850 1100
 Wire Wire Line
-	5550 1300 5700 1300
+	9200 1200 8850 1200
 Wire Wire Line
-	5550 1400 5700 1400
+	9200 1300 8850 1300
 Wire Wire Line
-	5550 1500 5700 1500
+	9200 1400 8850 1400
 Wire Wire Line
-	5550 1600 5700 1600
+	9200 1500 8850 1500
 Wire Wire Line
-	5550 1700 5700 1700
+	9100 900  9100 750 
 Wire Wire Line
-	5550 900  5650 900 
+	9100 750  9700 750 
 Wire Wire Line
-	5650 900  5650 750 
+	9200 1600 8850 1600
 Wire Wire Line
-	5650 750  5050 750 
+	9200 1700 8850 1700
 Wire Wire Line
-	5550 1800 5650 1800
-Wire Wire Line
-	5650 1800 5650 1950
-Wire Wire Line
-	5650 1950 5300 1950
-Wire Wire Line
-	9200 900  9050 900 
-Wire Wire Line
-	9200 1000 9050 1000
-Wire Wire Line
-	9200 1100 9050 1100
-Wire Wire Line
-	9200 1200 9050 1200
-Wire Wire Line
-	9200 1300 9050 1300
-Wire Wire Line
-	9200 1400 9050 1400
-Wire Wire Line
-	9200 1500 9050 1500
-Wire Wire Line
-	9050 900  9050 750 
-Wire Wire Line
-	9050 750  9700 750 
-Wire Wire Line
-	9200 1600 9050 1600
-Wire Wire Line
-	9200 1700 9050 1700
-Wire Wire Line
-	9200 1800 9050 1800
+	9200 1800 9100 1800
 Wire Wire Line
 	9700 1950 9400 1950
 Wire Wire Line
-	9050 1950 9050 1800
+	9100 1950 9100 1800
 Wire Wire Line
 	6650 2900 6650 3000
 Wire Wire Line
@@ -759,9 +673,6 @@ Wire Wire Line
 	10600 9450 10600 9500
 Wire Wire Line
 	7900 2200 7900 2250
-Connection ~ 5300 1950
-Connection ~ 5800 1250
-Connection ~ 8950 1250
 Connection ~ 9400 1950
 Wire Wire Line
 	9700 750  9700 900 
@@ -776,41 +687,21 @@ Connection ~ 9700 1600
 Connection ~ 9700 1700
 Connection ~ 9700 1800
 Wire Wire Line
-	5050 1950 5050 1800
-Connection ~ 5050 1800
-Connection ~ 5050 900 
-Connection ~ 5050 1000
-Connection ~ 5050 1100
-Connection ~ 5050 1200
-Connection ~ 5050 1300
-Connection ~ 5050 1400
-Connection ~ 5050 1500
-Connection ~ 5050 1600
-Connection ~ 5050 1700
-Wire Wire Line
 	9200 9550 9200 9450
 Wire Wire Line
-	10250 6250 10150 6250
+	10250 6000 10150 6000
 Wire Wire Line
-	10150 6350 10250 6350
+	10150 6100 10250 6100
 Wire Wire Line
-	10250 6450 10150 6450
+	10250 6200 10150 6200
 Wire Wire Line
-	10150 6700 10250 6700
+	10050 6550 10250 6550
 Wire Wire Line
-	10250 6800 10150 6800
+	10250 7300 10050 7300
 Wire Wire Line
-	10150 6900 10250 6900
+	10150 8200 10250 8200
 Wire Wire Line
-	10250 7150 10150 7150
-Wire Wire Line
-	10150 7250 10250 7250
-Wire Wire Line
-	10250 7350 10150 7350
-Wire Wire Line
-	10150 7700 10250 7700
-Wire Wire Line
-	10250 8050 10150 8050
+	10250 8550 10150 8550
 Wire Wire Line
 	950  2900 1100 2900
 Wire Wire Line
@@ -862,9 +753,7 @@ Wire Wire Line
 Wire Wire Line
 	7000 4600 7050 4600
 Wire Wire Line
-	5300 1950 5050 1950
-Wire Wire Line
-	9400 1950 9050 1950
+	9400 1950 9100 1950
 Wire Wire Line
 	9700 900  9700 1000
 Wire Wire Line
@@ -885,26 +774,6 @@ Wire Wire Line
 	9700 1700 9700 1800
 Wire Wire Line
 	9700 1800 9700 1950
-Wire Wire Line
-	5050 1800 5050 1700
-Wire Wire Line
-	5050 900  5050 750 
-Wire Wire Line
-	5050 1000 5050 900 
-Wire Wire Line
-	5050 1100 5050 1000
-Wire Wire Line
-	5050 1200 5050 1100
-Wire Wire Line
-	5050 1300 5050 1200
-Wire Wire Line
-	5050 1400 5050 1300
-Wire Wire Line
-	5050 1500 5050 1400
-Wire Wire Line
-	5050 1600 5050 1500
-Wire Wire Line
-	5050 1700 5050 1600
 Wire Wire Line
 	1850 13900 1850 14000
 Wire Wire Line
@@ -1550,27 +1419,25 @@ Connection ~ 3800 2900
 $Comp
 L Connector_Generic:Conn_01x02 J5
 U 1 1 608FC200
-P 10450 7600
-F 0 "J5" H 10450 7400 50  0000 C CNN
-F 1 "Conn_01x02" H 10368 7366 50  0001 C CNN
-F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 10450 7600 50  0001 C CNN
-F 3 "~" H 10450 7600 50  0001 C CNN
-	1    10450 7600
+P 10450 8100
+F 0 "J5" H 10450 7900 50  0000 C CNN
+F 1 "Conn_01x02" H 10368 7866 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 10450 8100 50  0001 C CNN
+F 3 "~" H 10450 8100 50  0001 C CNN
+	1    10450 8100
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J6
 U 1 1 608FCF1D
-P 10450 7950
-F 0 "J6" H 10450 7750 50  0000 C CNN
-F 1 "Conn_01x02" H 10368 7716 50  0001 C CNN
-F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 10450 7950 50  0001 C CNN
-F 3 "~" H 10450 7950 50  0001 C CNN
-	1    10450 7950
+P 10450 8450
+F 0 "J6" H 10450 8250 50  0000 C CNN
+F 1 "Conn_01x02" H 10368 8216 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 10450 8450 50  0001 C CNN
+F 3 "~" H 10450 8450 50  0001 C CNN
+	1    10450 8450
 	1    0    0    -1  
 $EndComp
-NoConn ~ 10250 7600
-NoConn ~ 10250 7950
 Wire Wire Line
 	7650 2950 7850 2950
 Wire Wire Line
@@ -1589,34 +1456,34 @@ Wire Wire Line
 $Comp
 L Connector_Generic:Conn_01x03 J2
 U 1 1 60DAD2F9
-P 10450 6350
-F 0 "J2" H 10530 6392 50  0000 L CNN
-F 1 "Conn_01x03" H 10530 6301 50  0000 L CNN
-F 2 "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" H 10450 6350 50  0001 C CNN
-F 3 "~" H 10450 6350 50  0001 C CNN
-	1    10450 6350
+P 10450 6100
+F 0 "J2" H 10530 6142 50  0000 L CNN
+F 1 "Conn_01x03" H 10530 6051 50  0000 L CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" H 10450 6100 50  0001 C CNN
+F 3 "~" H 10450 6100 50  0001 C CNN
+	1    10450 6100
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x03 J3
 U 1 1 60DAE7DF
-P 10450 6800
-F 0 "J3" H 10530 6842 50  0000 L CNN
-F 1 "Conn_01x03" H 10530 6751 50  0000 L CNN
-F 2 "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" H 10450 6800 50  0001 C CNN
-F 3 "~" H 10450 6800 50  0001 C CNN
-	1    10450 6800
+P 10450 6650
+F 0 "J3" H 10530 6692 50  0000 L CNN
+F 1 "Conn_01x03" H 10530 6601 50  0000 L CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" H 10450 6650 50  0001 C CNN
+F 3 "~" H 10450 6650 50  0001 C CNN
+	1    10450 6650
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x03 J4
 U 1 1 60DAEC87
-P 10450 7250
-F 0 "J4" H 10530 7292 50  0000 L CNN
-F 1 "Conn_01x03" H 10530 7201 50  0000 L CNN
-F 2 "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" H 10450 7250 50  0001 C CNN
-F 3 "~" H 10450 7250 50  0001 C CNN
-	1    10450 7250
+P 10450 7400
+F 0 "J4" H 10530 7442 50  0000 L CNN
+F 1 "Conn_01x03" H 10530 7351 50  0000 L CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" H 10450 7400 50  0001 C CNN
+F 3 "~" H 10450 7400 50  0001 C CNN
+	1    10450 7400
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2498,14 +2365,165 @@ Wire Wire Line
 	6850 3100 6850 4000
 Wire Wire Line
 	6650 3000 6650 4000
+Text GLabel 10050 6750 0    60   Input ~ 0
+~en-ln2
+Text GLabel 10050 6950 0    60   Input ~ 0
+~auto
+Wire Wire Line
+	10050 6750 10100 6750
+Wire Wire Line
+	10100 6750 10100 6650
+Wire Wire Line
+	10100 6650 10250 6650
+Wire Wire Line
+	10050 6950 10200 6950
+Wire Wire Line
+	10200 6950 10200 6750
+Wire Wire Line
+	10200 6750 10250 6750
+Wire Wire Line
+	10250 7400 10150 7400
+Wire Wire Line
+	10150 7400 10150 7500
+Wire Wire Line
+	10150 7500 10050 7500
+Wire Wire Line
+	10250 7500 10250 7700
+Wire Wire Line
+	10250 7700 10050 7700
+Wire Wire Line
+	10250 8100 10250 8200
+Connection ~ 10250 8200
+Wire Wire Line
+	10250 8450 10250 8550
+Connection ~ 10250 8550
+Wire Wire Line
+	5050 1600 5050 1500
+Wire Wire Line
+	5050 1500 5050 1400
+Wire Wire Line
+	5050 1400 5050 1300
+Wire Wire Line
+	5050 1300 5050 1200
+Wire Wire Line
+	5050 1200 5050 1100
+Wire Wire Line
+	5050 1100 5050 1000
+Wire Wire Line
+	5050 1000 5050 900 
+Wire Wire Line
+	5050 900  5050 800 
+Wire Wire Line
+	5050 800  5050 650 
+Wire Wire Line
+	5050 1700 5050 1600
+Wire Wire Line
+	5300 1850 5050 1850
+Connection ~ 5050 1600
+Connection ~ 5050 1500
+Connection ~ 5050 1400
+Connection ~ 5050 1300
+Connection ~ 5050 1200
+Connection ~ 5050 1100
+Connection ~ 5050 1000
+Connection ~ 5050 900 
+Connection ~ 5050 800 
+Connection ~ 5050 1700
+Wire Wire Line
+	5050 1850 5050 1700
+Connection ~ 5300 1850
+Wire Wire Line
+	5650 1850 5300 1850
+Wire Wire Line
+	5650 1700 5650 1850
+Wire Wire Line
+	5550 1700 5650 1700
+Wire Wire Line
+	5650 650  5050 650 
+Wire Wire Line
+	5650 800  5650 650 
+Wire Wire Line
+	5550 800  5650 800 
+Wire Wire Line
+	5550 1600 5850 1600
+Wire Wire Line
+	5550 1500 5850 1500
+Wire Wire Line
+	5550 1400 5850 1400
+Wire Wire Line
+	5550 1300 5850 1300
+Wire Wire Line
+	5550 1200 5850 1200
+Wire Wire Line
+	5550 1100 5850 1100
+Wire Wire Line
+	5550 1000 5850 1000
+Wire Wire Line
+	5550 900  5850 900 
+$Comp
+L allBonsaiSymbolLibs:power_GND #PWR030
+U 1 1 5A384C6C
+P 5300 1850
+F 0 "#PWR030" H 5300 1600 50  0001 C CNN
+F 1 "GND" H 5300 1700 50  0000 C CNN
+F 2 "" H 5300 1850 50  0001 C CNN
+F 3 "" H 5300 1850 50  0001 C CNN
+	1    5300 1850
+	1    0    0    -1  
+$EndComp
+Text Label 5700 900  2    60   ~ 0
+a7
+Text Label 5700 1000 2    60   ~ 0
+a6
+Text Label 5700 1100 2    60   ~ 0
+a5
+Text Label 5700 1200 2    60   ~ 0
+a4
+Text Label 5700 1300 2    60   ~ 0
+a3
+Text Label 5700 1400 2    60   ~ 0
+a2
+Text Label 5700 1500 2    60   ~ 0
+a1
+Text Label 5700 1600 2    60   ~ 0
+a0
+Entry Wire Line
+	5850 1600 5950 1700
+Entry Wire Line
+	5850 1500 5950 1600
+Entry Wire Line
+	5850 1400 5950 1500
+Entry Wire Line
+	5850 1300 5950 1400
+Entry Wire Line
+	5850 1200 5950 1300
+Entry Wire Line
+	5850 1100 5950 1200
+Entry Wire Line
+	5850 1000 5950 1100
+Entry Wire Line
+	5850 900  5950 1000
+$Comp
+L Connector_Generic:Conn_02x10_Odd_Even P1
+U 1 1 5A2833E0
+P 5350 1200
+F 0 "P1" H 5350 1750 50  0000 C CNN
+F 1 "CONN_02X10" V 5350 1200 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical" H 5350 0   50  0001 C CNN
+F 3 "" H 5350 0   50  0000 C CNN
+	1    5350 1200
+	-1   0    0    -1  
+$EndComp
+Connection ~ 8750 1250
+Connection ~ 5950 1250
 Wire Bus Line
-	5800 1100 5800 1250
+	5950 1000 5950 1250
 Wire Bus Line
-	8950 1250 8950 1600
+	8750 900  8750 1250
 Wire Bus Line
-	8950 900  8950 1250
+	8750 1250 8750 1600
 Wire Bus Line
-	5800 1250 5800 1800
+	5950 1250 5950 1700
 Wire Bus Line
-	5800 1250 8950 1250
+	5950 1250 8750 1250
 $EndSCHEMATC

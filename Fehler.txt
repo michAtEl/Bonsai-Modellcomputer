@@ -2,3 +2,5 @@ Steuerwerk:
 - Beschriftung enAkku falsch? writeAkku steht da?
 - Transistor Beinchen vertauscht?
 
+Befehle:
+- Beschriftung upPC sollte incPC heißen?
