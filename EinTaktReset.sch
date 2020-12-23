@@ -438,9 +438,9 @@ clrPC
 Text GLabel 10450 13600 2    60   Input ~ 0
 clrAkku
 Text GLabel 10450 13100 2    60   Input ~ 0
-~loadIR
+~readIR
 Text GLabel 10450 12850 2    60   Input ~ 0
-~enAkku
+~writeAccu
 Text GLabel 10450 12600 2    60   Input ~ 0
 ~clrMPC
 Text GLabel 10450 11600 2    60   Input ~ 0
@@ -467,9 +467,9 @@ clrPC
 Text GLabel 10150 8550 0    60   Input ~ 0
 clrAkku
 Text GLabel 10050 7700 0    60   Input ~ 0
-~loadIR
+~readIR
 Text GLabel 10050 7500 0    60   Input ~ 0
-~enAkku
+~writeAccu
 Text GLabel 10050 7300 0    60   Input ~ 0
 ~clrMPC
 Text GLabel 10150 6100 0    60   Input ~ 0
