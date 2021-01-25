@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name bonsai-power)(type Legacy)(uri ${KIPRJMOD}/bonsai-power.lib)(options "")(descr ""))
+  (lib (name bonsai_power)(type Legacy)(uri ${KIPRJMOD}/bonsai_power.lib)(options "")(descr ""))
+)

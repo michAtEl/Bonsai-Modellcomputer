@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Barrel_Jack_Switch
+D DC Barrel Jack with an internal switch
+K DC power barrel jack connector
+F ~
+$ENDCMP
+#
+$CMP CLIFF_FCR681465P
+D DC Barrel Jack with an internal switch
+K DC power barrel jack connector
+F ~
+$ENDCMP
+#
+$CMP FQP27P06
+D -27A Id, -60V Vds, QFET P-Channel MOSFET, TO-220
+K QFET P-Channel MOSFET
+F https://www.onsemi.com/pub/Collateral/FQP27P06-D.PDF
+$ENDCMP
+#
+$CMP IRF4905
+D -74A Id, -55V Vds, Single P-Channel HEXFET Power MOSFET, 20mOhm Ron, TO-220AB
+K Single P-Channel HEXFET Power MOSFET
+F http://www.infineon.com/dgdl/irf4905.pdf?fileId=5546d462533600a4015355e32165197c
+$ENDCMP
+#
+$CMP IRF9530
+D -12A Id, -100V Vds, 300mOhm Rds, P-Channel HEXFET Power MOSFET, TO-220
+K P-Channel MOSFET HEXFET
+F http://www.irf.com/product-info/datasheets/data/irf9530.pdf
+$ENDCMP
+#
+#End Doc Library
