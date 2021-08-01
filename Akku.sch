@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title ""
 Date ""
-Rev ""
+Rev "2.0"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -2306,6 +2306,7 @@ Wire Wire Line
 Connection ~ 1500 8400
 Wire Wire Line
 	1500 9450 1500 9350
+Connection ~ 1500 9350
 Wire Bus Line
 	8800 6300 11900 6300
 Wire Bus Line
@@ -2322,5 +2323,4 @@ Wire Bus Line
 	4450 1050 4450 2600
 Wire Bus Line
 	9450 3300 12050 3300
-Connection ~ 1500 9350
 $EndSCHEMATC

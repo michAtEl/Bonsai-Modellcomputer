@@ -4,9 +4,9 @@ EELAYER END
 $Descr A3 11693 16535 portrait
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "EinTaktReset"
 Date ""
-Rev ""
+Rev "2.0"
 Comp ""
 Comment1 ""
 Comment2 ""

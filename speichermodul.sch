@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "speichermodul"
 Date "13 sep 2016"
-Rev ""
+Rev "2.0"
 Comp ""
 Comment1 ""
 Comment2 ""
