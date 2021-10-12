@@ -29,10 +29,13 @@ Die Pläne wurden mit KiCad gezeichnet. In den *.sch-Dateien befinden sich die S
 Es werden nur bedrahtete Bauteile (keine SMD-Bauteile) verwendet, da bedrahtete Bauteile von Lötanfängern (z.B. Schülern) leichter bestückt werden können. Es ist sinnvoll, bei allen ICs je einen Sockel zu verwenden.
 
 ## Platinen zusammenbauen
-Man kann sich an der Verdrahtungsanleitung von Klaus Merkert (https://www.hsg-kl.de/faecher/inf/material/bonsai/bau/verdraht/index.php) sowie am Bild des Prototypen auf dieser Seite orientieren.
+Bei der Verdrahtung kann man sich orientieren
+- [am Bild des Prototypen](Prototyp.jpg)
+- [Verdrahtung](Verdrahtung.svg) Tipp: Datei in Inkscape öffnen; die Datei ist im Maßstab 1:1 gezeichnet
+- an der Verdrahtungsanleitung von Klaus Merkert (https://www.hsg-kl.de/faecher/inf/material/bonsai/bau/verdraht/index.php)
 
 Crimpanleitung für die Steckverbinder Reichelt PSK: https://www.reichelt.de/reicheltpedia/index.php/Crimp_Anleitungen#Crimpen_von_PSK-Kontakten
 
 Als Flachbandkabel kann man alte IDE-Kabel verwenden. Mann muss jedoch einige Leitungen abtrennen und neue Stecker crimpen.
 
-Die Kabelhalter können mit einem 3D-Drucker gedruckt werden. Eine OpenSCAD-Datei befindet sich im Ordner Kabelhalter.
+Die Kabelhalter können mit einem 3D-Drucker gedruckt werden. Eine OpenSCAD-Datei befindet sich im Ordner Kabelhalter: [Kabelhalter.scad](Kabelhalter/Kabelhalter.scad)
