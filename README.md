@@ -10,7 +10,7 @@ Ziel dieses Projektes ist es deshalb, eine Version des Bonsai-Modellcomputer zu 
 # Projekstatus
 Der Prototyp funktioniert und wurde im Unterricht eingesetzt. In den Github-Issues sind einige kleinere Probleme beschrieben, die vor einem weiteren Nachbau behoben werden könnten.
 
-![Prototyp des Bonsai-Modellcomputers](Prototyp.jpg)
+![Bonsai-Modellcomputer](Bonsai.jpg)
 
 # Änderungen gegenüber den Plänen von Klaus Merkert
 - Die Namen und Reihenfolge der Steuersignale wurden an den Simulator angepasst (vgl. https://bonsai.pinyto.de/documentation/micro/)
@@ -30,7 +30,7 @@ Es werden nur bedrahtete Bauteile (keine SMD-Bauteile) verwendet, da bedrahtete 
 
 ## Platinen zusammenbauen
 Bei der Verdrahtung kann man sich orientieren
-- [am Bild des Prototypen](Prototyp.jpg)
+- [am Bild des Computers](Bonsai.jpg)
 - [Verdrahtung](Verdrahtung.svg) Tipp: Datei in Inkscape öffnen; die Datei ist im Maßstab 1:1 gezeichnet
 - an der Verdrahtungsanleitung von Klaus Merkert (https://www.hsg-kl.de/faecher/inf/material/bonsai/bau/verdraht/index.php)
 
