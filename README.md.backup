@@ -44,5 +44,9 @@ Die Kabelhalter können mit einem 3D-Drucker gedruckt werden. Eine OpenSCAD-Date
 Der Bonsai läuft mit einer Gleichspannung von 5V. Es mehrere Möglichkeiten, wie man diese Spannung bereitstellen kann:
 
 - Man verwendet ein Festspannungsnetzteil, das 5V ausgibt. Aus Lochrasterplatinenmaterial baut man eine Platine, auf der sich eine Buchse für das Netzteil sowie sechs 2-polige Steckerleisten für 2-polige PSK-Stecker befinden (pro Platine eine Steckerleiste).
-- Man baut eine kleine Platine mit einem Festspannungsregler (7805). Dazu kann man z.B. die Platine im Ordner power verwenden. Diese Platine ist jedoch so breit, dass sie nicht in den aktuellen Verdrahtungsplan passt. Alternativ kann man eine Platine mit einem 7805 auch auf Lochrastermaterial (oder Streifenrastermaterial) aufbauen. 
-- 
+- Man baut eine kleine Platine mit einem Festspannungsregler (7805). Dazu kann man z.B. die Platine im Ordner power verwenden. Diese Platine ist jedoch so breit, dass sie nicht in den aktuellen Verdrahtungsplan passt. Alternativ kann man eine Platine mit einem 7805 auch auf Lochrastermaterial (oder Streifenrastermaterial) aufbauen.
+
+## Helligkeit der LEDs
+Die Leds sind sehr hell. Bei einem Nachbau könnte man größere Vorwiderstände verwenden. Nach der Anschaffung der LEDs könnte man die Helligkeit einer LED bei verschiedenen Vorwiderständen ausprobieren (Led in Reihe schalten mit Vorwiderstand) und dann festlegen, welchen Vorwiderstand man verwendet.
+
+Bei LEDs, die von einem Pin eines 74HCXX getrieben werden, sollte der Vorwiderstand mindestens 600Ohm betragen, wenn man innerhalb der Empfehlungen von TI bleiben möchte (vgl. Issue #5). Dies gilt jedoch nicht für die LEDs, die von einem 74HC540 oder 74HC541 getrieben werden.

@@ -1,0 +1,1669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Michael\Projekte\bonsai-kicad\Befehle\Befehle.kicad_sch</source>
+    <date>3/11/2024 6:01:41 PM</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Befehle</title>
+        <company>AGI</company>
+        <rev>2.0</rev>
+        <date>2019-02-11</date>
+        <source>Befehle.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>CP</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P2.50mm</footprint>
+      <libsource lib="Befehle-rescue" part="CP-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061b6a5d9</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Befehle-rescue" part="C_Small-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ad62dcf</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Befehle-rescue" part="C_Small-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ad62ed1</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Befehle-rescue" part="C_Small-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061a32419</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Befehle-rescue" part="C_Small-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061a5b770</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Befehle-rescue" part="C_Small-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061a5ba2b</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Befehle-rescue" part="C_Small-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061a5bdfb</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Befehle-rescue" part="C_Small-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061add114</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Befehle-rescue" part="C_Small-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061add40a</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Befehle-rescue" part="C_Small-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa406da</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>Led_Small</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e94020</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>Led_Small</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e94088</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>Led_Small</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e940d8</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>Led_Small</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e9412e</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>Led_Small</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e94186</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>Led_Small</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e941e2</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>Led_Small</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e94242</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e942a6</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>Led_Small</value>
+      <footprint>bonsai:LED_Diodenmatrix</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580eab66</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>Led_Small</value>
+      <footprint>bonsai:LED_Diodenmatrix</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580eaa2d</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>bonsai_Led_Small_Platzhalter</value>
+      <footprint>bonsai:LED_Diodenmatrix_Platzhalter</footprint>
+      <libsource lib="Befehle-rescue" part="bonsai_Led_Small_Platzhalter-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617fb38c</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>bonsai_Led_Small_Platzhalter</value>
+      <footprint>bonsai:LED_Diodenmatrix_Platzhalter</footprint>
+      <libsource lib="Befehle-rescue" part="bonsai_Led_Small_Platzhalter-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617fb5aa</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>Led_Small</value>
+      <footprint>bonsai:LED_Diodenmatrix</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580eabeb</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>bonsai_Led_Small_Platzhalter</value>
+      <footprint>bonsai:LED_Diodenmatrix_Platzhalter</footprint>
+      <libsource lib="Befehle-rescue" part="bonsai_Led_Small_Platzhalter-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617fab40</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>bonsai_Led_Small_Platzhalter</value>
+      <footprint>bonsai:LED_Diodenmatrix_Platzhalter</footprint>
+      <libsource lib="Befehle-rescue" part="bonsai_Led_Small_Platzhalter-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617fae2f</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>bonsai_Led_Small_Platzhalter</value>
+      <footprint>bonsai:LED_Diodenmatrix_Platzhalter</footprint>
+      <libsource lib="Befehle-rescue" part="bonsai_Led_Small_Platzhalter-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617fb869</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>Led_Small</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057fbf0ed</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>bonsai_Led_Small_Platzhalter</value>
+      <footprint>bonsai:LED_Diodenmatrix_Platzhalter</footprint>
+      <libsource lib="Befehle-rescue" part="bonsai_Led_Small_Platzhalter-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617b23ff</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>Led_Small</value>
+      <footprint>bonsai:LED_Diodenmatrix</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580eac8e</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>bonsai_Led_Small_Platzhalter</value>
+      <footprint>bonsai:LED_Diodenmatrix_Platzhalter</footprint>
+      <libsource lib="Befehle-rescue" part="bonsai_Led_Small_Platzhalter-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617fb092</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>bonsai_Led_Small_Platzhalter</value>
+      <footprint>bonsai:LED_Diodenmatrix_Platzhalter</footprint>
+      <libsource lib="Befehle-rescue" part="bonsai_Led_Small_Platzhalter-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617fbb54</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>bonsai_Led_Small_Platzhalter</value>
+      <footprint>bonsai:LED_Diodenmatrix_Platzhalter</footprint>
+      <libsource lib="Befehle-rescue" part="bonsai_Led_Small_Platzhalter-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617fa5f3</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>bonsai_Led_Small_Platzhalter</value>
+      <footprint>bonsai:LED_Diodenmatrix_Platzhalter</footprint>
+      <libsource lib="Befehle-rescue" part="bonsai_Led_Small_Platzhalter-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617fa873</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>Led_Small</value>
+      <footprint>bonsai:LED_Diodenmatrix</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580eae00</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>Led_Small</value>
+      <footprint>bonsai:LED_Diodenmatrix</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580ead43</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="Led_Small-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e9a927</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="Led_Small-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e9a89e</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="Led_Small-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e9a814</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="Led_Small-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e9a417</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000582b68a1</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Befehle-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000582ac971</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>D</value>
+      <footprint>Diode_THT:D_A-405_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="D-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005aba7a1b</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_02x10_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x10_Odd_Even" description="Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa4d952</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fd023a3</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04</value>
+      <footprint>Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fd5252b</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_02x10_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x10_Odd_Even" description="Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ff0031e</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x02</value>
+      <footprint>Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fd6db7b</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x04</value>
+      <footprint>Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa7535b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e93bbb</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e93cda</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e93d22</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e93d69</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e93dab</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e93de4</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e93e32</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e93e85</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>4,7k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057fbf2f2</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057fbeff9</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>4,7k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000582b55b4</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e9a129</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e9a0ac</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e9a030</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e99efd</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000582b6652</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000582aa727</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>4,7k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000582a32c5</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>4,7k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580f54f3</tstamps>
+    </comp>
+    <comp ref="RP1">
+      <value>R_PACK4BUSSED</value>
+      <footprint>Resistor_THT:R_Array_SIP5</footprint>
+      <libsource lib="Befehle-rescue" part="R_PACK4BUSSED-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a5fcaf2</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>74HC14</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm_Socket_LongPads</footprint>
+      <libsource lib="Befehle-rescue" part="74LS14-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a2a5408 00000000-0000-0000-0000-00005a2a55c6 00000000-0000-0000-0000-00005ffb4b97 00000000-0000-0000-0000-00005ad7dcfa 00000000-0000-0000-0000-00005ad7db58 00000000-0000-0000-0000-00005ad7ddf7 00000000-0000-0000-0000-00005a2a45ab</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>74HC541</value>
+      <footprint>Package_DIP:DIP-20_W7.62mm_Socket_LongPads</footprint>
+      <libsource lib="Befehle-rescue" part="74LS541-74xx-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e94f18</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>74HC540</value>
+      <footprint>Package_DIP:DIP-20_W7.62mm_Socket_LongPads</footprint>
+      <libsource lib="Befehle-rescue" part="74LS540-74xx-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e93afb</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>74HC139</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm_Socket_LongPads</footprint>
+      <libsource lib="Befehle-rescue" part="74LS139-74xx-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fefe0b9 00000000-0000-0000-0000-00005fe911f7 00000000-0000-0000-0000-000057e9588c</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>74HCT373</value>
+      <footprint>Package_DIP:DIP-20_W7.62mm_Socket_LongPads</footprint>
+      <libsource lib="Befehle-rescue" part="74LS373-74xx-allBonsaiSymbolLibs" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057e94d2e</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>74HC540</value>
+      <footprint>Package_DIP:DIP-20_W7.62mm_Socket_LongPads</footprint>
+      <libsource lib="Befehle-rescue" part="74540-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a28303b 00000000-0000-0000-0000-00005a282f54 00000000-0000-0000-0000-00005a282e5f 00000000-0000-0000-0000-00005fabdf86 00000000-0000-0000-0000-00005a287d96 00000000-0000-0000-0000-00005a2905c7 00000000-0000-0000-0000-00005fdf73e3 00000000-0000-0000-0000-00005fdf6728 00000000-0000-0000-0000-00005a282c7c</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>74HCT02</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm_Socket_LongPads</footprint>
+      <libsource lib="Befehle-rescue" part="7402-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa4b3e7 00000000-0000-0000-0000-00005fa48e71 00000000-0000-0000-0000-00005fa4a451 00000000-0000-0000-0000-00005fe07063 00000000-0000-0000-0000-00005fa47363</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>74HC08</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm_Socket_LongPads</footprint>
+      <libsource lib="Befehle-rescue" part="7408-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fffb7c2 00000000-0000-0000-0000-00005fff8fce 00000000-0000-0000-0000-00005fffc51c 00000000-0000-0000-0000-00005fca45e9 00000000-0000-0000-0000-00005fae8681</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>74HC00</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm_Socket_LongPads</footprint>
+      <libsource lib="Befehle-rescue" part="7400-Bonsai" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Befehle.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ff4c3e3 00000000-0000-0000-0000-00005ff6cd43 00000000-0000-0000-0000-00005fd74bad 00000000-0000-0000-0000-00005fd25f35 00000000-0000-0000-0000-00005fd25346</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Befehle-rescue" part="7400-Bonsai">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Bonsai_7400</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="output"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="7402-Bonsai">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Bonsai_7402</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="input"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="output"/>
+        <pin num="11" name="" type="input"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="output"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="7408-Bonsai">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Bonsai_7408</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="output"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="74540-Bonsai">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Bonsai_74540</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{G1}" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="" type="input"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="" type="output"/>
+        <pin num="12" name="" type="output"/>
+        <pin num="13" name="" type="output"/>
+        <pin num="14" name="" type="output"/>
+        <pin num="15" name="" type="output"/>
+        <pin num="16" name="" type="output"/>
+        <pin num="17" name="" type="output"/>
+        <pin num="18" name="" type="output"/>
+        <pin num="19" name="~{G2}" type="input"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="74LS139-74xx-allBonsaiSymbolLibs">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">allBonsaiSymbolLibs_74LS139-74xx</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="input"/>
+        <pin num="2" name="A0" type="input"/>
+        <pin num="3" name="A1" type="input"/>
+        <pin num="4" name="O0" type="output"/>
+        <pin num="5" name="O1" type="output"/>
+        <pin num="6" name="O2" type="output"/>
+        <pin num="7" name="O3" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="O3" type="output"/>
+        <pin num="10" name="O2" type="output"/>
+        <pin num="11" name="O1" type="output"/>
+        <pin num="12" name="O0" type="output"/>
+        <pin num="13" name="A1" type="input"/>
+        <pin num="14" name="A0" type="input"/>
+        <pin num="15" name="E" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="74LS14-allBonsaiSymbolLibs">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">allBonsaiSymbolLibs_74LS14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="output"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="output"/>
+        <pin num="11" name="" type="input"/>
+        <pin num="12" name="" type="output"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="74LS373-74xx-allBonsaiSymbolLibs">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">allBonsaiSymbolLibs_74LS373-74xx</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OE" type="input"/>
+        <pin num="2" name="O0" type="tri_state"/>
+        <pin num="3" name="D0" type="input"/>
+        <pin num="4" name="D1" type="input"/>
+        <pin num="5" name="O1" type="tri_state"/>
+        <pin num="6" name="O2" type="tri_state"/>
+        <pin num="7" name="D2" type="input"/>
+        <pin num="8" name="D3" type="input"/>
+        <pin num="9" name="O3" type="tri_state"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="LE" type="input"/>
+        <pin num="12" name="O4" type="tri_state"/>
+        <pin num="13" name="D4" type="input"/>
+        <pin num="14" name="D5" type="input"/>
+        <pin num="15" name="O5" type="tri_state"/>
+        <pin num="16" name="O6" type="tri_state"/>
+        <pin num="17" name="D6" type="input"/>
+        <pin num="18" name="D7" type="input"/>
+        <pin num="19" name="O7" type="tri_state"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="74LS540-74xx-allBonsaiSymbolLibs">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">allBonsaiSymbolLibs_74LS540-74xx</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G1" type="input"/>
+        <pin num="2" name="A0" type="input"/>
+        <pin num="3" name="A1" type="input"/>
+        <pin num="4" name="A2" type="input"/>
+        <pin num="5" name="A3" type="input"/>
+        <pin num="6" name="A4" type="input"/>
+        <pin num="7" name="A5" type="input"/>
+        <pin num="8" name="A6" type="input"/>
+        <pin num="9" name="A7" type="input"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="Y7" type="tri_state"/>
+        <pin num="12" name="Y6" type="tri_state"/>
+        <pin num="13" name="Y5" type="tri_state"/>
+        <pin num="14" name="Y4" type="tri_state"/>
+        <pin num="15" name="Y3" type="tri_state"/>
+        <pin num="16" name="Y2" type="tri_state"/>
+        <pin num="17" name="Y1" type="tri_state"/>
+        <pin num="18" name="Y0" type="tri_state"/>
+        <pin num="19" name="G2" type="input"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="74LS541-74xx-allBonsaiSymbolLibs">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">allBonsaiSymbolLibs_74LS541-74xx</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G1" type="input"/>
+        <pin num="2" name="A0" type="input"/>
+        <pin num="3" name="A1" type="input"/>
+        <pin num="4" name="A2" type="input"/>
+        <pin num="5" name="A3" type="input"/>
+        <pin num="6" name="A4" type="input"/>
+        <pin num="7" name="A5" type="input"/>
+        <pin num="8" name="A6" type="input"/>
+        <pin num="9" name="A7" type="input"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="Y7" type="tri_state"/>
+        <pin num="12" name="Y6" type="tri_state"/>
+        <pin num="13" name="Y5" type="tri_state"/>
+        <pin num="14" name="Y4" type="tri_state"/>
+        <pin num="15" name="Y3" type="tri_state"/>
+        <pin num="16" name="Y2" type="tri_state"/>
+        <pin num="17" name="Y1" type="tri_state"/>
+        <pin num="18" name="Y0" type="tri_state"/>
+        <pin num="19" name="G2" type="input"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="CP-Device">
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">Device_CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="C_Small-allBonsaiSymbolLibs">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">allBonsaiSymbolLibs_C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="D-device-allBonsaiSymbolLibs">
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-Pak_TO252AA</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">allBonsaiSymbolLibs_D-device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="LED_Small_ALT-Device">
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">Device_LED_Small_ALT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="Led_Small-allBonsaiSymbolLibs">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">allBonsaiSymbolLibs_Led_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="R-device-allBonsaiSymbolLibs">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">allBonsaiSymbolLibs_R-device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="R_PACK4BUSSED-allBonsaiSymbolLibs">
+      <fields>
+        <field name="Reference">RP</field>
+        <field name="Value">allBonsaiSymbolLibs_R_PACK4BUSSED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Befehle-rescue" part="bonsai_Led_Small_Platzhalter-Bonsai">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">Bonsai_bonsai_Led_Small_Platzhalter</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x10_Odd_Even">
+      <description>Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x10_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Befehle-rescue">
+      <uri>C:\Users\Michael\Projekte\bonsai-kicad\Befehle/Befehle-rescue.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/AB0">
+      <node ref="J1" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="Y0" pintype="tri_state"/>
+    </net>
+    <net code="2" name="/AB1">
+      <node ref="J1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="Y1" pintype="tri_state"/>
+    </net>
+    <net code="3" name="/AB2">
+      <node ref="J1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="Y2" pintype="tri_state"/>
+    </net>
+    <net code="4" name="/AB3">
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="Y3" pintype="tri_state"/>
+    </net>
+    <net code="5" name="/AB4">
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="Y4" pintype="tri_state"/>
+    </net>
+    <net code="6" name="/AB5">
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="Y5" pintype="tri_state"/>
+    </net>
+    <net code="7" name="/AB6">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="Y6" pintype="tri_state"/>
+    </net>
+    <net code="8" name="/AB7">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="Y7" pintype="tri_state"/>
+    </net>
+    <net code="9" name="/DB0">
+      <node ref="J4" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="D0" pintype="input"/>
+      <node ref="U7" pin="2" pintype="input"/>
+    </net>
+    <net code="10" name="/DB1">
+      <node ref="J4" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="U5" pin="18" pinfunction="D7" pintype="input"/>
+      <node ref="U7" pin="3" pintype="input"/>
+    </net>
+    <net code="11" name="/DB2">
+      <node ref="J4" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="D1" pintype="input"/>
+      <node ref="U7" pin="5" pintype="input"/>
+    </net>
+    <net code="12" name="/DB3">
+      <node ref="J4" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U5" pin="17" pinfunction="D6" pintype="input"/>
+      <node ref="U7" pin="6" pintype="input"/>
+    </net>
+    <net code="13" name="/DB4">
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="D2" pintype="input"/>
+      <node ref="U7" pin="8" pintype="input"/>
+    </net>
+    <net code="14" name="/DB5">
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U5" pin="14" pinfunction="D5" pintype="input"/>
+      <node ref="U7" pin="9" pintype="input"/>
+    </net>
+    <net code="15" name="/DB6">
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U5" pin="8" pinfunction="D3" pintype="input"/>
+      <node ref="U7" pin="11" pintype="input"/>
+    </net>
+    <net code="16" name="/DB7">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U5" pin="13" pinfunction="D4" pintype="input"/>
+      <node ref="U7" pin="12" pintype="input"/>
+    </net>
+    <net code="17" name="/a0">
+      <node ref="U2" pin="2" pinfunction="A0" pintype="input"/>
+      <node ref="U3" pin="9" pinfunction="A7" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="O0" pintype="tri_state"/>
+    </net>
+    <net code="18" name="/a1">
+      <node ref="U2" pin="3" pinfunction="A1" pintype="input"/>
+      <node ref="U3" pin="8" pinfunction="A6" pintype="input"/>
+      <node ref="U5" pin="19" pinfunction="O7" pintype="tri_state"/>
+    </net>
+    <net code="19" name="/a2">
+      <node ref="U2" pin="4" pinfunction="A2" pintype="input"/>
+      <node ref="U3" pin="7" pinfunction="A5" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="O1" pintype="tri_state"/>
+    </net>
+    <net code="20" name="/a3">
+      <node ref="U2" pin="5" pinfunction="A3" pintype="input"/>
+      <node ref="U3" pin="6" pinfunction="A4" pintype="input"/>
+      <node ref="U5" pin="16" pinfunction="O6" pintype="tri_state"/>
+    </net>
+    <net code="21" name="/a4">
+      <node ref="U2" pin="6" pinfunction="A4" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="A3" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="O2" pintype="tri_state"/>
+    </net>
+    <net code="22" name="/a5">
+      <node ref="U2" pin="7" pinfunction="A5" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="A2" pintype="input"/>
+      <node ref="U5" pin="15" pinfunction="O5" pintype="tri_state"/>
+    </net>
+    <net code="23" name="/b0">
+      <node ref="U3" pin="3" pinfunction="A1" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="A0" pintype="input"/>
+      <node ref="U5" pin="9" pinfunction="O3" pintype="tri_state"/>
+    </net>
+    <net code="24" name="/b1">
+      <node ref="U3" pin="2" pinfunction="A0" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="A1" pintype="input"/>
+      <node ref="U5" pin="12" pinfunction="O4" pintype="tri_state"/>
+    </net>
+    <net code="25" name="/h0">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="O0" pintype="output"/>
+    </net>
+    <net code="26" name="/h1">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="O1" pintype="output"/>
+    </net>
+    <net code="27" name="/h2">
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="O2" pintype="output"/>
+    </net>
+    <net code="28" name="/h3">
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="O3" pintype="output"/>
+    </net>
+    <net code="29" name="/incPCz">
+      <node ref="U9" pin="2" pintype="input"/>
+      <node ref="U9" pin="6" pintype="output"/>
+    </net>
+    <net code="30" name="/is0">
+      <node ref="U6" pin="9" pintype="input"/>
+      <node ref="U8" pin="6" pintype="output"/>
+      <node ref="U9" pin="1" pintype="input"/>
+    </net>
+    <net code="31" name="/v0">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="RP1" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="U6" pin="2" pintype="input"/>
+    </net>
+    <net code="32" name="/v1">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="RP1" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="U6" pin="3" pintype="input"/>
+    </net>
+    <net code="33" name="/v2">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="RP1" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="U6" pin="4" pintype="input"/>
+    </net>
+    <net code="34" name="/v3">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="RP1" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="U6" pin="5" pintype="input"/>
+    </net>
+    <net code="35" name="/~{is0_&amp;_incPCz}">
+      <node ref="U8" pin="13" pintype="input"/>
+      <node ref="U9" pin="3" pintype="output"/>
+    </net>
+    <net code="36" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J1" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="J1" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="J1" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J1" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J4" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J4" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J4" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="J4" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="J4" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="A6" pintype="input"/>
+      <node ref="U2" pin="9" pinfunction="A7" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="G1" pintype="input"/>
+      <node ref="U3" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="19" pinfunction="G2" pintype="input"/>
+      <node ref="U4" pin="1" pinfunction="E" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="OE" pintype="input"/>
+      <node ref="U5" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="~{G1}" pintype="input"/>
+      <node ref="U6" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="19" pinfunction="~{G2}" pintype="input"/>
+      <node ref="U7" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="7" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="37" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D3-K)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D4-K)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D5-K)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D6-K)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D7-K)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D8-K)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D17-K)">
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D26-K)">
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D27-K)">
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D28-K)">
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D29-K)">
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D30-A)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D31-K)">
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pintype="output"/>
+    </net>
+    <net code="53" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U6" pin="15" pintype="output"/>
+    </net>
+    <net code="54" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U6" pin="16" pintype="output"/>
+    </net>
+    <net code="55" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U6" pin="17" pintype="output"/>
+    </net>
+    <net code="56" name="Net-(R15-Pad2)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U6" pin="18" pintype="output"/>
+    </net>
+    <net code="57" name="Net-(R17-Pad2)">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U6" pin="11" pintype="output"/>
+    </net>
+    <net code="58" name="Net-(U1-Pad2)">
+      <node ref="U1" pin="2" pintype="output"/>
+      <node ref="U1" pin="3" pintype="input"/>
+      <node ref="U1" pin="5" pintype="input"/>
+    </net>
+    <net code="59" name="Net-(U1-Pad10)">
+      <node ref="U1" pin="10" pintype="output"/>
+      <node ref="U1" pin="9" pintype="input"/>
+    </net>
+    <net code="60" name="Net-(U1-Pad11)">
+      <node ref="U1" pin="11" pintype="input"/>
+      <node ref="U1" pin="12" pintype="output"/>
+    </net>
+    <net code="61" name="Net-(U2-G1)">
+      <node ref="U1" pin="4" pintype="output"/>
+      <node ref="U2" pin="1" pinfunction="G1" pintype="input"/>
+      <node ref="U2" pin="19" pinfunction="G2" pintype="input"/>
+    </net>
+    <net code="62" name="Net-(U3-Y0)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="Y0" pintype="tri_state"/>
+    </net>
+    <net code="63" name="Net-(U3-Y1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="Y1" pintype="tri_state"/>
+    </net>
+    <net code="64" name="Net-(U3-Y2)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="Y2" pintype="tri_state"/>
+    </net>
+    <net code="65" name="Net-(U3-Y3)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="Y3" pintype="tri_state"/>
+    </net>
+    <net code="66" name="Net-(U3-Y4)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="Y4" pintype="tri_state"/>
+    </net>
+    <net code="67" name="Net-(U3-Y5)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="Y5" pintype="tri_state"/>
+    </net>
+    <net code="68" name="Net-(U3-Y6)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="Y6" pintype="tri_state"/>
+    </net>
+    <net code="69" name="Net-(U3-Y7)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="Y7" pintype="tri_state"/>
+    </net>
+    <net code="70" name="Net-(U5-LE)">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U5" pin="11" pinfunction="LE" pintype="input"/>
+      <node ref="U6" pin="12" pintype="output"/>
+    </net>
+    <net code="71" name="Net-(U7-Pad1)">
+      <node ref="U7" pin="1" pintype="output"/>
+      <node ref="U8" pin="1" pintype="input"/>
+    </net>
+    <net code="72" name="Net-(U7-Pad4)">
+      <node ref="U7" pin="4" pintype="output"/>
+      <node ref="U8" pin="2" pintype="input"/>
+    </net>
+    <net code="73" name="Net-(U7-Pad10)">
+      <node ref="U7" pin="10" pintype="output"/>
+      <node ref="U8" pin="9" pintype="input"/>
+    </net>
+    <net code="74" name="Net-(U7-Pad13)">
+      <node ref="U7" pin="13" pintype="output"/>
+      <node ref="U8" pin="10" pintype="input"/>
+    </net>
+    <net code="75" name="Net-(U8-Pad3)">
+      <node ref="U8" pin="3" pintype="output"/>
+      <node ref="U8" pin="4" pintype="input"/>
+    </net>
+    <net code="76" name="Net-(U8-Pad5)">
+      <node ref="U8" pin="5" pintype="input"/>
+      <node ref="U8" pin="8" pintype="output"/>
+    </net>
+    <net code="77" name="VCC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="RP1" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="U1" pin="13" pintype="input"/>
+      <node ref="U1" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="13" pinfunction="A1" pintype="input"/>
+      <node ref="U4" pin="14" pinfunction="A0" pintype="input"/>
+      <node ref="U4" pin="15" pinfunction="E" pintype="input"/>
+      <node ref="U4" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="6" pintype="input"/>
+      <node ref="U6" pin="7" pintype="input"/>
+      <node ref="U7" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U8" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U9" pin="10" pintype="input"/>
+      <node ref="U9" pin="12" pintype="input"/>
+      <node ref="U9" pin="13" pintype="input"/>
+      <node ref="U9" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U9" pin="9" pintype="input"/>
+    </net>
+    <net code="78" name="unconnected-(J2-Pin_2-Pad2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pintype="output+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U4B-O0-Pad12)">
+      <node ref="U4" pin="12" pinfunction="O0" pintype="output+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(U4B-O1-Pad11)">
+      <node ref="U4" pin="11" pinfunction="O1" pintype="output+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(U4B-O2-Pad10)">
+      <node ref="U4" pin="10" pinfunction="O2" pintype="output+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(U4B-O3-Pad9)">
+      <node ref="U4" pin="9" pinfunction="O3" pintype="output+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(U6-Pad13)">
+      <node ref="U6" pin="13" pintype="output+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U6-Pad14)">
+      <node ref="U6" pin="14" pintype="output+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(U9-Pad8)">
+      <node ref="U9" pin="8" pintype="output+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U9-Pad11)">
+      <node ref="U9" pin="11" pintype="output+no_connect"/>
+    </net>
+    <net code="88" name="~{incPCz}">
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U9" pin="4" pintype="input"/>
+      <node ref="U9" pin="5" pintype="input"/>
+    </net>
+    <net code="89" name="~{incPC}">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U8" pin="12" pintype="input"/>
+    </net>
+    <net code="90" name="~{readIR}">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U6" pin="8" pintype="input"/>
+    </net>
+    <net code="91" name="~{upPC}">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U8" pin="11" pintype="output"/>
+    </net>
+    <net code="92" name="~{writeIR}">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="input"/>
+    </net>
+  </nets>
+</export>
