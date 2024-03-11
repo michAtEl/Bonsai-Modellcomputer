@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "speichermodul-rescue")(type "KiCad")(uri "${KIPRJMOD}/speichermodul-rescue.kicad_sym")(options "")(descr ""))
+)

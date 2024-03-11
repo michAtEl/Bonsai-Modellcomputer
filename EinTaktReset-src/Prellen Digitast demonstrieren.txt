@@ -1,0 +1,138 @@
+/*
+ * EinTaktReset.c
+ *
+ * Created: 23.06.2023 16:48:30
+ * Author : Michael
+ */ 
+
+#include <avr/io.h>
+#include <avr/interrupt.h>
+#include <stdbool.h>
+
+
+// Makros für Zugriffe auf einzelne Pins
+#define GET_PIN(register, pin)		(register & (1 << pin)) >> pin;
+#define SET_PIN(register, pin)		register |= (1 << pin)
+#define CLEAR_PIN(register, pin)	register &= ~(1 << pin)
+
+
+
+// Port B
+#define CLK_PIN				1
+#define CLK_LED_PIN			2
+
+// Port C
+#define CLK_Poti			0		// analoger Eingang
+
+#define CLK_Speed			1		// digitaler Eingang
+#define CLK_auto_ON_OFF		2		// digitaler Eingang
+#define CLK_manual			3		// digitaler Eingang
+#define CU_ON_OFF			4		// digitaler Eingang
+#define RESET				5		// digitaler Eingang
+
+struct debounce_state
+{
+	uint8_t debounced_state;
+	uint8_t counter;
+};
+
+
+typedef struct debounce_state Debounce_state;
+
+
+volatile Debounce_state CLK_manual_debounce_state;
+
+int main(void)
+{
+
+	// Pins konfigurieren
+	// DDR: 0: Eingang
+	//      1: Ausgang
+
+	DDRB |= (1 << CLK_PIN) | (1 << CLK_LED_PIN);
+	
+	DDRC &= ~((1 < CLK_Speed) | (1 < CLK_auto_ON_OFF) | (1 < CLK_manual) | (1 < CU_ON_OFF) | (1 < RESET));
+	
+	// PORTC: Pullups aktivieren
+	PORTC = 0xff;
+	
+	// Structs für Entprellung initialiseren
+	CLK_manual_debounce_state.debounced_state = 0;
+	CLK_manual_debounce_state.counter = GET_PIN(PINC, CLK_manual);
+			
+	// Timer für den automatischen Takt des Bonsai konfigurieren
+	// CTC, Top OCR1A, normal Port Operation
+	// WGM1 = 0100
+	// Clock Select: clk/1024 (from prescaler)
+	// Interrupt OutputCompare A aktivieren
+	//TCCR1B |= (1 << WGM12) | (1 << CS12) | (1 << CS10);
+	//TIMSK1 |= (1 << OCIE1A);
+
+	//OCR1A = 1000;
+	
+	// Timer für den Systemtakt des ATmega konfigurieren
+	// CTC, TOP OCRA , normal Port Operation
+	// WGM = 010
+	// Clock Select: clk/256 (from prescaler)
+	TCCR0A |= (1 << WGM01);
+	TCCR0B |= (1 << CS02);
+	TIMSK0 |= (1 << OCIE0A);
+	
+	OCR0A = 4;
+
+	
+	sei();
+	
+    while (1)
+    {
+		if (PINC == 127)
+		//if (CLK_manual_debounce_state.debounced_state == 1)
+		{
+			PORTB = 0xff;
+		} 
+		else
+		{
+			PORTB = 0;
+		}
+			
+    }
+}
+
+
+
+void debounce(volatile Debounce_state *state, uint8_t pin)
+{
+	//uint8_t valueNow = (PINC & (1 << pin)) >> pin;
+	uint8_t valueNow = GET_PIN(PINC, pin);
+
+	if (valueNow != state->debounced_state)
+	{
+		state->counter ++;
+		if (state->counter > 10) 
+		{
+			state->counter = 0;
+			state->debounced_state = valueNow;
+		}
+	} else {
+		state->counter = 0;
+	}
+}
+
+ISR (TIMER1_COMPA_vect)
+{
+	if (PINB & (1 << CLK_PIN)) {
+		// Der Takt ist 1
+		// Takt auf 0 setzen
+		PORTB &= ~((1 << CLK_PIN) | (1 << CLK_LED_PIN));
+	} else {
+		// Der Takt ist 0
+		// Takt auf 1 setzen
+		PORTB |= (1 << CLK_PIN) | (1 << CLK_LED_PIN);
+	}
+}
+
+// ca. f = 1kHz
+ISR (TIMER0_COMPA_vect)
+{
+	debounce(&CLK_manual_debounce_state, CLK_manual);
+}
