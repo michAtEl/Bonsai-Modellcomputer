@@ -1,0 +1,11 @@
+330nF für den 7805:
+- C330C334M5R5TA			(Reichelt C3X7R 330NB50)
+Länge 7,11mm 	Breite 4,07mm 	Rastermaß 5,08mm
+0,28		0,16		0,2
+- C320C334K5R5TA91707301		(Reichelt C3X7R 330NA50
+Länge 5,08mm	Breite 3,18mm	Rasterma0 2,54mm
+0,2		0,125		0,1	inch
+
+Zener-Diode für MOSFET:
+Reichelt BZX 55C15 VIS
+Gehäuse DO-35

@@ -1,0 +1,36 @@
+https://www.reichelt.de/dc-dc-wandler-oki-78sr-8-w-5-v-1500-ma-sil-single-oki515w36c-p140735.html?&trstct=pol_1&nbc=1
+
+https://www.reichelt.de/dc-dc-wandler-r78e-5-v-1000-ma-sil-3-single-r-78e50-10-p177268.html?&trstct=pol_0&nbc=1
+
+
+Schottky-Dioden für Verpolungsschutz:
+-------------------------------------
+SBX2040-3G 
+Länge Gehäuse: 7,5mm
+Dicke Gehäuse (Durchmesser): 5,4
+Dicke Drähte: 1,6mm (Durchmesser)
+
+SBX 2030 DIO Schottkydiode, 30 V, 20 A, Axial
+Länge Gehäuse: 7,5mm
+Dicke Gehäuse (Durchmesser): 8mm
+Dicke Drähte: 1,6mm (Durchmesser)
+
+1N 6263 Schottkydiode, 70 V, DO-35 / DO-204AH
+Länge Gehäuse: 3,8mm
+Dicke Gehäuse: 2mm
+Dicke Drähte: 0.52mm (Durchmesser)
+
+1N 5819 Schottkydiode, 40 V, 1 A, DO-41
+Länge Gehäuse: 5,2mm
+Dicke Gehäuse: 2,7mm
+Dicke Drähte: 0.75mm (Durchmesser)
+
+D_DO-201AE_P12.70mm_Horizontal
+
+
+
+
+
+Sicherungshalter
+----------------
+STV PTF/15
